@@ -99,6 +99,56 @@ function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
 }
 
+// Series registry: slug -> display label + full source name + author + keywords
+const SERIES = {
+  yuewei: {
+    label: 'Notes from the Thatched Study',
+    full: 'Notes from the Thatched Study (阅微草堂笔记)',
+    author: 'Ji Yun (纪昀)',
+    author_line: 'Ji Yun (纪昀, 1724–1805)',
+    keywords: 'Ji Yun, Yuewei Caotang Biji, Qing dynasty, fox spirit, ghost story',
+  },
+  fengshen: {
+    label: 'Investiture of the Gods',
+    full: 'Investiture of the Gods (封神演义)',
+    author: 'Xu Zhonglin (许仲琳)',
+    author_line: 'Xu Zhonglin (许仲琳, Ming dynasty)',
+    keywords: 'Fengshen Yanyi, Investiture of the Gods, Chinese mythology, Shang dynasty, Jiang Ziya',
+  },
+  xiyuan: {
+    label: "The Coroner's Notebook",
+    full: 'The Washing Away of Wrongs (洗冤集录)',
+    author: 'Song Ci (宋慈)',
+    author_line: 'Song Ci (宋慈, 1186–1249)',
+    keywords: 'Song Ci, Xiyuan Jilu, forensic science, true crime, Song dynasty, coroner',
+  },
+  zibuyu: {
+    label: 'What the Master Would Not Discuss',
+    full: 'Zibuyu (子不语)',
+    author: 'Yuan Mei (袁枚)',
+    author_line: 'Yuan Mei (袁枚, 1716–1798)',
+    keywords: 'Yuan Mei, Zibuyu, Qing dynasty, gothic horror, ghost story, supernatural',
+  },
+  jinghuayuan: {
+    label: 'Flowers in the Mirror',
+    full: 'Flowers in the Mirror (镜花缘)',
+    author: 'Li Ruzhen (李汝珍)',
+    author_line: 'Li Ruzhen (李汝珍, c. 1763–1830)',
+    keywords: 'Li Ruzhen, Jinghua Yuan, Chinese fantasy, Country of Women, travelogue',
+  },
+  pinyaozhuan: {
+    label: "Quelling the Demons' Revolt",
+    full: "Quelling the Demons' Revolt (三遂平妖传)",
+    author: 'Luo Guanzhong (罗贯中)',
+    author_line: 'Luo Guanzhong (罗贯中, c. 1330–1400)',
+    keywords: "Luo Guanzhong, Sansui Pingyao Zhuan, Chinese dark fantasy, demon revolt, Ming dynasty",
+  },
+};
+
+function getSeries(slug) {
+  return SERIES[slug] || SERIES.yuewei; // default to yuewei for backwards compat
+}
+
 function formatDate(iso) {
   const d = new Date(iso);
   return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -126,6 +176,7 @@ function buildPost(filePath, template) {
   const outName = `${meta.slug}.html`;
   const tags = (meta.tags || []).join(', ');
   const titleBilingual = meta.title_zh ? `${meta.title} / ${meta.title_zh}` : meta.title;
+  const series = getSeries(meta.series);
 
   const html = applyTemplate(template, {
     TITLE: titleBilingual,
@@ -135,6 +186,11 @@ function buildPost(filePath, template) {
     DATE_FORMATTED: formatDate(meta.date),
     TALE_NUMBER: meta.tale_number || '?',
     CONTENT: fullContent,
+    SERIES_LABEL: series.label,
+    SERIES_LABEL_FULL: series.full,
+    SERIES_KEYWORDS: series.keywords,
+    AUTHOR_NAME: series.author,
+    AUTHOR_LINE: series.author_line,
     CSS_PATH: '../assets/style.css',
     HOME_PATH: '../index.html',
     ASSETS_BASE: '../assets/',

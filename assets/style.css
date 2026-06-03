@@ -82,14 +82,14 @@ body {
   color: var(--color-ink);
 }
 .brand-mark {
-  font-family: var(--font-serif-zh);
-  font-size: 2.25rem;
-  font-weight: 700;
-  color: var(--color-accent);
-  line-height: 1;
+  display: block;
+  width: 3rem;
+  height: 3rem;
+  object-fit: cover;
+  border-radius: 50%;
   border: 2px solid var(--color-accent);
-  padding: 0.15em 0.25em;
-  border-radius: 4px;
+  background: var(--color-paper, #f6efe1);
+  flex-shrink: 0;
 }
 .brand-text {
   display: flex;
@@ -361,6 +361,35 @@ body {
   color: var(--color-accent);
 }
 .about p { font-size: 1rem; color: var(--color-ink-soft); }
+.series-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+  display: grid;
+  gap: 0.9rem;
+}
+.series-list li {
+  padding: 0.85rem 1.1rem;
+  border-left: 3px solid var(--color-accent);
+  background: rgba(166, 76, 60, 0.04);
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--color-ink-soft);
+  border-radius: 0 4px 4px 0;
+}
+.series-list li strong {
+  color: var(--color-ink);
+  font-weight: 600;
+}
+.about-tag {
+  margin-top: 1.5rem;
+  padding: 0.9rem 1.1rem;
+  font-style: italic;
+  color: var(--color-ink-soft);
+  border-top: 1px solid var(--color-rule, #e3dccc);
+  border-bottom: 1px solid var(--color-rule, #e3dccc);
+  text-align: center;
+}
 .subscribe-section { text-align: center; }
 .subscribe-section p { color: var(--color-ink-soft); }
 
