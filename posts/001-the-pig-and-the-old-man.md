@@ -1,5 +1,5 @@
 ---
-title: "The Pig and the Old Man: When an Animal Remembers a Past Life"
+title: "A Pig That Hated Only One Man: A Qing Dynasty Karma Story"
 slug: "the-pig-and-the-old-man"
 date: "2026-06-03"
 series: "Notes from the Thatched Study"
@@ -7,13 +7,11 @@ volume: "Luanyang Xiaoxia Lu (Part I)"
 tale_number: 1
 title_zh: "老翁与猪"
 tags: ["karma", "reincarnation", "Buddhism", "forgiveness", "Qing dynasty", "Ji Xiaolan"]
-excerpt: "A village pig hated only one old man on sight — and the Qing scholar who recorded the story knew exactly why."
+excerpt: "A village pig charged to bite one elderly neighbor on sight — and ignored everyone else. Then the old man figured out why."
 seo_description: "A Qing dynasty tale from Ji Xiaolan's Notes from the Thatched Study: why a pig hated one specific man, and what the old man chose to do about it."
 ---
 
-# The Pig and the Old Man / 老翁与猪
-
-### *When an Animal Remembers a Past Life*
+# A Pig That Hated Only One Man / 老翁与猪
 
 *From **Notes from the Thatched Study** (阅微草堂笔记), Volume I — Luanyang Summer Records, Tale 1*
 
@@ -21,15 +19,13 @@ seo_description: "A Qing dynasty tale from Ji Xiaolan's Notes from the Thatched 
 
 ---
 
-## The Author's Preface
-
-> In the summer of the *jiyou* year of the Qianlong reign (1789), I was stationed at Luanyang (an old name for Chengde in Hebei Province, where the Qing emperors kept their summer mountain resort) to oversee the arrangement of the imperial library. The editorial work had long been completed; my only remaining duty was to supervise the clerks as they labeled and shelved the books. With long idle days, I set down whatever recollections came to mind, with no regard for orderly arrangement. I know these jottings of hearsay amount to nothing resembling serious scholarship — yet perhaps there is something in these street-corner tales that serves the cause of moral admonition. I entrusted them to a copyist for safekeeping, and named the collection: *Luanyang Summer Records* (滦阳消夏录).
+> A pig in a Qing dynasty village hated exactly one elderly neighbor. It would charge to bite him on sight — and ignore everyone else. Then the old man realized why.
 
 ---
 
-## Translation
+## The Story
 
-Hu Muting, a censor (an imperial inspector who audited other officials in Qing China), told this story:
+Hu Muting, a censor (an imperial inspector who audited other officials), told this story:
 
 In his village, a man kept a pig. Whenever the pig caught sight of a certain elderly neighbor, it would glare with fury, bellow wildly, and charge to bite him — yet it behaved normally toward everyone else.
 
@@ -39,7 +35,7 @@ Then, suddenly, he came to his senses: "Could this be what the Buddhist sutras c
 
 He purchased the pig at a fair price and delivered it to a Buddhist temple, where it was kept as a *chángshēng zhū* — a "long-life pig," an animal dedicated to the temple and spared from slaughter as an act of merit-making.
 
-After that, whenever the pig saw the old man, it lowered its ears and nuzzled up to him affectionately. It was nothing like its former ferocity.
+After that, whenever the pig saw the old man, it lowered its ears and nuzzled up to him affectionately. Nothing like its former ferocity.
 
 ---
 
@@ -60,7 +56,7 @@ This poem, I think, serves well as a commentary on the tale.
 
 ## Annotations
 
-[^karma]: **Karmic debt from a past life (夙冤, *sù yuān*):** A core Buddhist concept. *Sù* means "from long ago" or "from a previous existence"; *yuān* means "grievance" or "unjust treatment." The idea is that unresolved conflicts from previous incarnations carry forward, manifesting as irrational hostility between individuals who may have no present-day cause for enmity. This concept parallels the Western notion of "karmic baggage" but is more specific: it implies a *relationship* between two souls that must be reconciled, not merely a residue to be worked off.
+[^karma]: **Karmic debt from a past life (夙冤, *sù yuān*):** A core Buddhist concept. *Sù* means "from long ago" or "from a previous existence"; *yuān* means "grievance" or "unjust treatment." The idea is that unresolved conflicts from previous incarnations carry forward, manifesting as irrational hostility between individuals who may have no present-day cause for enmity. This is more specific than the Western idea of "karmic baggage" — it implies a *relationship* between two souls that must be reconciled, not merely a residue to be worked off.
 
 [^poem]: **The inscription poem:** This five-character regulated verse (五言律诗) encapsulates a philosophical position: ferocity is not innate but circumstantial; compassion and moral cultivation (*道力*, "the power of the Way") can dissolve even the deepest hostility. The phrase *金石心* ("heart of metal and stone") suggests an unwavering commitment to goodwill — an echo of both Buddhist *bodhicitta* and Confucian *rèn* (仁, benevolence).
 
@@ -68,19 +64,13 @@ This poem, I think, serves well as a commentary on the tale.
 
 ## Translator's Reflection
 
-This opening tale is Ji Yun at his most disarming — and most cunning.
+What got me is the old man's first reaction wasn't forgiveness — it was wanting to eat the pig out of spite. The mercy comes *after* the anger, not instead of it. That's a much more honest story than I expected from a Qing scholar writing about Buddhist virtue.
 
-On the surface, a simple village anecdote: a pig hates an old man, the old man buys the pig's freedom, and the pig becomes gentle. A tidy parable about compassion dissolving enmity.
+The pig's transformation is also more specific than I first realized. The Chinese phrase *弭耳昵就* (mǐ ěr nì jiù) literally means "ears laid flat, drawing close with intimacy." That's the body language of an animal that feels *seen* — its grudge was recognized as real and addressed, not dismissed. I missed that on my first reading.
 
-But Ji Yun buries a needle in this cotton. The old man's *first instinct* was not forgiveness — it was *cannibalistic rage*: "He wanted to buy the pig and eat its flesh." Only after a moment of reflection did he choose another path. The story does not claim that mercy comes naturally; it insists that mercy is a *deliberate decision*, made in the teeth of anger.
+Then Ji Yun does something unexpected: he doesn't end with the story. He ends with someone else's poem about someone else's painting. It took me a moment to get it — he never tells you what to think. He shows you a phenomenon, places a lens beside it, and walks away. You pick it up or you don't.
 
-The pig's transformation is equally pointed. It does not merely *tolerate* the old man — it *nuzzles* him. The Chinese phrase *弭耳昵就* (mǐ ěr nì jiù) is vivid: "ears laid flat, drawing close with intimacy." This is the body language of an animal that has been seen — whose grudge was recognized as real and addressed, not dismissed.
-
-And then Ji Yun does something characteristic: he does not end with the story. He ends with *someone else's poem* about someone else's painting. This is not carelessness. It is method. Ji Yun never tells you what to think. He shows you a phenomenon, then places a lens beside it — a painting, a poem, a classical allusion — and lets you pick it up or not.
-
-The result is a text that works on three levels simultaneously: a ghost story for the casual reader, a moral argument for the Confucian, and a meditation on the nature of transformation for the Buddhist. All in 120 characters of classical Chinese.
-
-That economy is the real marvel.
+All of this in about 120 characters of classical Chinese. I keep coming back to that.
 
 ---
 
@@ -96,5 +86,18 @@ That economy is the real marvel.
 > 尝见孙重画伏虎应真，有巴西李衍题曰：至人骑猛虎，驭之犹骐骥。岂伊本驯良，道力消其鸷。乃知天地间，有情皆可契，共保金石心，无为多畏忌。可为此事作解也。
 
 *Source: 《阅微草堂笔记·滦阳消夏录卷一·第一则》 — Public domain.*
+
+</details>
+
+<details class="historical-context">
+<summary>🏛️ Historical Context · 历史背景</summary>
+
+### The Author's Preface
+
+In the summer of the *jiyou* year of the Qianlong reign (1789), Ji Yun was stationed at Luanyang (an old name for Chengde in Hebei Province, where the Qing emperors kept their summer mountain resort) to oversee the arrangement of the imperial library. The editorial work had long been completed; his only remaining duty was to supervise the clerks as they labeled and shelved the books. With long idle days, he set down whatever recollections came to mind, with no regard for orderly arrangement. He knew these jottings of hearsay amounted to nothing resembling serious scholarship — yet perhaps there was something in these street-corner tales that served the cause of moral admonition. He entrusted them to a copyist for safekeeping, and named the collection: *Luanyang Summer Records* (滦阳消夏录).
+
+### About the Collection
+
+*Notes from the Thatched Study* (阅微草堂笔记) is a five-part collection of *bǐjì* (笔记, "brush notes" — a genre of informal jottings mixing anecdotes, observations, and commentary). Ji Yun (1724–1805), also known as Ji Xiaolan, was one of Qing China's most powerful scholars — he served as chief editor of the *Siku Quanshu* (四库全书), the largest literary compilation in Chinese history. Unlike the more famous *Liaozhai Zhiyi* (Strange Tales from a Chinese Studio) by Pu Songling, Ji Yun's tales are deliberately sparse: he gives you the incident and steps back, trusting the reader to draw the conclusion.
 
 </details>

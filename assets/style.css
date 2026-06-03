@@ -451,6 +451,53 @@ details.original-text em {
 }
 
 /* ============================================
+   Historical Context (collapsible, slate-blue accent)
+   ============================================ */
+details.historical-context {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  background: var(--color-paper-warm);
+  border-left: 3px solid #4a6b8a;
+  border-radius: 2px;
+}
+details.historical-context > summary {
+  cursor: pointer;
+  font-family: var(--font-serif-en, var(--font-serif-zh));
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: #4a6b8a;
+  list-style: none;
+  user-select: none;
+  padding: 0.25rem 0;
+}
+details.historical-context > summary::-webkit-details-marker { display: none; }
+details.historical-context > summary::before {
+  content: "▶ ";
+  display: inline-block;
+  margin-right: 0.5rem;
+  transition: transform 0.2s ease;
+  font-size: 0.75rem;
+}
+details.historical-context[open] > summary::before {
+  transform: rotate(90deg);
+}
+details.historical-context[open] > summary {
+  margin-bottom: 0.75rem;
+  border-bottom: 1px dashed var(--color-rule);
+  padding-bottom: 0.75rem;
+}
+details.historical-context h3 {
+  font-size: 1.05rem;
+  margin: 1.25rem 0 0.5rem;
+  color: #2d3e54;
+}
+details.historical-context p {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--color-ink);
+}
+
+/* ============================================
    Mobile
    ============================================ */
 @media (max-width: 640px) {
