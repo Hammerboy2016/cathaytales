@@ -182,6 +182,38 @@ function copyStatic() {
   }
 }
 
+const SITE_URL = 'https://cathaytales.com';
+
+function buildSitemap(posts) {
+  const urls = [
+    { loc: `${SITE_URL}/`, lastmod: new Date().toISOString().slice(0, 10), priority: '1.0' },
+    ...posts.map(p => ({
+      loc: `${SITE_URL}/${p.outPath.replace(/\.html$/, '')}`,
+      lastmod: p.date,
+      priority: '0.8',
+    })),
+  ];
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.map(u => `  <url>
+    <loc>${u.loc}</loc>
+    <lastmod>${u.lastmod}</lastmod>
+    <priority>${u.priority}</priority>
+  </url>`).join('\n')}
+</urlset>
+`;
+  fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), xml);
+}
+
+function buildRobots() {
+  const txt = `User-agent: *
+Allow: /
+
+Sitemap: ${SITE_URL}/sitemap.xml
+`;
+  fs.writeFileSync(path.join(DIST_DIR, 'robots.txt'), txt);
+}
+
 function main() {
   ensureDir(DIST_DIR);
   ensureDir(DIST_POSTS_DIR);
@@ -195,6 +227,8 @@ function main() {
   const posts = postFiles.map(f => buildPost(path.join(POSTS_DIR, f), postTemplate));
 
   buildIndex(posts, indexTemplate);
+  buildSitemap(posts);
+  buildRobots();
 
   console.log(`✓ Built ${posts.length} post(s)`);
   console.log(`✓ Output: ${DIST_DIR}`);
