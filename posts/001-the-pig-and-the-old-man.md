@@ -1,5 +1,5 @@
 ---
-title: "The Pig and the Old Man / 老翁与猪: A Tale of Karmic Debt"
+title: "The Pig and the Old Man: A Tale of Karmic Debt"
 slug: "the-pig-and-the-old-man"
 date: "2026-06-03"
 series: "Notes from the Thatched Study"

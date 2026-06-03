@@ -124,9 +124,10 @@ function buildPost(filePath, template) {
 
   const outName = `${meta.slug}.html`;
   const tags = (meta.tags || []).join(', ');
+  const titleBilingual = meta.title_zh ? `${meta.title} / ${meta.title_zh}` : meta.title;
 
   const html = applyTemplate(template, {
-    TITLE: meta.title,
+    TITLE: titleBilingual,
     SEO_DESCRIPTION: meta.seo_description || meta.excerpt || '',
     TAGS: tags,
     DATE: meta.date,
