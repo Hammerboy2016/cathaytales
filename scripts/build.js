@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Thatched Study — Static Site Generator
+ * Cathay Tales — Static Site Generator
  *
  * Usage:
  *   node scripts/build.js
