@@ -143,15 +143,20 @@ function buildPost(filePath, template) {
 
 function buildIndex(posts, template) {
   const sorted = posts.sort((a, b) => (a.tale_number || 0) - (b.tale_number || 0));
-  const cards = sorted.map(p => `
+  const cards = sorted.map(p => {
+    const titleHtml = p.title_zh
+      ? `${p.title} <span class="title-zh">/ ${p.title_zh}</span>`
+      : p.title;
+    return `
     <article class="tale-card">
       <a href="${p.outPath}">
         <div class="meta">Tale ${p.tale_number || '?'} · ${formatDate(p.date)}</div>
-        <h3>${p.title}</h3>
+        <h3>${titleHtml}</h3>
         <p class="excerpt">${p.excerpt || ''}</p>
       </a>
     </article>
-  `).join('');
+  `;
+  }).join('');
 
   const html = template.replace('{{TALE_LIST}}', cards);
   fs.writeFileSync(path.join(DIST_DIR, 'index.html'), html);

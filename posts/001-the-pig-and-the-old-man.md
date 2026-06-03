@@ -1,16 +1,17 @@
 ---
-title: "The Pig and the Old Man: A Tale of Karmic Debt"
+title: "The Pig and the Old Man / 老翁与猪: A Tale of Karmic Debt"
 slug: "the-pig-and-the-old-man"
 date: "2026-06-03"
 series: "Notes from the Thatched Study"
 volume: "Luanyang Xiaoxia Lu (Part I)"
 tale_number: 1
+title_zh: "老翁与猪"
 tags: ["karma", "reincarnation", "Buddhism", "forgiveness", "Qing dynasty", "Ji Xiaolan"]
 excerpt: "A pig that attacks only one old man reveals a debt from a past life — and a path to reconciliation."
 seo_description: "A Qing dynasty tale from Ji Xiaolan's Notes from the Thatched Study about a pig harboring karmic grudge, and the old man who chose compassion over revenge."
 ---
 
-# The Pig and the Old Man: A Tale of Karmic Debt
+# The Pig and the Old Man / 老翁与猪: A Tale of Karmic Debt
 
 *From **Notes from the Thatched Study** (阅微草堂笔记), Volume I — Luanyang Summer Records, Tale 1*
 
@@ -21,14 +22,6 @@ seo_description: "A Qing dynasty tale from Ji Xiaolan's Notes from the Thatched 
 ## The Author's Preface
 
 > In the summer of the *jiyou* year of the Qianlong reign (1789), I was stationed at Luanyang[^1] to oversee the arrangement of the imperial library. The editorial work had long been completed; my only remaining duty was to supervise the clerks as they labeled and shelved the books. With long idle days, I set down whatever recollections came to mind, with no regard for orderly arrangement. I know these jottings of hearsay amount to nothing resembling serious scholarship — yet perhaps there is something in these street-corner tales that serves the cause of moral admonition. I entrusted them to a copyist for safekeeping, and named the collection: *Luanyang Summer Records* (滦阳消夏录).
-
----
-
-## Original Text
-
-> 胡御史牧亭言：其里有人畜一猪，见邻叟辄瞋目狂吼，奔突欲噬，见他人则否。邻叟初甚怒之，欲买而啖其肉。既而憬然省曰："此殆佛经所谓夙冤耶！世无不可解之冤。"乃以善价赎得，送佛寺为长生猪。后再见之，弭耳昵就，非复曩态矣。
->
-> 尝见孙重画伏虎应真，有巴西李衍题曰：至人骑猛虎，驭之犹骐骥。岂伊本驯良，道力消其鸷。乃知天地间，有情皆可契，共保金石心，无为多畏忌。可为此事作解也。
 
 ---
 
@@ -100,3 +93,17 @@ That economy is the real marvel.
 ---
 
 *Next tale: **The Fox in the Study** — a fox spirit exposes the hypocrisy of a virtuous official, and flees only before a simple, illiterate servant woman.* → [Coming soon]
+
+---
+
+<details class="original-text">
+<summary>📜 Original Text in Classical Chinese · 文言原文</summary>
+
+> 胡御史牧亭言：其里有人畜一猪，见邻叟辄瞋目狂吼，奔突欲噬，见他人则否。邻叟初甚怒之，欲买而啖其肉。既而憬然省曰："此殆佛经所谓夙冤耶！世无不可解之冤。"乃以善价赎得，送佛寺为长生猪。后再见之，弭耳昵就，非复曩态矣。
+>
+> 尝见孙重画伏虎应真，有巴西李衍题曰：至人骑猛虎，驭之犹骐骥。岂伊本驯良，道力消其鸷。乃知天地间，有情皆可契，共保金石心，无为多畏忌。可为此事作解也。
+
+*Source: 《阅微草堂笔记·滦阳消夏录卷一·第一则》 — Public domain.*
+
+</details>
+
