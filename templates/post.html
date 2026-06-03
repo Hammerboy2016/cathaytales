@@ -44,6 +44,12 @@
   <!-- Google AdSense placeholder — replace ca-pub-XXXXX with real publisher ID when approved -->
   <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossorigin="anonymous"></script> -->
 
+  <!-- Favicon & social image -->
+  <link rel="icon" href="{{ASSETS_BASE}}favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="{{ASSETS_BASE}}apple-touch-icon.png">
+  <meta property="og:image" content="https://cathaytales.com/assets/og-image.png">
+  <meta name="twitter:image" content="https://cathaytales.com/assets/og-image.png">
+
   <link rel="stylesheet" href="{{CSS_PATH}}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -78,9 +84,19 @@
 
       <div class="post-footer">
         <hr>
+        <div class="tip-jar">
+          <p class="tip-jar-lead">
+            <strong>If this tale brightened your day,</strong> consider tossing me a tea — it helps me translate the next one.
+          </p>
+          <a class="kofi-btn" href="https://ko-fi.com/cathaytales" target="_blank" rel="noopener">
+            <span class="kofi-emoji">🍵</span>
+            <span>Buy me a tea on Ko-fi</span>
+          </a>
+        </div>
+
         <p class="cta">
-          <strong>Enjoyed this tale?</strong>
-          Subscribe to receive one annotated story from <em>Notes from the Thatched Study</em> each week — straight to your inbox.
+          <strong>Prefer email?</strong>
+          Subscribe to get one annotated story straight to your inbox each week.
         </p>
         <form class="subscribe-form" action="#" method="post">
           <input type="email" name="email" placeholder="your@email.com" required>
@@ -92,6 +108,12 @@
       </div>
     </article>
   </main>
+
+  <!-- Floating Ko-fi support button (all pages) -->
+  <a class="kofi-float" href="https://ko-fi.com/cathaytales" target="_blank" rel="noopener" aria-label="Support Cathay Tales on Ko-fi">
+    <span class="kofi-float-emoji">🍵</span>
+    <span class="kofi-float-text">Tip</span>
+  </a>
 
   <footer class="site-footer">
     <div class="container">

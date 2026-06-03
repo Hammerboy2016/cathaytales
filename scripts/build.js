@@ -136,6 +136,7 @@ function buildPost(filePath, template) {
     CONTENT: fullContent,
     CSS_PATH: '../assets/style.css',
     HOME_PATH: '../index.html',
+    ASSETS_BASE: '../assets/',
   });
 
   fs.writeFileSync(path.join(DIST_POSTS_DIR, outName), html);
