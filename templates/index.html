@@ -94,10 +94,13 @@
     <section id="subscribe" class="subscribe-section">
       <h2>Subscribe</h2>
       <p>Several annotated tales per week — fox spirits, forensic case files, demon hunts — free, by email.</p>
-      <form class="subscribe-form" action="#" method="post">
+      <form class="subscribe-form" id="subscribe-form-home" onsubmit="event.preventDefault(); this.style.display='none'; document.getElementById('subscribe-pending-home').style.display='block';">
         <input type="email" name="email" placeholder="your@email.com" required>
         <button type="submit">Subscribe</button>
       </form>
+      <div id="subscribe-pending-home" class="subscribe-pending" style="display:none;">
+        🍵 Thanks! Our auto-confirm newsletter is being set up — we'll email you the moment it goes live. In the meantime, please <a href="https://ko-fi.com/cathaytales" target="_blank" rel="noopener">follow us on Ko-fi</a> for instant updates on each new tale.
+      </div>
 
       <div class="tip-jar tip-jar-home">
         <p class="tip-jar-lead">

@@ -105,10 +105,13 @@
           <strong>Prefer email?</strong>
           Subscribe to get annotated stories straight to your inbox — fox spirits, forensic case files, demon hunts, gothic horror.
         </p>
-        <form class="subscribe-form" action="#" method="post">
+        <form class="subscribe-form" id="subscribe-form-post" onsubmit="event.preventDefault(); this.style.display='none'; document.getElementById('subscribe-pending-post').style.display='block';">
           <input type="email" name="email" placeholder="your@email.com" required>
           <button type="submit">Subscribe — it's free</button>
         </form>
+        <div id="subscribe-pending-post" class="subscribe-pending" style="display:none;">
+          🍵 Thanks! Our auto-confirm newsletter is being set up — we'll email you the moment it goes live. In the meantime, please <a href="https://ko-fi.com/cathaytales" target="_blank" rel="noopener">follow us on Ko-fi</a> for instant updates on each new tale.
+        </div>
         <p class="kdp-promo">
           The complete annotated editions will be available on <strong>Amazon Kindle &amp; Paperback</strong> · <em>coming soon</em>.
         </p>
