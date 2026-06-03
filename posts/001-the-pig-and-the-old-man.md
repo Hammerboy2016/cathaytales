@@ -1,5 +1,5 @@
 ---
-title: "A Pig That Hated Only One Man: A Qing Dynasty Karma Story"
+title: "A Pig That Hated Only One Man: A Qing Dynasty Ghost Story"
 slug: "the-pig-and-the-old-man"
 date: "2026-06-03"
 series: "Notes from the Thatched Study"
@@ -8,10 +8,10 @@ tale_number: 1
 title_zh: "老翁与猪"
 tags: ["karma", "reincarnation", "Buddhism", "forgiveness", "Qing dynasty", "Ji Xiaolan"]
 excerpt: "A village pig charged to bite one elderly neighbor on sight — and ignored everyone else. Then the old man figured out why."
-seo_description: "A Qing dynasty tale from Ji Xiaolan's Notes from the Thatched Study: why a pig hated one specific man, and what the old man chose to do about it."
+seo_description: "A Qing dynasty ghost story from Ji Xiaolan's Notes from the Thatched Study: why a pig hated one specific man, and what the old man chose to do about it."
 ---
 
-# A Pig That Hated Only One Man / 老翁与猪
+# A Pig That Hated Only One Man: A Qing Dynasty Ghost Story / 老翁与猪
 
 *From **Notes from the Thatched Study** (阅微草堂笔记), Volume I — Luanyang Summer Records, Tale 1*
 
@@ -54,19 +54,11 @@ This poem, I think, serves well as a commentary on the tale.
 
 ---
 
-## Annotations
-
-[^karma]: **Karmic debt from a past life (夙冤, *sù yuān*):** A core Buddhist concept. *Sù* means "from long ago" or "from a previous existence"; *yuān* means "grievance" or "unjust treatment." The idea is that unresolved conflicts from previous incarnations carry forward, manifesting as irrational hostility between individuals who may have no present-day cause for enmity. This is more specific than the Western idea of "karmic baggage" — it implies a *relationship* between two souls that must be reconciled, not merely a residue to be worked off.
-
-[^poem]: **The inscription poem:** This five-character regulated verse (五言律诗) encapsulates a philosophical position: ferocity is not innate but circumstantial; compassion and moral cultivation (*道力*, "the power of the Way") can dissolve even the deepest hostility. The phrase *金石心* ("heart of metal and stone") suggests an unwavering commitment to goodwill — an echo of both Buddhist *bodhicitta* and Confucian *rèn* (仁, benevolence).
-
----
-
 ## Translator's Reflection
 
 What got me is the old man's first reaction wasn't forgiveness — it was wanting to eat the pig out of spite. The mercy comes *after* the anger, not instead of it. That's a much more honest story than I expected from a Qing scholar writing about Buddhist virtue.
 
-The pig's transformation is also more specific than I first realized. The Chinese phrase *弭耳昵就* (mǐ ěr nì jiù) literally means "ears laid flat, drawing close with intimacy." That's the body language of an animal that feels *seen* — its grudge was recognized as real and addressed, not dismissed. I missed that on my first reading.
+The pig's transformation is also more specific than I first realized. The Chinese phrase *弭耳昵就* (mǐ ěr nì jiù) literally means "ears laid flat, drawing close with intimacy." That's not a trained animal — that's an animal that got what it wanted. Its grudge was real, and somebody finally acknowledged it.
 
 Then Ji Yun does something unexpected: he doesn't end with the story. He ends with someone else's poem about someone else's painting. It took me a moment to get it — he never tells you what to think. He shows you a phenomenon, places a lens beside it, and walks away. You pick it up or you don't.
 
@@ -77,6 +69,10 @@ All of this in about 120 characters of classical Chinese. I keep coming back to 
 *Next tale: **The Fox in the Study** — a fox spirit exposes the hypocrisy of a virtuous official, and flees only before a simple, illiterate servant woman.* → [Coming soon]
 
 ---
+
+[^karma]: **Karmic debt from a past life (夙冤, *sù yuān*):** A core Buddhist concept. *Sù* means "from long ago" or "from a previous existence"; *yuān* means "grievance" or "unjust treatment." The idea is that unresolved conflicts from previous incarnations carry forward, manifesting as irrational hostility between individuals who may have no present-day cause for enmity. This is more specific than the Western idea of "karmic baggage" — it implies a *relationship* between two souls that must be reconciled, not merely a residue to be worked off.
+
+[^poem]: **The inscription poem:** This five-character regulated verse (五言律诗) encapsulates a philosophical position: ferocity is not innate but circumstantial; compassion and moral cultivation (*道力*, "the power of the Way") can dissolve even the deepest hostility. The phrase *金石心* ("heart of metal and stone") suggests an unwavering commitment to goodwill — an echo of both Buddhist *bodhicitta* and Confucian *rèn* (仁, benevolence).
 
 <details class="original-text">
 <summary>📜 Original Text in Classical Chinese · 文言原文</summary>

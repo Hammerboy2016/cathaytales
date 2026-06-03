@@ -1,5 +1,5 @@
 ---
-title: "The Fox Widow Who Took In Her Husband's Lost Parents: A Qing Dynasty Story of Atonement"
+title: "The Fox Widow Who Raised Her In-Laws: A Qing Dynasty Ghost Story"
 slug: "the-fox-wife-who-raised-her-in-laws"
 date: "2026-06-03"
 series: "Notes from the Thatched Study"
@@ -11,7 +11,7 @@ excerpt: "A famine drove an old couple north to look for their missing son. They
 seo_description: "A Qing dynasty tale from Ji Xiaolan's Notes from the Thatched Study: a fox spirit mourns the husband she loved to death, then unexpectedly meets his parents and serves them for years on the road to Daoist immortality."
 ---
 
-# The Fox Widow Who Took In Her Husband's Lost Parents / 狐妻守墓
+# The Fox Widow Who Raised Her In-Laws: A Qing Dynasty Ghost Story / 狐妻守墓
 
 ### *A Qing Dynasty Tale of Atonement, Filial Piety, and Mount Tai*
 
@@ -41,7 +41,7 @@ They could make no sense of any of it. They stood up and demanded to know who sh
 
 She gave a sharp cry, dropped to the ground, and confessed:
 
-"I would not dare deceive my husband's parents. I am a *húxiān*[^huxian] — a fox spirit. I was once your son's wife. Our love was mutual; I never sought to bewitch him. But he loved me past all reason, and died of consumption.[^consumption] The guilt has never left me. I swore never to take another husband, and have lived beside his grave ever since. Today I meet you by no design of my own. Please — do not go elsewhere. I can still care for you."
+"I would not dare deceive my husband's parents. I am a *húxiān* (a fox spirit — one of those creatures from old Chinese stories that live long enough to become human)[^huxian]. I was once your son's wife. Our love was mutual; I never sought to bewitch him. But he loved me past all reason, and died of consumption.[^consumption] The guilt has never left me. I swore never to take another husband, and have lived beside his grave ever since. Today I meet you by no design of my own. Please — do not go elsewhere. I can still care for you."
 
 They were terrified at first. But seeing how earnestly she meant it, they held her and wept, and stayed.
 
@@ -67,20 +67,6 @@ Ji Yun adds: *This tale comes close to another fox story I recorded earlier. But
 
 ---
 
-## Annotations
-
-[^huxian]: **Fox spirit (狐仙, *húxiān*):** In Chinese folklore, foxes that live long enough — often centuries — accumulate spiritual energy and gain the ability to shapeshift into human form, most often as beautiful women. Some are predatory, draining the vital essence of their human lovers; others are loyal, virtuous, sometimes more humane than the humans around them. Ji Yun's collection is full of both kinds, and he is unusually fair to the latter.
-
-[^consumption]: **Died of consumption (瘵, *zhài*):** A wasting illness, almost certainly what we now call tuberculosis. In Chinese medical thought, excessive sexual intimacy — especially with a supernatural partner — was believed to drain a man's *jīng* (vital essence), leaving him vulnerable to *láozhài* (痨瘵), the chronic wasting that ends in death. The fox's confession that he "loved me past all reason" is not metaphor; it is a medical diagnosis in folk-religious terms.
-
-[^yuedi]: **The Lord of Mount Tai (岳帝, *Yuèdì*):** A senior figure in the celestial bureaucracy, governing matters of life, death, and human fate from his seat on Mount Tai (泰山) in Shandong. By the Qing dynasty, popular religion imagined him as something like a divine magistrate, receiving petitions and dispensing judgments much as a Qing official would — including the local earth god's report on this fox's conduct.
-
-[^jiexing]: **Release from her form (解形证果, *jiěxíng zhèngguǒ*):** A Daoist term. The standard path to immortality required cultivating an inner elixir (*nèidān*) through long years of meditation and refinement. *Jiěxíng zhèngguǒ* — literally "shedding the form and verifying the fruit" — is the rare shortcut: spiritual merit is great enough that the practitioner is permitted to discard the physical body and ascend directly. The fox is essentially being told she has earned the degree without having to write the dissertation.
-
-[^bixia]: **Goddess of Mount Tai (碧霞元君, *Bìxiá Yuánjūn*):** Literally "Sovereign of the Azure Cloud." A daughter (in some traditions, a subordinate) of the Lord of Mount Tai, and by the Qing dynasty one of the most widely worshipped female deities in northern China — particularly by women, who climbed Mount Tai to pray to her for children, safe childbirth, and protection. To be appointed as one of her female officials is a real bureaucratic promotion in the celestial civil service, not a vague spiritual honor.
-
----
-
 ## Translator's Reflection
 
 When I first read this, I assumed it was going to be a horror story. A fox who loved her husband to death, living by his grave, knocking on doors in the mountains — that is exactly how the bad ones start in Chinese tales. I was waiting for the trap to spring.
@@ -93,13 +79,23 @@ I had to look up *解形证果* — the term the fox uses for her own ascension.
 
 The line I keep turning over is Ji Yun's last one. He says somewhere else in the collection he recorded another fox who *also* did good deeds — but with an angle, with something to gain. That one barely escaped punishment. This one had no angle. She wasn't even trying to become an immortal; she was trying to apologize to a dead man she loved. The reward came because she wasn't asking for one.
 
-That is a quiet, severe little theology, and I keep thinking about it.
+That one wrecked me a little. Most of what I do has an angle — even the kind things. I'd love to say I could serve two strangers for seven years with nothing in it for me, but honestly? I'm not sure I could. She did. And the universe noticed.
 
 ---
 
 *Next tale: **The Ghost Who Resigned Twice** — a Ming dynasty magistrate quit office, died, asked not to be reincarnated, became an underworld official... and quit again.* → [Coming soon]
 
 ---
+
+[^huxian]: **Fox spirit (狐仙, *húxiān*):** In Chinese folklore, foxes that live long enough — often centuries — accumulate spiritual energy and gain the ability to shapeshift into human form, most often as beautiful women. Some are predatory, draining the vital essence of their human lovers; others are loyal, virtuous, sometimes more humane than the humans around them. Ji Yun's collection is full of both kinds, and he is unusually fair to the latter.
+
+[^consumption]: **Died of consumption (瘵, *zhài*):** A wasting illness, almost certainly what we now call tuberculosis. In Chinese medical thought, excessive sexual intimacy — especially with a supernatural partner — was believed to drain a man's *jīng* (vital essence), leaving him vulnerable to *láozhài* (痨瘵), the chronic wasting that ends in death. The fox's confession that he "loved me past all reason" is not metaphor; it is a medical diagnosis in folk-religious terms.
+
+[^yuedi]: **The Lord of Mount Tai (岳帝, *Yuèdì*):** A senior figure in the celestial bureaucracy, governing matters of life, death, and human fate from his seat on Mount Tai (泰山) in Shandong. By the Qing dynasty, popular religion imagined him as something like a divine magistrate, receiving petitions and dispensing judgments much as a Qing official would — including the local earth god's report on this fox's conduct.
+
+[^jiexing]: **Release from her form (解形证果, *jiěxíng zhèngguǒ*):** A Daoist term. The standard path to immortality required cultivating an inner elixir (*nèidān*) through long years of meditation and refinement. *Jiěxíng zhèngguǒ* — literally "shedding the form and verifying the fruit" — is the rare shortcut: spiritual merit is great enough that the practitioner is permitted to discard the physical body and ascend directly. The fox is essentially being told she has earned the degree without having to write the dissertation.
+
+[^bixia]: **Goddess of Mount Tai (碧霞元君, *Bìxiá Yuánjūn*):** Literally "Sovereign of the Azure Cloud." A daughter (in some traditions, a subordinate) of the Lord of Mount Tai, and by the Qing dynasty one of the most widely worshipped female deities in northern China — particularly by women, who climbed Mount Tai to pray to her for children, safe childbirth, and protection. To be appointed as one of her female officials is a real bureaucratic promotion in the celestial civil service, not a vague spiritual honor.
 
 <details class="original-text">
 <summary>📜 Original Text in Classical Chinese · 文言原文</summary>

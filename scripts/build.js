@@ -54,7 +54,8 @@ const footnoteExtension = {
           footnoteRefs.set(token.id, footnoteCounter);
         }
         const num = footnoteRefs.get(token.id);
-        return `<sup class="footnote-ref" id="fnref-${token.id}"><a href="#fn-${token.id}">[${num}]</a></sup>`;
+        // tooltip span is filled later in post-process (after defs are collected)
+        return `<sup class="footnote-ref" id="fnref-${token.id}"><a href="#fn-${token.id}" data-fn-id="${token.id}">[${num}]</a><span class="footnote-tooltip" data-fn-id="${token.id}"></span></sup>`;
       }
     },
     {
@@ -171,7 +172,46 @@ function buildPost(filePath, template) {
   // Render body
   const bodyHtml = marked.parse(content);
   const footnotesHtml = renderFootnoteSection();
-  const fullContent = bodyHtml + footnotesHtml;
+
+  // ---- Inject hover tooltips into footnote refs ----
+  let bodyWithTooltips = bodyHtml;
+  for (const [id, def] of footnoteDefs.entries()) {
+    const inlineHtml = marked.parseInline(def.text);
+    const plain = inlineHtml
+      .replace(/<[^>]+>/g, '')
+      .replace(/&amp;/g, '&')
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"')
+      .replace(/\s+/g, ' ')
+      .trim();
+    const truncated = plain.length > 320 ? plain.slice(0, 317) + '...' : plain;
+    const titleAttr = truncated
+      .replace(/&/g, '&amp;')
+      .replace(/"/g, '&quot;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
+    const safeId = id.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    bodyWithTooltips = bodyWithTooltips
+      .replace(
+        new RegExp(`<a href="#fn-${safeId}" data-fn-id="${safeId}">`, 'g'),
+        `<a href="#fn-${id}" data-fn-id="${id}" title="${titleAttr}">`
+      )
+      .replace(
+        new RegExp(`<span class="footnote-tooltip" data-fn-id="${safeId}"></span>`, 'g'),
+        `<span class="footnote-tooltip" data-fn-id="${id}">${inlineHtml}</span>`
+      );
+  }
+
+  let fullContent = bodyWithTooltips + footnotesHtml;
+
+  // ---- Cleanup: strip empty headings + adjacent <hr> pair ----
+  fullContent = fullContent
+    .replace(/<hr>\s*<h2[^>]*>\s*Annotations\s*<\/h2>\s*<hr>/gi, '<hr>')
+    .replace(/<h([1-6])[^>]*>\s*<\/h\1>/g, '')
+    .replace(/(<hr>\s*){2,}/g, '<hr>');
+
+  const cleanedContent = fullContent;
 
   const outName = `${meta.slug}.html`;
   const tags = (meta.tags || []).join(', ');
@@ -185,7 +225,7 @@ function buildPost(filePath, template) {
     DATE: meta.date,
     DATE_FORMATTED: formatDate(meta.date),
     TALE_NUMBER: meta.tale_number || '?',
-    CONTENT: fullContent,
+    CONTENT: cleanedContent,
     SERIES_LABEL: series.label,
     SERIES_LABEL_FULL: series.full,
     SERIES_KEYWORDS: series.keywords,

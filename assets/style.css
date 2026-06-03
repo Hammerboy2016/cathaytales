@@ -658,3 +658,52 @@ details.historical-context p {
   color: var(--color-accent);
   font-weight: 500;
 }
+
+/* Footnote hover tooltip (desktop) + native title attr fallback (mobile long-press) */
+.footnote-ref {
+  position: relative;
+  display: inline-block;
+}
+.footnote-tooltip {
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  width: 320px;
+  max-width: calc(100vw - 2rem);
+  padding: 0.75rem 1rem;
+  background: var(--color-ink, #2a2a2a);
+  color: var(--color-paper, #f6efe1);
+  border-radius: 6px;
+  font-size: 0.85rem;
+  line-height: 1.55;
+  font-weight: normal;
+  text-align: left;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+  z-index: 50;
+  transition: opacity 0.18s ease, visibility 0.18s ease;
+  pointer-events: none;
+  vertical-align: baseline;
+}
+.footnote-tooltip strong { color: var(--color-paper, #f6efe1); }
+.footnote-tooltip em { color: var(--color-paper, #f6efe1); }
+.footnote-tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: var(--color-ink, #2a2a2a);
+}
+.footnote-ref:hover .footnote-tooltip,
+.footnote-ref:focus-within .footnote-tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+/* On narrow screens, hide CSS popup (rely on browser long-press title attr) */
+@media (max-width: 640px) {
+  .footnote-tooltip { display: none; }
+}
