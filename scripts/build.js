@@ -18,6 +18,7 @@ const ROOT = path.resolve(__dirname, '..');
 const POSTS_DIR = path.join(ROOT, 'posts');
 const TEMPLATES_DIR = path.join(ROOT, 'templates');
 const ASSETS_DIR = path.join(ROOT, 'assets');
+const STATIC_DIR = path.join(ROOT, 'static');
 const DIST_DIR = path.join(ROOT, 'dist');
 const DIST_POSTS_DIR = path.join(DIST_DIR, 'posts');
 const DIST_ASSETS_DIR = path.join(DIST_DIR, 'assets');
@@ -171,10 +172,21 @@ function copyAssets() {
   }
 }
 
+function copyStatic() {
+  if (!fs.existsSync(STATIC_DIR)) return;
+  for (const file of fs.readdirSync(STATIC_DIR)) {
+    const src = path.join(STATIC_DIR, file);
+    if (fs.statSync(src).isFile()) {
+      fs.copyFileSync(src, path.join(DIST_DIR, file));
+    }
+  }
+}
+
 function main() {
   ensureDir(DIST_DIR);
   ensureDir(DIST_POSTS_DIR);
   copyAssets();
+  copyStatic();
 
   const postTemplate = fs.readFileSync(path.join(TEMPLATES_DIR, 'post.html'), 'utf8');
   const indexTemplate = fs.readFileSync(path.join(TEMPLATES_DIR, 'index.html'), 'utf8');
