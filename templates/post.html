@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{TITLE}} · Thatched Study</title>
+  <meta name="description" content="{{SEO_DESCRIPTION}}">
+  <meta name="author" content="Ji Yun (纪昀, 1724–1805), translated by Thatched Study">
+  <meta name="keywords" content="{{TAGS}}, Chinese literature, classical Chinese, Qing dynasty, Ji Xiaolan, Yuewei Caotang Biji">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{TITLE}}">
+  <meta property="og:description" content="{{SEO_DESCRIPTION}}">
+  <meta property="og:site_name" content="Thatched Study — Classical Chinese Tales in English">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{TITLE}}">
+  <meta name="twitter:description" content="{{SEO_DESCRIPTION}}">
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{TITLE}}",
+    "description": "{{SEO_DESCRIPTION}}",
+    "author": {
+      "@type": "Person",
+      "name": "Ji Yun (纪昀)",
+      "birthDate": "1724",
+      "deathDate": "1805"
+    },
+    "datePublished": "{{DATE}}",
+    "inLanguage": "en",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Notes from the Thatched Study (阅微草堂笔记)"
+    }
+  }
+  </script>
+
+  <!-- Google AdSense placeholder — replace ca-pub-XXXXX with real publisher ID when approved -->
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossorigin="anonymous"></script> -->
+
+  <link rel="stylesheet" href="{{CSS_PATH}}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+SC:wght@400;500;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{HOME_PATH}}" class="brand">
+        <span class="brand-mark">茅</span>
+        <span class="brand-text">
+          <span class="brand-en">Thatched Study</span>
+          <span class="brand-zh">Classical Chinese Tales · in English with annotations</span>
+        </span>
+      </a>
+      <nav class="site-nav">
+        <a href="{{HOME_PATH}}">Tales</a>
+        <a href="{{HOME_PATH}}#about">About</a>
+        <a href="{{HOME_PATH}}#subscribe">Subscribe</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <article class="post">
+      <div class="post-meta-top">
+        <span class="series-label">Notes from the Thatched Study · Tale {{TALE_NUMBER}}</span>
+        <time datetime="{{DATE}}">{{DATE_FORMATTED}}</time>
+      </div>
+
+      {{CONTENT}}
+
+      <div class="post-footer">
+        <hr>
+        <p class="cta">
+          <strong>Enjoyed this tale?</strong>
+          Subscribe to receive one annotated story from <em>Notes from the Thatched Study</em> each week — straight to your inbox.
+        </p>
+        <form class="subscribe-form" action="#" method="post">
+          <input type="email" name="email" placeholder="your@email.com" required>
+          <button type="submit">Subscribe — it's free</button>
+        </form>
+        <p class="kdp-promo">
+          The complete annotated edition will be available on <strong>Amazon Kindle &amp; Paperback</strong> · <em>coming soon</em>.
+        </p>
+      </div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 Thatched Study. Translations &amp; annotations under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>. Source text is in the public domain.</p>
+      <p class="footer-zh">茅檐低小，溪上青青草。</p>
+    </div>
+  </footer>
+</body>
+</html>
