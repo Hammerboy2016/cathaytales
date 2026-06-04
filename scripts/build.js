@@ -237,7 +237,7 @@ function buildPost(filePath, template) {
   });
 
   fs.writeFileSync(path.join(DIST_POSTS_DIR, outName), html);
-  return { ...meta, outPath: `posts/${outName}` };
+  return { ...meta, outPath: `posts/${outName}`, bodyHtml: cleanedContent };
 }
 
 function buildIndex(posts, template) {
@@ -310,6 +310,60 @@ Sitemap: ${SITE_URL}/sitemap.xml
   fs.writeFileSync(path.join(DIST_DIR, 'robots.txt'), txt);
 }
 
+function escapeXml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
+function buildRSS(posts) {
+  // Newest first, cap at latest 20 to keep feed lean
+  const sorted = [...posts].sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 20);
+  const buildDate = new Date().toUTCString();
+  const items = sorted.map(p => {
+    const url = `${SITE_URL}/${p.outPath.replace(/\.html$/, '')}`;
+    const pubDate = new Date(p.date).toUTCString();
+    const titleBilingual = p.title_zh ? `${p.title} / ${p.title_zh}` : p.title;
+    const series = getSeries(p.series);
+    const categories = [series.label, ...(p.tags || [])]
+      .map(t => `      <category>${escapeXml(t)}</category>`)
+      .join('\n');
+    // content:encoded gets full body HTML so Beehiiv can build complete email
+    return `    <item>
+      <title>${escapeXml(titleBilingual)}</title>
+      <link>${url}</link>
+      <guid isPermaLink="true">${url}</guid>
+      <pubDate>${pubDate}</pubDate>
+      <dc:creator>${escapeXml(series.author)}</dc:creator>
+${categories}
+      <description>${escapeXml(p.excerpt || '')}</description>
+      <content:encoded><![CDATA[${p.bodyHtml || ''}]]></content:encoded>
+    </item>`;
+  }).join('\n');
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Cathay Tales</title>
+    <link>${SITE_URL}</link>
+    <description>Classical Chinese tales — fox spirits, ghosts, gods, and forensic cases — retold in plain English with light commentary.</description>
+    <language>en-us</language>
+    <lastBuildDate>${buildDate}</lastBuildDate>
+    <atom:link href="${SITE_URL}/feed.xml" rel="self" type="application/rss+xml" />
+    <generator>cathaytales build.js</generator>
+${items}
+  </channel>
+</rss>
+`;
+  fs.writeFileSync(path.join(DIST_DIR, 'feed.xml'), xml);
+}
+
 function main() {
   ensureDir(DIST_DIR);
   ensureDir(DIST_POSTS_DIR);
@@ -325,6 +379,7 @@ function main() {
   buildIndex(posts, indexTemplate);
   buildSitemap(posts);
   buildRobots();
+  buildRSS(posts);
 
   console.log(`✓ Built ${posts.length} post(s)`);
   console.log(`✓ Output: ${DIST_DIR}`);
