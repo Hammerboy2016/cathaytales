@@ -281,8 +281,12 @@ function copyStatic() {
 const SITE_URL = 'https://cathaytales.com';
 
 function buildSitemap(posts) {
+  const today = new Date().toISOString().slice(0, 10);
   const urls = [
-    { loc: `${SITE_URL}/`, lastmod: new Date().toISOString().slice(0, 10), priority: '1.0' },
+    { loc: `${SITE_URL}/`, lastmod: today, priority: '1.0' },
+    { loc: `${SITE_URL}/about.html`, lastmod: today, priority: '0.7' },
+    { loc: `${SITE_URL}/contact.html`, lastmod: today, priority: '0.5' },
+    { loc: `${SITE_URL}/privacy.html`, lastmod: today, priority: '0.3' },
     ...posts.map(p => ({
       loc: `${SITE_URL}/${p.outPath.replace(/\.html$/, '')}`,
       lastmod: p.date,

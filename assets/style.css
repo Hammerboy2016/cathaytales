@@ -718,3 +718,121 @@ details.historical-context p {
 @media (max-width: 640px) {
   .footnote-tooltip { display: none; }
 }
+
+/* ============================================
+   Static pages (About / Privacy / Contact)
+   ============================================ */
+.page-article {
+  max-width: 720px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+  color: var(--color-ink-soft);
+  line-height: 1.7;
+  font-size: 1rem;
+}
+.page-article h1 {
+  font-family: var(--font-serif);
+  font-size: 2.2rem;
+  font-weight: 500;
+  color: var(--color-ink);
+  margin: 0 0 1rem;
+  letter-spacing: -0.01em;
+}
+.page-article h2 {
+  font-family: var(--font-serif);
+  font-size: 1.45rem;
+  font-weight: 500;
+  color: var(--color-ink);
+  margin: 2.5rem 0 0.8rem;
+  letter-spacing: -0.005em;
+}
+.page-article h3 {
+  font-family: var(--font-serif);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--color-ink);
+  margin: 1.8rem 0 0.6rem;
+}
+.page-article p { margin: 0.85rem 0; }
+.page-article a { color: var(--color-accent); }
+.page-article a:hover { text-decoration: underline; }
+.page-article code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.88em;
+  background: rgba(166, 76, 60, 0.08);
+  padding: 0.05em 0.4em;
+  border-radius: 3px;
+  color: var(--color-ink);
+}
+.page-article ul,
+.page-article ol {
+  margin: 0.85rem 0 0.85rem 1.4rem;
+  padding: 0;
+}
+.page-article li { margin: 0.45rem 0; }
+.page-lede {
+  font-size: 1.1rem;
+  color: var(--color-ink);
+  border-left: 3px solid var(--color-accent);
+  padding-left: 1rem;
+  margin: 1rem 0 2rem;
+  font-style: italic;
+}
+.page-tag {
+  margin-top: 2.5rem;
+  padding: 1rem 1.1rem;
+  font-style: italic;
+  color: var(--color-ink-soft);
+  border-top: 1px solid var(--color-rule, #e3dccc);
+  border-bottom: 1px solid var(--color-rule, #e3dccc);
+  text-align: center;
+}
+.how-list,
+.support-list,
+.cannot-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.2rem 0;
+  display: grid;
+  gap: 0.7rem;
+}
+.how-list li,
+.support-list li,
+.cannot-list li {
+  padding: 0.7rem 1rem;
+  border-left: 3px solid var(--color-accent);
+  background: rgba(166, 76, 60, 0.04);
+  font-size: 0.95rem;
+  border-radius: 0 4px 4px 0;
+}
+.how-list { counter-reset: how; }
+.how-list li {
+  counter-increment: how;
+  position: relative;
+  padding-left: 2.6rem;
+}
+.how-list li::before {
+  content: counter(how);
+  position: absolute;
+  left: 0.85rem;
+  top: 0.65rem;
+  font-family: var(--font-serif);
+  font-weight: 600;
+  color: var(--color-accent);
+}
+.contact-line {
+  font-size: 1.05rem;
+  padding: 0.6rem 0;
+}
+.contact-note {
+  font-size: 0.9rem;
+  color: var(--color-ink-faint);
+  font-style: italic;
+}
+.footer-links {
+  margin: 0.5rem 0 0.3rem;
+  font-size: 0.85rem;
+}
+.footer-links a {
+  margin: 0 0.15rem;
+}
