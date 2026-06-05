@@ -17,7 +17,7 @@ seo_description: "A Qing dynasty ghost story from Ji Xiaolan's Notes from the Th
 
 *From **Notes from the Thatched Study** (阅微草堂笔记), Volume VI — Luanyang Summer Records, Part VI*
 
-*By Ji Yun (纪昀, 1724–1805) · Translated with annotations*
+*By Ji Yun (纪昀, 1724–1805) · Translated and annotated by Cathay Tales*
 
 ---
 
