@@ -209,6 +209,34 @@ def report_sources(client, start, end, limit=10):
         print(f"  {combo:<35} {fmt_num(s):>8} {fmt_num(u):>8} {fmt_num(es):>10}")
 
 
+def report_source_country(client, start, end, limit=20):
+    """来源 × 国家二维交叉（用于识别 medium referral 真粉丝来自哪国）"""
+    res = query(
+        client,
+        dimensions=["sessionSource", "country"],
+        metrics=["sessions", "activeUsers", "engagedSessions", "userEngagementDuration"],
+        start=start,
+        end=end,
+        limit=limit,
+        order_by_metric="sessions",
+    )
+    print(f"\n🔍 来源 × 国家交叉 (Top {limit}, {start} ~ {end})")
+    print("-" * 70)
+    if not res.rows:
+        print("  无数据")
+        return
+    print(f"  {'来源':<20} {'国家':<20} {'会话':>6} {'用户':>6} {'参与':>6} {'人均时长':>10}")
+    for r in res.rows:
+        src = (r.dimension_values[0].value or "(direct)")[:19]
+        cty = (r.dimension_values[1].value or "(unknown)")[:19]
+        s = int(r.metric_values[0].value or 0)
+        u = int(r.metric_values[1].value or 0)
+        es = int(r.metric_values[2].value or 0)
+        dur = float(r.metric_values[3].value or 0)
+        avg = (dur / u) if u else 0
+        print(f"  {src:<20} {cty:<20} {s:>6} {u:>6} {es:>6} {avg:>8.1f}s")
+
+
 def report_countries(client, start, end, limit=10):
     """国家分布"""
     res = query(
@@ -295,6 +323,8 @@ def main():
         report_toppages(client, start, end)
     if args.report in ("brief", "sources", "all"):
         report_sources(client, start, end)
+    if args.report in ("crosstab", "all"):
+        report_source_country(client, start, end)
     if args.report in ("countries", "all"):
         report_countries(client, start, end)
     if args.report in ("brief", "devices", "all"):
