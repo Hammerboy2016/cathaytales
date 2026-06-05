@@ -6,6 +6,8 @@ series: "Notes from the Thatched Study"
 volume: "Luanyang Xiaoxia Lu (Part VI)"
 tale_number: 4
 title_zh: "许南金不畏鬼"
+hub: "Hauntings & Ghost Encounters"
+dynasty: "Qing"
 tags: ["ghost", "fearless", "Qing dynasty", "scholar", "moral courage", "Ji Xiaolan", "humor"]
 excerpt: "Two giant glowing eyes appeared in the wall while he was studying. His friend nearly died of fright. He just said: 'Great, I needed light to read.'"
 seo_description: "A Qing dynasty ghost story from Ji Xiaolan's Notes from the Thatched Study: the scholar Xu Nanjin confronts two ghost faces — and handles each one with such casual indifference that the ghosts give up and leave."

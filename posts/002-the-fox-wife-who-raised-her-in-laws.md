@@ -6,6 +6,8 @@ series: "Notes from the Thatched Study"
 volume: "Gu Wang Ting Zhi (Part III)"
 tale_number: 2
 title_zh: "狐妻守墓"
+hub: "Fox Spirits & Shapeshifters"
+dynasty: "Qing"
 tags: ["fox spirit", "filial piety", "Qing dynasty", "marriage", "Daoist immortality", "Mount Tai", "Ji Xiaolan"]
 excerpt: "A famine drove an old couple north to look for their missing son. They never found him. What they found instead was his widow — waiting at his grave for six years, and not quite human."
 seo_description: "A Qing dynasty tale from Ji Xiaolan's Notes from the Thatched Study: a fox spirit mourns the husband she loved to death, then unexpectedly meets his parents and serves them for years on the road to Daoist immortality."

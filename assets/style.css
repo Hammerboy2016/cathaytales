@@ -836,3 +836,286 @@ details.historical-context p {
 .footer-links a {
   margin: 0 0.15rem;
 }
+
+/* =========================================================
+   v2.5 双轴主导航 (2026-06-05)  Hub-first nav + post chips + hub pages
+   ========================================================= */
+
+/* 主导航容器改双行 */
+.site-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.4rem;
+}
+.site-nav .nav-hubs,
+.site-nav .nav-utility {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+.site-nav .nav-hubs {
+  gap: 1.1rem;
+}
+.site-nav .nav-hubs a {
+  font-family: var(--font-sans);
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--color-ink);
+  text-decoration: none;
+  letter-spacing: 0.01em;
+  transition: color 0.2s;
+}
+.site-nav .nav-hubs a:hover {
+  color: var(--color-accent);
+}
+.site-nav .nav-utility a {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--color-ink-faint);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+  transition: color 0.2s;
+}
+.site-nav .nav-utility a:hover {
+  color: var(--color-accent);
+}
+.site-nav a[aria-current="page"] {
+  color: var(--color-accent);
+  border-bottom: 1px solid currentColor;
+}
+
+/* ----- 文章顶部 chip 行（H1 下） ----- */
+.post-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.5rem 0 1.75rem;
+  padding: 0;
+  align-items: center;
+}
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.28rem 0.7rem;
+  border-radius: 999px;
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 500;
+  text-decoration: none;
+  letter-spacing: 0.01em;
+  line-height: 1;
+  border: 1px solid var(--color-ink-faint, #cbb9a8);
+  background: transparent;
+  color: var(--color-ink-soft, #5d4f43);
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+.chip-hub {
+  background: var(--color-accent, #a23522);
+  color: #fff;
+  border-color: var(--color-accent, #a23522);
+}
+.chip-hub:hover {
+  background: #8a2c1c;
+  border-color: #8a2c1c;
+  color: #fff;
+}
+.chip-dynasty {
+  background: #f3ece3;
+  border-color: #d8c8b3;
+  color: #5d4f43;
+}
+.chip-difficulty {
+  background: #fafafa;
+  border-color: #d8c8b3;
+  color: #5d4f43;
+}
+.chip-series {
+  background: transparent;
+  border-color: #d8c8b3;
+  color: #6a5a4d;
+}
+.chip-series:hover {
+  background: #f3ece3;
+  color: #3b2f25;
+}
+
+/* ----- 首页 hub 入口区 ----- */
+.hubs-section {
+  margin: 3rem 0 3.5rem;
+}
+.hubs-section h2 {
+  font-size: 1.6rem;
+  margin-bottom: 0.4rem;
+}
+.hubs-section-lead {
+  color: var(--color-ink-soft, #5d4f43);
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+.hub-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.1rem;
+}
+.hub-card {
+  display: block;
+  padding: 1.25rem 1.3rem;
+  border: 1px solid #e3d5c2;
+  border-radius: 6px;
+  background: #fbf8f3;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, transform 0.15s, box-shadow 0.2s;
+}
+.hub-card:hover {
+  border-color: var(--color-accent, #a23522);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(162, 53, 34, 0.08);
+}
+.hub-card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.6rem;
+}
+.hub-card-label {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-accent, #a23522);
+}
+.hub-count {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  color: var(--color-ink-faint, #8a7a6a);
+  letter-spacing: 0.04em;
+}
+.hub-count-empty {
+  font-style: italic;
+}
+.hub-card-title {
+  font-size: 1.05rem;
+  font-weight: 500;
+  margin: 0 0 0.5rem;
+  line-height: 1.3;
+  color: var(--color-ink, #2b2620);
+}
+.hub-card-blurb {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: var(--color-ink-soft, #5d4f43);
+  margin: 0;
+}
+
+/* ----- hub 列表页 ----- */
+.hub-header {
+  margin: 2.5rem 0 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e3d5c2;
+}
+.hub-breadcrumb {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--color-ink-faint, #8a7a6a);
+  margin: 0 0 0.6rem;
+  letter-spacing: 0.03em;
+}
+.hub-breadcrumb a {
+  color: var(--color-ink-faint, #8a7a6a);
+  text-decoration: none;
+}
+.hub-breadcrumb a:hover {
+  color: var(--color-accent, #a23522);
+}
+.hub-header h1 {
+  font-size: 2.2rem;
+  font-weight: 500;
+  margin: 0 0 0.8rem;
+  line-height: 1.2;
+  color: var(--color-ink, #2b2620);
+}
+.hub-blurb {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--color-ink-soft, #5d4f43);
+  margin: 0 0 0.6rem;
+  max-width: 60ch;
+}
+.hub-count-line {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--color-ink-faint, #8a7a6a);
+  margin: 0;
+}
+.hub-empty {
+  font-style: italic;
+  color: var(--color-ink-soft, #5d4f43);
+  padding: 2rem 0;
+  text-align: center;
+}
+.hub-tale-card .hub-card-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.4rem 0 0.6rem;
+}
+.hub-card-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 500;
+  border: 1px solid #d8c8b3;
+  color: #5d4f43;
+  background: #f3ece3;
+  line-height: 1;
+  white-space: nowrap;
+}
+.hub-subscribe {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e3d5c2;
+}
+
+/* ----- 移动端：导航双行折成竖向 ----- */
+@media (max-width: 640px) {
+  .site-nav {
+    align-items: flex-start;
+    width: 100%;
+    gap: 0.5rem;
+  }
+  .site-nav .nav-hubs {
+    gap: 0.55rem 1rem;
+    font-size: 0.9rem;
+  }
+  .site-nav .nav-hubs a {
+    font-size: 0.85rem;
+  }
+  .site-nav .nav-utility {
+    gap: 0.45rem 0.9rem;
+  }
+  .site-nav .nav-utility a {
+    font-size: 0.75rem;
+  }
+  .hub-grid {
+    grid-template-columns: 1fr;
+  }
+  .hub-header h1 {
+    font-size: 1.6rem;
+  }
+  .post-chips {
+    gap: 0.4rem;
+  }
+  .chip {
+    font-size: 0.72rem;
+    padding: 0.22rem 0.55rem;
+  }
+}

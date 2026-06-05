@@ -6,6 +6,8 @@ series: "Notes from the Thatched Study"
 volume: "Luanyang Xiaoxia Lu (Part VI)"
 tale_number: 3
 title_zh: "鬼隐"
+hub: "Afterlife & Underworld"
+dynasty: "Ming"
 tags: ["ghost", "bureaucracy satire", "Ming dynasty", "officialdom", "Peach Blossom Spring", "hermit", "Ji Xiaolan"]
 excerpt: "A Ming dynasty magistrate quit office because the infighting sickened him. Then he died, refused reincarnation, became an underworld official — and quit again."
 seo_description: "A Ming dynasty ghost story from Ji Xiaolan's Notes from the Thatched Study: a magistrate who resigned from office, then resigned from the underworld, then fled even his own grave — because office politics follow you everywhere."

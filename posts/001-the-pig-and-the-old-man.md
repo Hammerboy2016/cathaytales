@@ -6,6 +6,8 @@ series: "Notes from the Thatched Study"
 volume: "Luanyang Xiaoxia Lu (Part I)"
 tale_number: 1
 title_zh: "老翁与猪"
+hub: "Karma & Retribution"
+dynasty: "Qing"
 tags: ["karma", "reincarnation", "Buddhism", "forgiveness", "Qing dynasty", "Ji Xiaolan"]
 excerpt: "A village pig charged to bite one elderly neighbor on sight — and ignored everyone else. Then the old man figured out why."
 seo_description: "A Qing dynasty ghost story from Ji Xiaolan's Notes from the Thatched Study: why a pig hated one specific man, and what the old man chose to do about it."

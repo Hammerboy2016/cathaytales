@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{HUB_SEO_TITLE}}</title>
+  <meta name="description" content="{{HUB_SEO_DESCRIPTION}}">
+  <meta name="keywords" content="{{HUB_KEYWORDS}}, Chinese literature, classical Chinese">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{HUB_SEO_TITLE}}">
+  <meta property="og:description" content="{{HUB_SEO_DESCRIPTION}}">
+  <meta property="og:site_name" content="Cathay Tales — Classical Chinese Tales in English">
+  <meta property="og:image" content="https://cathaytales.com/assets/og-image.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{HUB_SEO_TITLE}}">
+  <meta name="twitter:description" content="{{HUB_SEO_DESCRIPTION}}">
+  <meta name="twitter:image" content="https://cathaytales.com/assets/og-image.png">
+
+  <!-- JSON-LD Structured Data: CollectionPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "{{HUB_H1}}",
+    "description": "{{HUB_SEO_DESCRIPTION}}",
+    "inLanguage": "en",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Cathay Tales",
+      "url": "https://cathaytales.com"
+    }
+  }
+  </script>
+
+  <link rel="icon" href="{{ASSETS_BASE}}favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="{{ASSETS_BASE}}apple-touch-icon.png">
+  <link rel="alternate" type="application/rss+xml" title="Cathay Tales — RSS Feed" href="https://cathaytales.com/feed.xml">
+  <link rel="canonical" href="https://cathaytales.com/hubs/{{HUB_SLUG}}">
+
+  <link rel="stylesheet" href="{{CSS_PATH}}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+SC:wght@400;500;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <!-- Google tag (gtag.js) - GA4 Cathay Tales Web -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S60FWRGXNY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-S60FWRGXNY');
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{HOME_PATH}}" class="brand">
+        <img class="brand-mark" src="{{ASSETS_BASE}}brand-fox.jpg?v=3" alt="Cathay Tales — black fox under a red sun">
+        <span class="brand-text">
+          <span class="brand-en">Cathay Tales</span>
+          <span class="brand-zh">Classical Chinese Tales · in English with annotations</span>
+        </span>
+      </a>
+      {{HUB_NAV}}
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hub-header">
+      <p class="hub-breadcrumb"><a href="{{HOME_PATH}}">All Tales</a> · <span>{{HUB_NAV_LABEL}}</span></p>
+      <h1>{{HUB_H1}}</h1>
+      <p class="hub-blurb">{{HUB_BLURB}}</p>
+      <p class="hub-count-line">{{HUB_COUNT}} tale(s) translated so far.</p>
+    </section>
+
+    <section class="tale-list hub-tale-list">
+      {{HUB_CARDS}}
+    </section>
+
+    <section class="subscribe-section hub-subscribe">
+      <h2>Get new {{HUB_NAV_LABEL}} tales by email</h2>
+      <p>Subscribe to Cathay Tales — new annotated tales each week, including new entries to this hub.</p>
+      <div class="beehiiv-embed">
+        <script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="dae8a031-45de-427a-b97f-90e6b7b2b4b1"></script>
+        <script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script>
+      </div>
+      <noscript>
+        <p class="subscribe-pending">
+          🍵 Please enable JavaScript to subscribe by email, or <a href="https://ko-fi.com/cathaytales" target="_blank" rel="noopener">follow us on Ko-fi</a>.
+        </p>
+      </noscript>
+    </section>
+  </main>
+
+  <!-- Floating Ko-fi support button (all pages) -->
+  <a class="kofi-float" href="https://ko-fi.com/cathaytales" target="_blank" rel="noopener" aria-label="Support Cathay Tales on Ko-fi">
+    <span class="kofi-float-emoji">🍵</span>
+    <span class="kofi-float-text">Tip</span>
+  </a>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 Cathay Tales. Translations &amp; annotations under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>. Source texts are in the public domain.</p>
+      <p class="footer-links"><a href="../about.html">About</a> · <a href="../privacy.html">Privacy</a> · <a href="../contact.html">Contact</a> · <a href="../feed.xml">RSS</a></p>
+      <p class="footer-zh">山有狐，月正红。</p>
+    </div>
+  </footer>
+</body>
+</html>
