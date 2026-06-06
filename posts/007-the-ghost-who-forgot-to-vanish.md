@@ -10,7 +10,7 @@ hub: "Hauntings & Ghost Encounters"
 dynasty: "Qing"
 tags: ["ghost story", "murder mystery", "Qing dynasty", "Ji Yun", "courtroom", "yamen", "forensic", "Notes from the Thatched Study"]
 excerpt: "A bleeding ghost knelt at the high commissioner's steps and named its murderer. The verdict was overturned. Then one old clerk asked: how exactly did the ghost leave?"
-seo_description: "A Qing dynasty courtroom mystery from Ji Yun's Notes from the Thatched Study: a bleeding ghost overturns a death sentence — until one senior clerk notices the wrong detail and unravels the most elegant frame-up in the province."
+seo_description: "A classical Chinese ghost story by Ji Yun, translated: a bleeding ghost overturns a death sentence, and one clerk asks how it left the courtyard."
 ---
 
 # The Ghost Who Forgot to Vanish / 唐执玉断狱
@@ -29,7 +29,7 @@ seo_description: "A Qing dynasty courtroom mystery from Ji Yun's Notes from the 
 
 ## The Story
 
-Tang Zhiyu was a serious man. As regional commissioner — what under the Qing was called *zhifu*, a viceroy-rank office combining civil and military authority over a whole region — he ran his courts the way he ran his life: by the book, with patience, and with a particular horror of mistakes. So when a murder case crossed his desk and the local magistrate's verdict troubled him, he read the file through three times before letting it stand. The accused was a man named Mou. The evidence was thin in places, but it held together. Tang signed the warrant. The sentence was death.
+Tang Zhiyu (regional commissioner of the province, a strict Confucian official of the old school) was a serious man. As regional commissioner — what under the Qing was called *zhifu*, a viceroy-rank office combining civil and military authority over a whole region — he ran his courts the way he ran his life: by the book, with patience, and with a particular horror of mistakes. So when a murder case crossed his desk and the local magistrate's verdict troubled him, he read the file through three times before letting it stand. The accused was a man named Mou (a local commoner condemned to death for a single killing). The evidence was thin in places, but it held together. Tang signed the warrant. The sentence was death.
 
 That evening he sat alone in his study, reviewing other files by candlelight. It had been raining all afternoon — one of those slow autumn rains that turns courtyard earth into the dark of fresh ink. The lanterns under the eaves guttered. Inside, the only sound was the soft cracking of the wick.
 
@@ -41,7 +41,12 @@ He sat back down. The weeping began again.
 
 This time he rose himself and walked to the door, and with one hand slid the bamboo curtain aside.
 
+<details class="content-warning">
+<summary>⚠️ <strong>Content Warning</strong> — graphic description of a throat wound (click to reveal)</summary>
+
 A man was kneeling at the foot of the stone steps. He was soaked, but the water running off him was not rainwater. His head was bowed. His robe was open at the throat and from the throat a wound gaped, slowly, steadily, into the wet earth of the courtyard. He did not look up.
+
+</details>
 
 Tang Zhiyu was not a superstitious man. He was a Confucian official of the strict old school, the kind who in his official memorials wrote the phrase *the spirits and gods I have not personally seen* without irony. But the thing on the steps was there. The blood was there. The cold coming off it was there.
 
