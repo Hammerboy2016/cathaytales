@@ -11,7 +11,7 @@ hub: "Hauntings & Ghost Encounters"
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "gothic horror", "Yuan Mei", "jiangshi", "Chinese zombie", "Zi Bu Yu", "forbidden tales"]
 excerpt: "Two young scholars studying in a quiet temple. Then one dies, and the other doesn't know — until midnight, when the door creaks open and his friend walks back in."
-seo_description: "A Qing dynasty ghost story from Yuan Mei's Zi Bu Yu: a dead scholar visits his living friend to settle three small debts. Then he asks to stay just a little longer — and something inside the corpse refuses to leave."
+seo_description: "A classical Chinese ghost story by Yuan Mei, translated: a dead scholar returns to say goodbye — but something in the corpse refuses to leave."
 ---
 
 # The Friend Who Forgot How to Leave / 南昌士人
@@ -102,7 +102,14 @@ Out the door, down the temple corridor, out across the courtyard, into the lanes
 
 They ran for miles.
 
-At last the young man came to a low wall at the edge of a field, threw himself over it, and collapsed on the other side, no breath left to scream. The corpse hit the wall and could not climb it. Whatever was driving the body forward did not understand walls. It just leaned over the top — and its head hung down over the edge, mouth open, eyes flat, and from its open mouth a thick cold drool came pattering down onto the young man's face, and onto his neck, and onto the back of his hand, drip, drip, drip, all through the rest of the night.
+At last the young man came to a low wall at the edge of a field, threw himself over it, and collapsed on the other side, no breath left to scream. The corpse hit the wall and could not climb it. Whatever was driving the body forward did not understand walls.
+
+<details class="content-warning">
+<summary>⚠️ <strong>Content Warning</strong> — graphic body horror (click to reveal)</summary>
+
+It just leaned over the top — and its head hung down over the edge, mouth open, eyes flat, and from its open mouth a thick cold drool came pattering down onto the young man's face, and onto his neck, and onto the back of his hand, drip, drip, drip, all through the rest of the night.
+
+</details>
 
 At dawn a traveler came down the road, saw the body draped half over the wall and the young man lying underneath it, and forced ginger broth between the young man's teeth until he came back to himself.
 

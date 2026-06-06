@@ -1119,3 +1119,48 @@ details.historical-context p {
     padding: 0.22rem 0.55rem;
   }
 }
+
+/* ============================================
+   Content Warning (collapsible, amber accent)
+   v2.6 — wraps graphic violence / cannibalism /
+   body horror passages so readers can opt in.
+   ============================================ */
+details.content-warning {
+  margin: 1.5rem 0;
+  padding: 0.85rem 1.1rem;
+  background: #fdf6e8;
+  border-left: 3px solid #b8821a;
+  border-radius: 2px;
+}
+details.content-warning > summary {
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 0.92rem;
+  color: #8a5f0e;
+  list-style: none;
+  user-select: none;
+  padding: 0.2rem 0;
+}
+details.content-warning > summary::-webkit-details-marker { display: none; }
+details.content-warning > summary::before {
+  content: "▶ ";
+  display: inline-block;
+  margin-right: 0.5rem;
+  transition: transform 0.2s ease;
+  font-size: 0.72rem;
+}
+details.content-warning[open] > summary::before {
+  transform: rotate(90deg);
+}
+details.content-warning[open] > summary {
+  margin-bottom: 0.7rem;
+  border-bottom: 1px dashed rgba(184, 130, 26, 0.35);
+  padding-bottom: 0.6rem;
+}
+details.content-warning > p {
+  margin: 0.5rem 0;
+}
+details.content-warning strong {
+  font-weight: 600;
+}

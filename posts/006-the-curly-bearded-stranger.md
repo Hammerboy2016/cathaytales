@@ -11,7 +11,7 @@ hub: "Taoist Marvels"
 dynasty: "Tang"
 tags: ["tang dynasty", "chuanqi", "wuxia", "knights errant", "three heroes", "Red Whisk", "Li Jing", "prophecy", "Taoism", "Tang folktale"]
 excerpt: "A penniless strategist, a runaway concubine with a red whisk, and a wild man with a curly red beard who carries a severed head in his bag. The night the three of them meet, the future of the Tang dynasty quietly changes hands."
-seo_description: "A Tang dynasty folktale from Du Guangting's Chuanqi: the story of the 'Three Heroes of the Wind and Dust' — the strategist Li Jing, the runaway Lady Red Whisk, and the Curly-Bearded Stranger who looked at the future emperor of China and walked away to found his own kingdom across the sea."
+seo_description: "A Tang dynasty classical Chinese tale translated from Du Guangting: the Three Heroes of the Wind and Dust meet, and one walks away from China's throne."
 ---
 
 # The Curly-Bearded Stranger / 虬髯客传
@@ -30,9 +30,9 @@ seo_description: "A Tang dynasty folktale from Du Guangting's Chuanqi: the story
 
 ## The Tale
 
-When the Sui emperor Yang took his pleasure cruise down to the south, he left his most senior minister, the Duke of Yue, Yang Su, behind in the western capital to mind the empire. Yang Su was a clever, arrogant man who had decided, in the way arrogant men do, that the times were chaotic and the chaos belonged to him. He lived like a small emperor. He sat sprawled on a couch when officials came to brief him. He had beautiful women carry him out from his private chambers in the morning. Ranks of maids stood in rows around him while he ate. Toward the end, none of it embarrassed him at all.
+When the Sui emperor Yang took his pleasure cruise down to the south, he left Yang Su (the Duke of Yue, his most senior minister) behind in the western capital to mind the empire. Yang Su was a clever, arrogant man who had decided, in the way arrogant men do, that the times were chaotic and the chaos belonged to him. He lived like a small emperor. He sat sprawled on a couch when officials came to brief him. He had beautiful women carry him out from his private chambers in the morning. Ranks of maids stood in rows around him while he ate. Toward the end, none of it embarrassed him at all.
 
-One day a young man named Li Jing — later the Duke of Wei, but at that point a commoner in a plain robe — came to the palace and asked for an audience. He had a strategic proposal worth listening to. Yang Su received him sprawled on the couch as usual.
+One day a young man named Li Jing (a penniless out-of-work strategist in a plain robe, later Duke of Wei of the Tang) came to the palace and asked for an audience. He had a strategic proposal worth listening to. Yang Su received him sprawled on the couch as usual.
 
 Li Jing didn't sit down. He bowed politely and said: "The world is falling apart and a hundred ambitious men are rising. You are an elder of the imperial house. You ought to be gathering the best minds to you. You ought *not* to be receiving them lying down."
 
@@ -62,7 +62,7 @@ Her family name was Zhang. She was the eldest daughter. Looking at her — at he
 
 For several days they hid. There were footsteps in the lane outside, and once or twice the sound of a search going through the inns one block over, but it was a halfhearted search. Yang Su really didn't care.
 
-So one morning, Lady Red Whisk put on men's clothes again. They got horses. They rode east — away from the capital, toward Taiyuan, where Li Jing thought he had a chance at finding work.
+So one morning, Lady Red Whisk (the runaway slave-concubine from Yang Su's household, now bound to Li Jing) put on men's clothes again. They got horses. They rode east — away from the capital, toward Taiyuan, where Li Jing thought he had a chance at finding work.
 
 They stopped overnight at an inn in Lingshi, a town in the mountains. A bed had been brought into their room and meat was simmering on a small charcoal stove. Lady Red Whisk, whose black hair fell down to her ankles, was standing by the bed combing it out. Li Jing was outside in the courtyard, brushing his horse down.
 
@@ -116,6 +116,9 @@ Li Jing went and bought a jug. They drank a round. Then the stranger said, "I've
 
 Li Jing said politely that he wouldn't presume.
 
+<details class="content-warning">
+<summary>⚠️ <strong>Content Warning</strong> — graphic violence and cannibalism (click to reveal)</summary>
+
 The stranger reached into the leather sack on the floor and pulled out a human head.
 
 He set the head on the floor next to him, calmly, then reached back into the sack and pulled out a human heart and liver. He put the head back. With the same belt knife he had used on the lamb, he sliced the heart and liver into thin pieces and started eating.
@@ -123,6 +126,8 @@ He set the head on the floor next to him, calmly, then reached back into the sac
 "This man," he said, between bites, "was the most treacherous bastard alive. I've been carrying this grudge for ten years. Today I finally caught up with him. Now I can let it go."
 
 He chewed for a moment. Lady Red Whisk did not look away. Li Jing did not look away. Neither of them moved.
+
+</details>
 
 "You have the build and the bearing of a man," the stranger said to Li Jing. "Is there anyone unusual in Taiyuan? Anyone worth seeing?"
 
@@ -142,7 +147,7 @@ He chewed for a moment. Lady Red Whisk did not look away. Li Jing did not look a
 
 The stranger nodded slowly. "Sounds right. I need to see him. Can you arrange it?"
 
-"My friend Liu Wenjing is close to him. Through Liu, yes."
+"My friend Liu Wenjing (a Sui-Tang loyalist with the ear of the Li family in Taiyuan) is close to him. Through Liu, yes."
 
 "There's a man who reads the sky," the stranger said. "He's been telling me there's a strange brightness over Taiyuan. I've been going to look. When do you arrive?"
 
@@ -174,7 +179,7 @@ Outside, on the road, he spoke to Li Jing again. "I'm eighty or ninety percent s
 
 Li Jing and Lady Red Whisk rode back to Chang'an. On the day, they found the donkey and the mule tied at the door. Upstairs, the stranger was drinking with an old Taoist priest. They sat down. They drank a dozen more rounds. The stranger told Li Jing: "There are a hundred thousand coins in a chest downstairs. Take them. Get your sister a safe place to live. Then meet me at the Fenyang Bridge on this date."
 
-On the date, Li Jing went back to Taiyuan, found the bridge, found the stranger and the priest. The three of them went again to Liu Wenjing's house. Liu was playing chess. He sent an urgent message to the young governor's son — known to history as Li Shimin, but at that point just a clever teenager — to come over and watch the game.
+On the date, Li Jing went back to Taiyuan, found the bridge, found the stranger and the priest. The three of them went again to Liu Wenjing's house. Liu was playing chess. He sent an urgent message to the young governor's son — known to history as Li Shimin (the regional governor's son, the future Emperor Taizong of Tang), but at that point just a clever teenager — to come over and watch the game.
 
 The priest played Liu. The Curly-Bearded Stranger and Li Jing stood off to one side and watched.
 
