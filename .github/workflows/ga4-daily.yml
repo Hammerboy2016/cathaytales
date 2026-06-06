@@ -11,6 +11,10 @@ on:
         description: '报表类型 (all/overview/daily/toppages/sources/countries/devices)'
         required: false
         default: 'all'
+      send_mail:
+        description: '是否发邮件 (true/false)'
+        required: false
+        default: 'true'
   schedule:
     # 北京时间 10:00 = UTC 02:00
     - cron: '0 2 * * *'
@@ -37,7 +41,6 @@ jobs:
         run: |
           printf '%s' "$SA_JSON" > ga4_sa.json
           chmod 600 ga4_sa.json
-          # 校验是不是合法 JSON
           python -c "import json; json.load(open('ga4_sa.json'))" && echo "✓ SA JSON 合法"
 
       - name: Run GA4 query
@@ -55,6 +58,23 @@ jobs:
           name: ga4-report-${{ github.run_id }}
           path: ga4_report.txt
           retention-days: 30
+
+      - name: Send report via email (163 SMTP)
+        if: ${{ github.event_name == 'schedule' || github.event.inputs.send_mail != 'false' }}
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          REPORT_PATH: ga4_report.txt
+        run: |
+          if [ -z "$SMTP_HOST" ] || [ -z "$SMTP_PASS" ]; then
+            echo "::warning::SMTP secrets 未配置，跳过发邮件（请去 repo Settings → Secrets 加 SMTP_*/MAIL_* 共 6 个）"
+            exit 0
+          fi
+          python scripts/ga4_mailer.py
 
       - name: Cleanup credentials
         if: always()
