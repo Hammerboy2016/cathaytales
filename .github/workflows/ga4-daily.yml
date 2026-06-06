@@ -12,12 +12,16 @@ on:
         required: false
         default: 'all'
       send_mail:
-        description: '是否发邮件 (true/false)'
+        description: '是否发邮件 (true/false)。日报合并后默认不发，仅手动应急'
         required: false
-        default: 'true'
+        default: 'false'
   schedule:
-    # 北京时间 10:00 = UTC 02:00
-    - cron: '0 2 * * *'
+    # 北京时间 06:30 = UTC 22:30（前一天）
+    # 给旺财日报 07:00 留 30 分钟缓冲拉取
+    - cron: '30 22 * * *'
+
+permissions:
+  contents: write   # 允许 commit reports/ga4_latest.txt 回 main
 
 jobs:
   ga4-report:
@@ -59,8 +63,34 @@ jobs:
           path: ga4_report.txt
           retention-days: 30
 
-      - name: Send report via email (163 SMTP)
-        if: ${{ github.event_name == 'schedule' || github.event.inputs.send_mail != 'false' }}
+      - name: Commit report to reports/ga4_latest.txt
+        if: success()
+        run: |
+          mkdir -p reports
+          BJ_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S CST')
+          {
+            echo "# GA4 Daily Report (auto-generated)"
+            echo "# Generated: $BJ_TIME"
+            echo "# Workflow run: ${{ github.run_id }}"
+            echo "# Source: .github/workflows/ga4-daily.yml"
+            echo "# ---"
+            cat ga4_report.txt
+          } > reports/ga4_latest.txt
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add reports/ga4_latest.txt
+          if git diff --staged --quiet; then
+            echo "reports/ga4_latest.txt 无变化，跳过 commit"
+          else
+            git commit -m "chore(reports): auto-update GA4 daily report @ $BJ_TIME"
+            git push origin main
+            echo "✓ 已推 reports/ga4_latest.txt 到 main"
+          fi
+
+      - name: Send report via email (163 SMTP, 默认关闭)
+        if: ${{ github.event.inputs.send_mail == 'true' }}
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -71,7 +101,7 @@ jobs:
           REPORT_PATH: ga4_report.txt
         run: |
           if [ -z "$SMTP_HOST" ] || [ -z "$SMTP_PASS" ]; then
-            echo "::warning::SMTP secrets 未配置，跳过发邮件（请去 repo Settings → Secrets 加 SMTP_*/MAIL_* 共 6 个）"
+            echo "::warning::SMTP secrets 未配置，跳过发邮件"
             exit 0
           fi
           python scripts/ga4_mailer.py
