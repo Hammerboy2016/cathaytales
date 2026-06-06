@@ -3,7 +3,7 @@ title: "The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery"
 slug: "the-ghost-who-forgot-to-vanish"
 date: "2026-06-06"
 series: "Notes from the Thatched Study"
-volume: "Luanyang Xiaoxia Lu (Part V)"
+volume: "Volume III · Luanyang Xiaoxia Lu III"
 tale_number: 7
 title_zh: "唐执玉断狱"
 hub: "Hauntings & Ghost Encounters"
@@ -17,7 +17,7 @@ seo_description: "A classical Chinese ghost story by Ji Yun, translated: a bleed
 
 ### *A Confucian Official, a Bleeding Ghost, and One Question Too Many*
 
-*From **Notes from the Thatched Study** (阅微草堂笔记), Volume V — Luanyang Summer Records, Part V*
+*From **Notes from the Thatched Study** (阅微草堂笔记), Volume III — Luanyang Summer Records III (滦阳消夏录三)*
 
 *By Ji Yun (纪昀, 1724–1805) · Translated and annotated by Cathay Tales*
 
@@ -145,3 +145,18 @@ The *zhifu* (制府) was a regional commissioner — one of the highest provinci
 The *yamen* (衙門) was the magistrate's office-compound — court, jail, residence, archives, and runners' barracks all behind one walled enclosure. The "wall the ghost climbed" was the inner partition between the commissioner's private study and the outer courtyards. A real intruder who could cross that wall in the rain, kneel motionless for fifteen minutes in plain view of the eaves, and exit again unseen was a man of frightening professional skill — which is why Tang, the moment he saw the prints, knew at once he was looking at the work of a roof-walker for hire, not a household servant in costume.
 
 And the senior clerk's deduction — *a ghost has form but no substance; it should vanish, not climb* — is one of the small joys of *Notes from the Thatched Study*. Ji Yun loved this kind of moment: a piece of folk metaphysics, taken perfectly seriously, that turns into an instrument of forensic reasoning. Sherlock Holmes wouldn't have needed the metaphysics. But Sherlock Holmes also wouldn't have known what to do, the morning after, with a regional commissioner's pride.
+
+---
+
+<details class="original-text">
+<summary>📜 Original Text in Classical Chinese · 文言原文</summary>
+
+> 制府唐公执玉，尝勘鞫一杀人案，狱具矣。一夜秉烛独坐，忽微闻泣声，似渐近窗户。命小婢出视，嗷然而仆。公自启帘，则一鬼浴血跪阶下，厉声叱之，稽颡曰："杀我者某，县官乃误坐某。仇不雪，目不瞑也。"公曰："知之矣。"鬼乃去。
+>
+> 翌日，自提讯，众供死者衣履，与所见合。信益坚，竟如鬼言改坐某。问官申辩百端，终以为南山可移，此案不动。其幕友疑有他故，微叩公，始具言始末，亦无如之何。
+>
+> 一夕幕友请见，曰："鬼从何来？"曰："自至阶下。"曰："鬼从何去？"曰："歘然越墙去。"幕友曰："凡鬼有形而无质，去当奄然而隐，不当越墙。"因即越墙处寻视。虽甃瓦不裂，而新雨之后，数重屋上，皆隐隐有泥迹，直至外垣而下。指以示公曰："此必囚贿捷盗所为也。"公沉思恍然，仍从原谳。讳其事，亦不复深求。
+
+*Source: 《阅微草堂笔记·卷三·滦阳消夏录三》 — 清·纪昀. Public domain.*
+
+</details>

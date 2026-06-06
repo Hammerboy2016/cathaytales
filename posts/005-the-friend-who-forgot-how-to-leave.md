@@ -115,6 +115,8 @@ At dawn a traveler came down the road, saw the body draped half over the wall an
 
 The dead man's family had been searching since morning. They came and took the body home and buried it properly.
 
+Those who understood such matters said this: A man's *hún*-soul is gentle and good, his *pò*-soul fierce and crude; the *hún* is luminous, the *pò* is dull. When the dead man first came, a single spark of the luminous *hún* was not yet spent — and the *pò* trailed after the *hún*, walking and speaking like a man. When the *hún* had said what it came to say, the spark went out: the *hún* scattered, and the *pò* was left behind, stuck. While the *hún* is in the body, that is the person. Once the *hún* is gone, what walks is no longer the person at all. The moving corpses and restless shadows the world hears tell of — every one of them is the work of the *pò*. Only a man of the Way knows how to subdue it.
+
 ---
 
 ## A Note from the Dark
@@ -147,6 +149,8 @@ I think this is also Yuan Mei being a little cruel about how grief actually work
 > 少者见其言近人情，貌如平昔，渐无怖意，乃泣留之，曰："与君长诀，何不稍缓须臾去耶？"死者亦泣，回坐其牀，更叙平生。数语复起曰："吾去矣。"立而不行，两眼瞠视，貌渐丑败。少者惧，促之曰："君言既毕，可去矣。"尸竟不去。少者拍牀大呼，亦不去，屹立如故。少者愈骇，起而奔，尸随之奔。少者奔愈急，尸奔亦急。追逐数里，少者逾墙仆地，尸不能逾墙，而垂首墙外，口中涎沫与少者之面相滴涔涔也。
 >
 > 天明，路人过之，饮以姜汁，少者苏。尸主家方觅尸不得，闻信，舁归成殡。
+>
+> 识者曰："人之魂善而魄恶，人之魂灵而魄愚。其始来也，一灵不泯，魄附魂以行；其既去也，心事既毕，魂一散而魄滞。魂在，则其人也；魂去，则非其人也。世之移尸走影，皆魄为之，惟有道之人为能制魄。"
 
 *Source: 《子不语·卷一·南昌士人》 — Public domain.*
 
