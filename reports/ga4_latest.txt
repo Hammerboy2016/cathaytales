@@ -1,0 +1,218 @@
+# GA4 Daily Report (auto-generated)
+# Generated: 2026-06-06 16:01:07 CST
+# Workflow run: 27056887296
+# Source: .github/workflows/ga4-daily.yml
+# ---
+============================================================
+  Cathay Tales GA4 数据简报
+  Property ID: 540045995
+  日期范围: 2026-05-08 ~ 2026-06-06
+============================================================
+
+📊 概览 (2026-05-08 ~ 2026-06-06)
+------------------------------------------------------------
+  活跃用户 (Active Users)     : 56
+  新用户 (New Users)          : 56
+  会话数 (Sessions)           : 74
+  页面浏览 (Page Views)       : 136
+  每会话 PV (Pages/Session)   : 1.84
+  人均参与时长                 : 55.5 秒 (0.9 分)
+  参与率 (Engagement Rate)    : 12.2%
+  跳出率 (Bounce Rate)        : 87.8%
+
+📈 每日趋势 (2026-05-08 ~ 2026-06-06)
+------------------------------------------------------------
+  日期                 活跃      新用户       会话       PV
+  2026-06-03         11       11       12       41
+  2026-06-04         21       20       24       32
+  2026-06-05         23       21       29       47
+  2026-06-06          5        4        9       16
+
+📄 Top 10 页面 (2026-05-08 ~ 2026-06-06)
+------------------------------------------------------------
+   1. /
+      Cathay Tales — Classical Chinese Tales i
+      PV=88  独立访客=47  人均停留=18s
+   2. /posts/the-fox-wife-who-raised-her-in-laws
+      The Fox Widow Who Raised Her In-Laws: A 
+      PV=14  独立访客=5  人均停留=184s
+   3. /contact
+      Contact · Cathay Tales
+      PV=4  独立访客=2  人均停留=61s
+   4. /posts/the-fox-wife-who-raised-her-in-laws
+      The Fox Widow Who Took In Her Husband's 
+      PV=4  独立访客=2  人均停留=163s
+   5. /posts/the-pig-and-the-old-man
+      A Pig That Hated Only One Man: A Qing Dy
+      PV=4  独立访客=3  人均停留=44s
+   6. /hubs/fox-spirits
+      Chinese Fox Spirits & Shapeshifters — Cl
+      PV=3  独立访客=2  人均停留=33s
+   7. /posts/the-man-who-welcomed-a-ghost
+      The Scholar Who Wiped a Ghost's Mouth wi
+      PV=3  独立访客=2  人均停留=246s
+   8. /posts/the-pig-and-the-old-man
+      A Pig That Hated Only One Man: A Qing Dy
+      PV=3  独立访客=2  人均停留=12s
+   9. /cmd_sco
+      Cathay Tales — Classical Chinese Tales i
+      PV=2  独立访客=2  人均停留=0s
+  10. /hubs/afterlife-and-underworld
+      Chinese Afterlife & Underworld Tales — C
+      PV=2  独立访客=2  人均停留=6s
+
+⭐ Top 20 页面参与度（按总停留时长排）
+----------------------------------------------------------------------
+  路径                                              PV   UV       人均      跳出率      质量分
+  /posts/the-fox-wife-who-raised-her-in-laws      18    6  207.7s   33.3% 🔥 24.0
+  /                                               88   47   17.8s   85.7% 🔻  2.9
+  /posts/the-man-who-welcomed-a-ghost              3    2  245.5s  100.0% 🔥 20.5
+  /posts/the-ghost-who-resigned-twice              2    3   55.3s  100.0% 🔻  4.6
+  /posts/the-pig-and-the-old-man                   7    4   38.8s   33.3% ✓   9.9
+  /contact                                         4    2   61.0s  100.0% ✓   5.1
+  /hubs/fox-spirits                                3    2   33.0s  100.0% 🔻  2.8
+  /hubs/afterlife-and-underworld                   2    2    6.5s  100.0% 🔻  0.5
+  /hubs/love-across-death                          1    1    4.0s  100.0% 🔻  0.3
+  /hubs/karma-and-retribution                      1    1    3.0s  100.0% 🔻  0.2
+  /sitemap.xml                                     1    1    3.0s    0.0% 🔥 10.2
+  /hubs/taoist-marvels                             1    1    1.0s  100.0% 🔻  0.1
+  /about                                           2    2    0.0s  100.0% 🔻  0.0
+  /cmd_sco                                         2    2    0.0s  100.0% 🔻  0.0
+  /privacy                                         1    1    0.0s  100.0% 🔻  0.0
+
+🛬 Top 15 着陆页（用户进站第一页 = SEO/外链入口）
+----------------------------------------------------------------------
+  路径                                                会话     用户      参与率       人均
+  /                                                 59     46   13.6%   57.4s
+  (unknown)                                          8      3    0.0%   69.7s
+  /about                                             2      2    0.0%    0.0s
+  /cmd_sco                                           2      2    0.0%    0.0s
+  /contact                                           2      2    0.0%   44.5s
+  /posts/the-ghost-who-resigned-twice                2      2    0.0%   34.5s
+  /posts/the-pig-and-the-old-man                     2      2   50.0%   11.5s
+  /hubs/afterlife-and-underworld                     1      1    0.0%   77.0s
+  /posts/the-fox-wife-who-raised-her-in-laws         1      1    0.0%    2.0s
+  /posts/the-man-who-welcomed-a-ghost                1      0    0.0%    0.0s
+  /privacy                                           1      1    0.0%    0.0s
+
+🚀 Top 10 流量来源 (2026-05-08 ~ 2026-06-06)
+------------------------------------------------------------
+  来源 / 媒介                                   会话       用户       参与会话
+  (direct) / (none)                         62       56          9
+  (not set) / (not set)                      8        3          0
+  medium.com / referral                      8        2          0
+  google / organic                           2        0          0
+
+🔗 真渠道细分（剔除 direct/google/(not set)）
+----------------------------------------------------------------------
+  来源                 媒介         落地页                              会话   用户       人均
+  medium.com         referral   /                                 5    2  352.0s
+  medium.com         referral                                     3    1   18.0s
+  medium.com         referral   /contact                          1    1   89.0s
+  medium.com         referral   /posts/the-man-who-welcomed-a     1    0    0.0s
+
+🔍 来源 × 国家交叉 (Top 20, 2026-05-08 ~ 2026-06-06)
+----------------------------------------------------------------------
+  来源                   国家                       会话     用户     参与       人均时长
+  (direct)             China                    20     16      8    111.9s
+  (direct)             United States            18     17      1      2.6s
+  (direct)             Poland                    6      6      0      0.0s
+  (not set)            China                     5      2      0     90.0s
+  (direct)             United Kingdom            4      4      0      0.0s
+  medium.com           United States             4      1      0     93.0s
+  (not set)            United States             3      1      0    169.0s
+  (direct)             (not set)                 2      2      0      0.0s
+  (direct)             Canada                    2      2      0      0.0s
+  (direct)             Hong Kong                 2      2      0      0.0s
+  (direct)             India                     2      2      0     15.0s
+  google               China                     2      0      0      0.0s
+  medium.com           China                     2      1      0     48.0s
+  (direct)             France                    1      1      0      0.0s
+  (direct)             Germany                   1      1      0      0.0s
+  (direct)             Netherlands               1      1      0      0.0s
+  (direct)             New Zealand               1      1      0      0.0s
+  (direct)             Singapore                 1      1      1     81.0s
+  (direct)             South Korea               1      1      0      0.0s
+  (direct)             Taiwan                    1      1      0      1.0s
+
+🌏 Top 10 国家 (2026-05-08 ~ 2026-06-06)
+------------------------------------------------------------
+   1. United States             用户=    17  会话=    23
+   2. China                     用户=    16  会话=    25
+   3. Poland                    用户=     6  会话=     6
+   4. United Kingdom            用户=     4  会话=     4
+   5. (not set)                 用户=     2  会话=     2
+   6. Canada                    用户=     2  会话=     2
+   7. Hong Kong                 用户=     2  会话=     2
+   8. India                     用户=     2  会话=     2
+   9. France                    用户=     1  会话=     1
+  10. Germany                   用户=     1  会话=     1
+
+👥 新 vs 老用户对比（粘性指标）
+----------------------------------------------------------------------
+  类型                  用户     会话    PV       人均时长     人均PV
+  new                 56     57    97     35.3s     1.73
+  returning            3     15    37    371.7s    12.33
+  (unknown)            1      2     0     17.0s     0.00
+  (not set)            0      2     2      0.0s     0.00
+
+📱 设备分布 (2026-05-08 ~ 2026-06-06)
+------------------------------------------------------------
+  desktop      用户=    33 (58.9%)  会话=    49
+  mobile       用户=    22 (39.3%)  会话=    24
+  tablet       用户=     1 (1.8%)  会话=     1
+
+🕐 24 小时流量分布（UTC，北京时间 +8）
+----------------------------------------------------------------------
+   UTC    北京    用户    会话   PV  柱状(PV)
+     0    8:00     1     1    2  ███
+     1    9:00     2     2    4  ██████
+     2   10:00     1     1    1  █
+     4   12:00     1     1    1  █
+     6   14:00     5     5    5  ████████
+     7   15:00     6     6    6  ██████████
+     8   16:00     2     4    4  ██████
+     9   17:00     2     3    4  ██████
+    10   18:00     4     4    8  █████████████
+    11   19:00     4     4    4  ██████
+    12   20:00     2     2    2  ███
+    14   22:00     5     6    8  █████████████
+    15   23:00     7     8   10  ████████████████
+    16    0:00     2     2    2  ███
+    17    1:00     4     4   12  ████████████████████
+    18    2:00     3     3    3  █████
+    19    3:00     4     4    9  ███████████████
+    20    4:00     5     5    7  ███████████
+    21    5:00     5     5   18  ██████████████████████████████
+    22    6:00     1     2   10  ████████████████
+    23    7:00     4     6   16  ██████████████████████████
+
+📅 周几流量分布（0=周日, 6=周六）
+----------------------------------------------------------------------
+  星期        用户    会话    PV       人均时长  柱状(PV)
+  周三        11    12    41     69.7s  █████████████████████
+  周四        21    24    32     36.9s  █████████████████
+  周五        23    29    47     36.3s  █████████████████████████
+  周六         5     9    16    146.0s  ████████
+
+🎯 增长信号分析（旺财自动总结）
+----------------------------------------------------------------------
+
+  🔥 应该放大（高质量+有流量，质量分≥10）：
+    /posts/the-fox-wife-who-raised-her-in-laws         质量24.0 停留208s PV18
+    /posts/the-man-who-welcomed-a-ghost                质量20.5 停留246s PV3
+
+  🔻 哑火警告（流量有但质量低，需复盘标题/开篇/选材）：
+    /posts/the-ghost-who-resigned-twice                质量4.6 停留55s PV2
+
+  💎 潜力股（质量高但流量低，应外推到 Medium/Reddit）：
+    /posts/the-man-who-welcomed-a-ghost                质量20.5 停留246s PV3
+
+  🗂️  Hub 引流健康度：
+    /hubs/fox-spirits                                  PV3 UV2 停留33s
+    /hubs/afterlife-and-underworld                     PV2 UV2 停留6s
+    /hubs/karma-and-retribution                        PV1 UV1 停留3s
+    /hubs/love-across-death                            PV1 UV1 停留4s
+    /hubs/taoist-marvels                               PV1 UV1 停留1s
+
+============================================================
