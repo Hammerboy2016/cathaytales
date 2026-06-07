@@ -145,6 +145,13 @@ const SERIES = {
     author_line: 'Luo Guanzhong (罗贯中, c. 1330–1400)',
     keywords: "Luo Guanzhong, Sansui Pingyao Zhuan, Chinese dark fantasy, demon revolt, Ming dynasty",
   },
+  sanyan: {
+    label: 'Sanyan: Stories of the Late Ming',
+    full: 'Sanyan — Three Vernacular Story Collections (三言)',
+    author: 'Feng Menglong (冯梦龙)',
+    author_line: 'Feng Menglong (冯梦龙, 1574–1646), compiler',
+    keywords: 'Feng Menglong, Sanyan, Stories Old and New, Stories to Caution the World, Stories to Awaken the World, Ming dynasty, vernacular fiction',
+  },
 };
 
 function getSeries(slug) {
