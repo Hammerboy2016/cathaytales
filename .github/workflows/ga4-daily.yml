@@ -16,9 +16,10 @@ on:
         required: false
         default: 'false'
   schedule:
-    # 北京时间 06:30 = UTC 22:30（前一天）
-    # 给旺财日报 07:00 留 30 分钟缓冲拉取
-    - cron: '30 22 * * *'
+    # 2026-06-07 由每日改为每周一拉取（省积分，配合旺财周报）
+    # 周一北京 06:30 = 周日 UTC 22:30
+    # 给旺财周报 07:00 留 30 分钟缓冲拉取
+    - cron: '30 22 * * 0'
 
 permissions:
   contents: write   # 允许 commit reports/ga4_latest.txt 回 main
