@@ -438,7 +438,11 @@ function buildPost(filePath, template) {
 }
 
 function buildIndex(posts, template) {
-  const sorted = posts.sort((a, b) => (a.tale_number || 0) - (b.tale_number || 0));
+  // 倒序：最新发布的在最前；同日按文件名（数字前缀）倒序作 tiebreaker
+  const sorted = [...posts].sort((a, b) => {
+    const d = new Date(b.date) - new Date(a.date);
+    return d !== 0 ? d : (b.outPath || '').localeCompare(a.outPath || '');
+  });
   const cards = sorted.map(p => {
     const titleHtml = p.title_zh
       ? `${p.title} <span class="title-zh">/ ${p.title_zh}</span>`
@@ -446,7 +450,7 @@ function buildIndex(posts, template) {
     return `
     <article class="tale-card">
       <a href="${p.outPath}">
-        <div class="meta">Tale ${p.tale_number || '?'} · ${formatDate(p.date)}</div>
+        <div class="meta">${formatDate(p.date)}</div>
         <h3>${titleHtml}</h3>
         <p class="excerpt">${p.excerpt || ''}</p>
       </a>
@@ -511,7 +515,7 @@ function buildHubs(posts, template) {
         return `
       <article class="tale-card hub-tale-card">
         <a href="../${p.outPath}">
-          <div class="meta">Tale ${p.tale_number || '?'} · ${formatDate(p.date)}</div>
+          <div class="meta">${formatDate(p.date)}</div>
           <h3>${titleHtml}</h3>
           <div class="hub-card-chips">${chipLine}
           </div>
