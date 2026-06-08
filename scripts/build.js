@@ -152,6 +152,20 @@ const SERIES = {
     author_line: 'Feng Menglong (冯梦龙, 1574–1646), compiler',
     keywords: 'Feng Menglong, Sanyan, Stories Old and New, Stories to Caution the World, Stories to Awaken the World, Ming dynasty, vernacular fiction',
   },
+  liaozhai: {
+    label: 'Strange Tales from a Chinese Studio',
+    full: 'Strange Tales from a Chinese Studio (聊斋志异)',
+    author: 'Pu Songling (蒲松龄)',
+    author_line: 'Pu Songling (蒲松龄, 1640–1715)',
+    keywords: 'Pu Songling, Liaozhai Zhiyi, Strange Tales from a Chinese Studio, Qing dynasty, fox spirit, ghost story, classical Chinese tale',
+  },
+  soushen: {
+    label: 'In Search of the Supernatural',
+    full: 'In Search of the Supernatural (搜神记)',
+    author: 'Gan Bao (干宝)',
+    author_line: 'Gan Bao (干宝, c. 286–336)',
+    keywords: 'Gan Bao, Soushen Ji, In Search of the Supernatural, Jin dynasty, Six Dynasties, zhiguai, supernatural, ghost story',
+  },
 };
 
 function getSeries(slug) {
