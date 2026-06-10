@@ -2,7 +2,7 @@
 title: "A Pig That Hated Only One Man: A Qing Dynasty Ghost Story"
 slug: "the-pig-and-the-old-man"
 date: "2026-06-03"
-series: "Notes from the Thatched Study"
+series: "yuewei"
 volume: "Luanyang Xiaoxia Lu (Part I)"
 tale_number: 1
 title_zh: "老翁与猪"
