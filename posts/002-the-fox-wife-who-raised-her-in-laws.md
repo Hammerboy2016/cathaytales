@@ -2,7 +2,7 @@
 title: "The Fox Widow Who Raised Her In-Laws: A Qing Dynasty Ghost Story"
 slug: "the-fox-wife-who-raised-her-in-laws"
 date: "2026-06-03"
-series: "Notes from the Thatched Study"
+series: "yuewei"
 volume: "Gu Wang Ting Zhi (Part III)"
 tale_number: 2
 title_zh: "狐妻守墓"
