@@ -2,7 +2,7 @@
 title: "The Friend Who Forgot How to Leave: A Qing Dynasty Ghost Story"
 slug: "the-friend-who-forgot-how-to-leave"
 date: "2026-06-06"
-series: "What the Master Would Not Discuss"
+series: "zibuyu"
 source_book: "子不语 / Zi Bu Yu (What the Master Would Not Discuss)"
 volume: "Volume I"
 tale_number: 5
