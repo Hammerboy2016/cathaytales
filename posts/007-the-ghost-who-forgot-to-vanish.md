@@ -2,7 +2,7 @@
 title: "The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery"
 slug: "the-ghost-who-forgot-to-vanish"
 date: "2026-06-06"
-series: "Notes from the Thatched Study"
+series: "yuewei"
 volume: "Volume III · Luanyang Xiaoxia Lu III"
 tale_number: 7
 title_zh: "唐执玉断狱"
