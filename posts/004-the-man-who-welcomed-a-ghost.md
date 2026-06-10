@@ -2,7 +2,7 @@
 title: "The Scholar Who Wiped a Ghost's Mouth with Toilet Paper: A Qing Dynasty Ghost Story"
 slug: "the-man-who-welcomed-a-ghost"
 date: "2026-06-05"
-series: "Notes from the Thatched Study"
+series: "yuewei"
 volume: "Luanyang Xiaoxia Lu (Part VI)"
 tale_number: 4
 title_zh: "许南金不畏鬼"
