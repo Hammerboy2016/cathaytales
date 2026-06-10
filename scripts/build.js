@@ -166,6 +166,13 @@ const SERIES = {
     author_line: 'Gan Bao (干宝, c. 286–336)',
     keywords: 'Gan Bao, Soushen Ji, In Search of the Supernatural, Jin dynasty, Six Dynasties, zhiguai, supernatural, ghost story',
   },
+  chuanqi: {
+    label: 'Tang Tales of the Marvelous',
+    full: 'Tang Tales of the Marvelous (唐传奇)',
+    author: 'Various Tang Authors',
+    author_line: 'Various Tang authors (7th–10th c.)',
+    keywords: 'Tang chuanqi, Tang dynasty tales, classical Chinese romance, knight-errant, Tang marvels, Tang fiction',
+  },
 };
 
 function getSeries(slug) {

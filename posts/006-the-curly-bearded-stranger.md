@@ -2,7 +2,7 @@
 title: "The Curly-Bearded Stranger: A Tang Dynasty Folktale of Three Heroes"
 slug: "the-curly-bearded-stranger"
 date: "2026-06-06"
-series: "Tang Tales of the Marvelous (Chuanqi)"
+series: "chuanqi"
 source_book: "虬髯客传 / The Tale of the Curly-Bearded Stranger"
 volume: "Tang Chuanqi"
 tale_number: 6
