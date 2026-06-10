@@ -2,7 +2,7 @@
 title: "The Ghost Who Resigned Twice: A Ming Dynasty Ghost Story"
 slug: "the-ghost-who-resigned-twice"
 date: "2026-06-04"
-series: "Notes from the Thatched Study"
+series: "yuewei"
 volume: "Luanyang Xiaoxia Lu (Part VI)"
 tale_number: 3
 title_zh: "鬼隐"
