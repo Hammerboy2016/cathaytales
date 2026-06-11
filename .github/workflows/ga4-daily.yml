@@ -20,6 +20,10 @@ on:
     # 周一北京 06:30 = 周日 UTC 22:30
     # 给旺财周报 07:00 留 30 分钟缓冲拉取
     - cron: '30 22 * * 0'
+  # 2026-06-11 加 push 触发：写 reports/.trigger 文件即可手动重跑（旺财 PAT 无 actions:write 用此绕路）
+  push:
+    branches: [main]
+    paths: ['reports/.trigger']
 
 permissions:
   contents: write   # 允许 commit reports/ga4_latest.txt 回 main
