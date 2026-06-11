@@ -1,26 +1,26 @@
 # GA4 Daily Report (auto-generated)
-# Generated: 2026-06-08 07:34:57 CST
-# Workflow run: 27108198181
+# Generated: 2026-06-11 22:42:08 CST
+# Workflow run: 27354960284
 # Source: .github/workflows/ga4-daily.yml
 # ---
 ============================================================
   Cathay Tales GA4 数据简报
   Property ID: 540045995
-  日期范围: 2026-05-09 ~ 2026-06-07
+  日期范围: 2026-05-13 ~ 2026-06-11
 ============================================================
 
-📊 概览 (2026-05-09 ~ 2026-06-07)
+📊 概览 (2026-05-13 ~ 2026-06-11)
 ------------------------------------------------------------
-  活跃用户 (Active Users)     : 63
-  新用户 (New Users)          : 63
-  会话数 (Sessions)           : 87
-  页面浏览 (Page Views)       : 162
-  每会话 PV (Pages/Session)   : 1.86
-  人均参与时长                 : 58.9 秒 (1.0 分)
-  参与率 (Engagement Rate)    : 26.4%
-  跳出率 (Bounce Rate)        : 73.6%
+  活跃用户 (Active Users)     : 78
+  新用户 (New Users)          : 78
+  会话数 (Sessions)           : 105
+  页面浏览 (Page Views)       : 179
+  每会话 PV (Pages/Session)   : 1.70
+  人均参与时长                 : 48.8 秒 (0.8 分)
+  参与率 (Engagement Rate)    : 25.7%
+  跳出率 (Bounce Rate)        : 74.3%
 
-📈 每日趋势 (2026-05-09 ~ 2026-06-07)
+📈 每日趋势 (2026-05-13 ~ 2026-06-11)
 ------------------------------------------------------------
   日期                 活跃      新用户       会话       PV
   2026-06-03         11       11       12       41
@@ -28,12 +28,16 @@
   2026-06-05         24       22       31       53
   2026-06-06          9        8       17       31
   2026-06-07          3        2        3        5
+  2026-06-08          4        3        6        5
+  2026-06-09          0        0        1        0
+  2026-06-10         11       11       11       11
+  2026-06-11          1        1        1        1
 
-📄 Top 10 页面 (2026-05-09 ~ 2026-06-07)
+📄 Top 10 页面 (2026-05-13 ~ 2026-06-11)
 ------------------------------------------------------------
    1. /
       Cathay Tales — Classical Chinese Tales i
-      PV=103  独立访客=54  人均停留=18s
+      PV=120  独立访客=69  人均停留=15s
    2. /posts/the-fox-wife-who-raised-her-in-laws
       The Fox Widow Who Raised Her In-Laws: A 
       PV=14  独立访客=5  人均停留=184s
@@ -66,13 +70,13 @@
 ----------------------------------------------------------------------
   路径                                              PV   UV       人均      跳出率      质量分
   /posts/the-fox-wife-who-raised-her-in-laws      18    6  207.7s   16.7% 🔥 25.6
-  /                                              103   54   17.9s   69.3% 🔻  4.6
+  /                                              120   69   15.4s   71.0% 🔻  4.2
   /posts/the-man-who-welcomed-a-ghost              3    2  248.0s   50.0% 🔥 25.7
   /posts/the-friend-who-forgot-how-to-leave        2    1  277.0s   50.0% 🔥 28.1
   /posts/the-ghost-who-resigned-twice              3    3   55.3s   25.0% 🔥 12.1
   /posts/the-pig-and-the-old-man                   7    4   38.8s   16.7% 🔥 11.6
   /contact                                         4    2   61.0s   50.0% 🔥 10.1
-  /posts/the-silver-needle-that-turned-black       1    1   69.0s  100.0% ✓   5.8
+  /posts/the-silver-needle-that-turned-black       1    1   69.0s    0.0% 🔥 15.8
   /hubs/fox-spirits                                3    2   33.0s    0.0% 🔥 12.8
   /posts/the-curly-bearded-stranger                2    1   64.0s   50.0% 🔥 10.3
   /posts/the-ghost-who-forgot-to-vanish            3    1   57.0s   33.3% 🔥 11.4
@@ -89,12 +93,12 @@
 🛬 Top 15 着陆页（用户进站第一页 = SEO/外链入口）
 ----------------------------------------------------------------------
   路径                                                会话     用户      参与率       人均
-  /                                                 74     53   29.7%   69.4s
+  /                                                 90     68   28.9%   55.6s
+  (not set)                                          3      1    0.0%    0.0s
   /about                                             2      2    0.0%    0.0s
   /cmd_sco                                           2      2    0.0%    0.0s
   /posts/the-pig-and-the-old-man                     2      2   50.0%   11.5s
-  (unknown)                                          1      1    0.0%    9.0s
-  (not set)                                          1      1    0.0%    0.0s
+  (unknown)                                          1      1    0.0%    7.0s
   /contact                                           1      1    0.0%    0.0s
   /posts/the-fox-wife-who-raised-her-in-laws         1      1    0.0%    2.0s
   /posts/the-ghost-who-resigned-twice                1      1    0.0%    0.0s
@@ -102,86 +106,88 @@
   /privacy                                           1      1    0.0%    0.0s
   /the-ghost-who-forgot-to-vanish                    1      0    0.0%    0.0s
 
-🚀 Top 10 流量来源 (2026-05-09 ~ 2026-06-07)
+🚀 Top 10 流量来源 (2026-05-13 ~ 2026-06-11)
 ------------------------------------------------------------
   来源 / 媒介                                   会话       用户       参与会话
-  (direct) / (none)                         71       63         13
-  medium.com / referral                     13        2          9
-  (not set) / (not set)                      2        2          0
+  (direct) / (none)                         85       77         15
+  medium.com / referral                     16        2         11
+  (not set) / (not set)                      3        3          0
   google / organic                           2        1          1
 
 🔗 真渠道细分（剔除 direct/google/(not set)）
 ----------------------------------------------------------------------
   来源                 媒介         落地页                              会话   用户       人均
-  medium.com         referral   /                                11    2  575.5s
-  medium.com         referral   (not set)                         1    1    0.0s
+  medium.com         referral   /                                12    2  621.0s
+  medium.com         referral   (not set)                         3    1    0.0s
   medium.com         referral   /posts/the-man-who-welcomed-a     1    1    0.0s
 
-🔍 来源 × 国家交叉 (Top 20, 2026-05-09 ~ 2026-06-07)
+🔍 来源 × 国家交叉 (Top 20, 2026-05-13 ~ 2026-06-11)
 ----------------------------------------------------------------------
   来源                   国家                       会话     用户     参与       人均时长
-  (direct)             United States            23     22      2      2.8s
+  (direct)             United States            34     33      3      2.1s
   (direct)             China                    22     16     10    118.3s
   (direct)             Poland                    6      6      0      0.0s
-  medium.com           China                     5      1      4     75.0s
-  medium.com           United States             5      1      3    265.0s
+  medium.com           United States             6      1      3    265.0s
+  medium.com           China                     5      1      5    117.0s
+  (direct)             Canada                    4      4      0      0.0s
   (direct)             United Kingdom            4      4      0      0.0s
+  medium.com           Japan                     4      1      2    118.0s
   (direct)             (not set)                 2      2      0      0.0s
-  (direct)             Canada                    2      2      0      0.0s
   (direct)             Germany                   2      2      0      0.5s
   (direct)             Hong Kong                 2      2      0      0.0s
   (direct)             India                     2      2      1     15.0s
+  (direct)             South Korea               2      2      0      0.0s
   google               China                     2      1      1     69.0s
-  medium.com           Japan                     2      1      0     69.0s
   medium.com           Singapore                 2      1      2    742.0s
-  (direct)             Cyprus                    1      1      0     22.0s
+  (direct)             Cyprus                    1      1      1     22.0s
   (direct)             France                    1      1      0      0.0s
   (direct)             Netherlands               1      1      0      0.0s
   (direct)             New Zealand               1      1      0      0.0s
   (direct)             Singapore                 1      1      1     81.0s
-  (direct)             South Korea               1      1      0      0.0s
 
-🌏 Top 10 国家 (2026-05-09 ~ 2026-06-07)
+🌏 Top 10 国家 (2026-05-13 ~ 2026-06-11)
 ------------------------------------------------------------
-   1. United States             用户=    22  会话=    28
+   1. United States             用户=    34  会话=    41
    2. China                     用户=    16  会话=    30
    3. Poland                    用户=     6  会话=     6
-   4. United Kingdom            用户=     4  会话=     4
-   5. (not set)                 用户=     2  会话=     2
-   6. Canada                    用户=     2  会话=     2
+   4. Canada                    用户=     4  会话=     4
+   5. United Kingdom            用户=     4  会话=     4
+   6. (not set)                 用户=     2  会话=     2
    7. Germany                   用户=     2  会话=     2
    8. Hong Kong                 用户=     2  会话=     2
    9. India                     用户=     2  会话=     2
-  10. Cyprus                    用户=     1  会话=     1
+  10. South Korea               用户=     2  会话=     2
 
 👥 新 vs 老用户对比（粘性指标）
 ----------------------------------------------------------------------
   类型                  用户     会话    PV       人均时长     人均PV
-  new                 63     63   104     32.3s     1.65
-  returning            3     19    53    556.0s    17.67
-  (unknown)            1      1     0      9.0s     0.00
-  (not set)            0      5     5      0.0s     0.00
+  new                 78     78   119     26.2s     1.53
+  returning            3     20    55    586.3s    18.33
+  (unknown)            1      1     0      7.0s     0.00
+  (not set)            0      7     5      0.0s     0.00
 
-📱 设备分布 (2026-05-09 ~ 2026-06-07)
+📱 设备分布 (2026-05-13 ~ 2026-06-11)
 ------------------------------------------------------------
-  desktop      用户=    38 (60.3%)  会话=    58
-  mobile       用户=    24 (38.1%)  会话=    28
-  tablet       用户=     1 (1.6%)  会话=     1
+  desktop      用户=    48 (61.5%)  会话=    71
+  mobile       用户=    28 (35.9%)  会话=    32
+  tablet       用户=     2 (2.6%)  会话=     2
 
 🕐 24 小时流量分布（UTC，北京时间 +8）
 ----------------------------------------------------------------------
    UTC    北京    用户    会话   PV  柱状(PV)
-     0    8:00     1     1    2  ██
+     0    8:00     2     4    4  ████
      1    9:00     4     4    6  ██████
-     2   10:00     1     1    1  █
+     2   10:00     2     2    2  ██
+     3   11:00     1     1    1  █
      4   12:00     1     1    1  █
-     6   14:00     5     5    5  █████
+     6   14:00     6     6    6  ██████
      7   15:00     6     6    6  ██████
-     8   16:00     3     6    5  █████
-     9   17:00     2     3    4  ████
-    10   18:00     4     4    8  █████████
+     8   16:00     4     7    6  ██████
+     9   17:00     4     5    6  ██████
+    10   18:00     9    10   13  ███████████████
     11   19:00     4     4    4  ████
     12   20:00     2     2    2  ██
+    13   21:00     1     1    1  █
     14   22:00     5     7    9  ██████████
     15   23:00     7     8   10  ███████████
     16    0:00     2     2    2  ██
@@ -190,15 +196,17 @@
     19    3:00     5     5   13  ███████████████
     20    4:00     5     5    7  ████████
     21    5:00     8     9   26  ██████████████████████████████
-    22    6:00     2     3   11  ████████████
+    22    6:00     4     6   14  ████████████████
     23    7:00     5     8   21  ████████████████████████
 
 📅 周几流量分布（0=周日, 6=周六）
 ----------------------------------------------------------------------
   星期        用户    会话    PV       人均时长  柱状(PV)
-  周日         3     3     5     33.3s  ██
-  周三        11    12    41     69.7s  ███████████████████
-  周四        21    24    32     36.9s  ███████████████
+  周日         3     3     5     47.3s  ██
+  周一         4     6     5     12.2s  ██
+  周二         0     1     0      0.0s  
+  周三        22    23    52     35.2s  ████████████████████████
+  周四        22    25    33     35.2s  ███████████████
   周五        24    31    53     35.1s  █████████████████████████
   周六         9    17    31    136.4s  ██████████████
 
@@ -218,9 +226,9 @@
   💎 潜力股（质量高但流量低，应外推到 Medium/Reddit）：
     /posts/the-friend-who-forgot-how-to-leave          质量28.1 停留277s PV2
     /posts/the-man-who-welcomed-a-ghost                质量25.7 停留248s PV3
+    /posts/the-silver-needle-that-turned-black         质量15.8 停留69s PV1
     /posts/the-ghost-who-resigned-twice                质量12.1 停留55s PV3
     /posts/the-ghost-who-forgot-to-vanish              质量11.4 停留57s PV3
-    /posts/the-curly-bearded-stranger                  质量10.3 停留64s PV2
 
   🗂️  Hub 引流健康度：
     /hubs/fox-spirits                                  PV3 UV2 停留33s
