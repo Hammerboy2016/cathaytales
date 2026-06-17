@@ -183,6 +183,7 @@ function getSeries(slug) {
 // hub frontmatter 字段必填且严格匹配 6 选 1；缺/拼错 → buildPost 抛错
 // long_intro：每个 hub 的编辑性原创导读（HTML 多段，不 escape），见 ./_hub_long_intros.js
 const HUB_LONG_INTROS = require('./_hub_long_intros');
+const HOW_TO_READ_HTML = require('./_how_to_read');
 const HUBS = [
   {
     key: 'Fox Spirits & Shapeshifters',
@@ -320,9 +321,9 @@ ${hubLinks}
       </div>
       <div class="nav-utility" aria-label="Site pages">
         <a href="${p}index.html">All Tales</a>
-        <a href="${p}about.html">About</a>
+        <a href="${p}about">About</a>
         <a href="${p}index.html#subscribe">Subscribe</a>
-        <a href="${p}contact.html">Contact</a>
+        <a href="${p}contact">Contact</a>
       </div>
     </nav>`;
 }
@@ -341,7 +342,7 @@ function applyTemplate(template, vars) {
 }
 
 // ---------- build ----------
-function buildPost(filePath, template) {
+function buildPost(filePath, template, allPosts) {
   resetFootnotes();
   const raw = fs.readFileSync(filePath, 'utf8');
   const { data: meta, content } = matter(raw);
@@ -429,6 +430,43 @@ function buildPost(filePath, template) {
     contentWithChips = chipHtml + '\n' + contentWithChips;
   }
 
+  // ---- Related Tales (same hub, newest 3, exclude self) ----
+  let relatedHtml = '';
+  if (Array.isArray(allPosts) && allPosts.length) {
+    const sameHub = allPosts
+      .filter(p => p.hub_obj && p.hub_obj.key === hub.key && p.slug !== meta.slug)
+      .sort((a, b) => new Date(b.date) - new Date(a.date))
+      .slice(0, 3);
+    if (sameHub.length) {
+      const cards = sameHub.map(p => {
+        const titleHtml = p.title_zh
+          ? `${escapeHtml(p.title)} <span class="title-zh">/ ${escapeHtml(p.title_zh)}</span>`
+          : escapeHtml(p.title);
+        const chipLine = `
+          <span class="hub-card-chip chip-dynasty">${escapeHtml(p.dynasty_label)}</span>
+          <span class="hub-card-chip chip-difficulty">${p.difficulty.emoji} ${p.difficulty.label}</span>`;
+        return `
+      <article class="tale-card hub-tale-card related-tale-card">
+        <a href="../${p.outPath}">
+          <div class="meta">${formatDate(p.date)}</div>
+          <h3>${titleHtml}</h3>
+          <div class="hub-card-chips">${chipLine}
+          </div>
+          <p class="excerpt">${escapeHtml(p.excerpt || '')}</p>
+        </a>
+      </article>`;
+      }).join('');
+      relatedHtml = `
+      <section class="related-tales">
+        <hr>
+        <h2 class="related-tales-heading">More from <a href="../hubs/${hub.slug}.html">${escapeHtml(hub.h1)}</a></h2>
+        <div class="related-tales-grid">${cards}
+        </div>
+        <p class="related-tales-more"><a href="../hubs/${hub.slug}.html">→ Browse all ${escapeHtml(hub.nav_label)} tales</a></p>
+      </section>`;
+    }
+  }
+
   const html = applyTemplate(template, {
     TITLE: titleBilingual,
     SEO_DESCRIPTION: meta.seo_description || meta.excerpt || '',
@@ -437,6 +475,7 @@ function buildPost(filePath, template) {
     DATE_FORMATTED: formatDate(meta.date),
     TALE_NUMBER: meta.tale_number || '?',
     CONTENT: contentWithChips,
+    RELATED_TALES: relatedHtml,
     POST_CHIPS: chipHtml,
     HUB_NAV: renderHubNav('../'),
     SERIES_LABEL: series.label,
@@ -509,6 +548,7 @@ function buildIndex(posts, template) {
   let html = template.replace('{{TALE_LIST}}', cards);
   html = html.replace('{{HUB_NAV}}', renderHubNav(''));
   html = html.replace('{{HUB_ENTRIES}}', hubEntriesHtml);
+  html = html.replace('{{HOW_TO_READ}}', HOW_TO_READ_HTML);
   fs.writeFileSync(path.join(DIST_DIR, 'index.html'), html);
 }
 
@@ -592,9 +632,9 @@ function buildSitemap(posts) {
   const today = new Date().toISOString().slice(0, 10);
   const urls = [
     { loc: `${SITE_URL}/`, lastmod: today, priority: '1.0' },
-    { loc: `${SITE_URL}/about.html`, lastmod: today, priority: '0.7' },
-    { loc: `${SITE_URL}/contact.html`, lastmod: today, priority: '0.5' },
-    { loc: `${SITE_URL}/privacy.html`, lastmod: today, priority: '0.3' },
+    { loc: `${SITE_URL}/about`, lastmod: today, priority: '0.7' },
+    { loc: `${SITE_URL}/contact`, lastmod: today, priority: '0.5' },
+    { loc: `${SITE_URL}/privacy`, lastmod: today, priority: '0.3' },
     ...HUBS.map(h => ({
       loc: `${SITE_URL}/hubs/${h.slug}`,
       lastmod: today,
@@ -693,7 +733,10 @@ function main() {
   const hubTemplate = fs.readFileSync(path.join(TEMPLATES_DIR, 'hub.html'), 'utf8');
 
   const postFiles = fs.readdirSync(POSTS_DIR).filter(f => f.endsWith('.md'));
+  // Pass 1: build to collect metadata (no Related Tales yet)
   const posts = postFiles.map(f => buildPost(path.join(POSTS_DIR, f), postTemplate));
+  // Pass 2: rebuild posts with Related Tales injected (overwrites Pass 1 output)
+  postFiles.forEach(f => buildPost(path.join(POSTS_DIR, f), postTemplate, posts));
 
   buildIndex(posts, indexTemplate);
   buildHubs(posts, hubTemplate);

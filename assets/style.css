@@ -1192,3 +1192,178 @@ details.content-warning > p {
 details.content-warning strong {
   font-weight: 600;
 }
+
+/* ---------- Related Tales (post page bottom) ---------- */
+.related-tales {
+  margin: 3rem 0 2rem;
+}
+.related-tales hr {
+  border: none;
+  border-top: 1px solid var(--color-rule, #d8c8b4);
+  margin: 0 0 2rem;
+}
+.related-tales-heading {
+  font-family: var(--font-serif);
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: var(--color-ink, #2c2218);
+  margin: 0 0 1.4rem;
+  letter-spacing: 0.01em;
+}
+.related-tales-heading a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted var(--color-accent, #b6442a);
+}
+.related-tales-heading a:hover {
+  color: var(--color-accent, #b6442a);
+}
+.related-tales-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.2rem;
+  margin: 0 0 1.4rem;
+}
+.related-tale-card {
+  border: 1px solid var(--color-rule, #d8c8b4);
+  border-radius: 4px;
+  padding: 1rem 1.1rem;
+  background: rgba(245, 238, 226, 0.4);
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+.related-tale-card:hover {
+  background: rgba(182, 68, 42, 0.05);
+  border-color: var(--color-accent, #b6442a);
+}
+.related-tale-card a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+.related-tale-card .meta {
+  font-family: var(--font-sans);
+  font-size: 0.74rem;
+  color: var(--color-ink-faint, #8a7a6a);
+  margin-bottom: 0.4rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.related-tale-card h3 {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  font-weight: 500;
+  margin: 0 0 0.6rem;
+  line-height: 1.35;
+  color: var(--color-ink, #2c2218);
+}
+.related-tale-card h3 .title-zh {
+  font-family: 'Noto Serif SC', serif;
+  font-size: 0.92rem;
+  color: var(--color-ink-soft, #5d4f43);
+  font-weight: 400;
+}
+.related-tale-card .hub-card-chips {
+  margin-bottom: 0.5rem;
+}
+.related-tale-card .excerpt {
+  font-size: 0.85rem;
+  line-height: 1.55;
+  color: var(--color-ink-soft, #5d4f43);
+  margin: 0;
+}
+.related-tales-more {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  text-align: right;
+  margin: 0;
+}
+.related-tales-more a {
+  color: var(--color-accent, #b6442a);
+  text-decoration: none;
+}
+.related-tales-more a:hover {
+  text-decoration: underline;
+}
+
+/* ============================================
+   Where to start (homepage reader-onboarding)
+   ============================================ */
+.how-to-read {
+  margin: 4rem 0 3rem;
+  padding: 2.5rem 2rem;
+  background: linear-gradient(180deg, #fbf7f2 0%, #f5ede1 100%);
+  border-radius: 8px;
+  border: 1px solid rgba(122, 32, 24, 0.12);
+}
+.how-to-read h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.75rem;
+  color: #4a1816;
+  border-bottom: none;
+  letter-spacing: -0.01em;
+}
+.how-to-read-lead {
+  max-width: 68ch;
+  margin: 0 auto 2rem;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: #3a2a22;
+}
+.how-to-read-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+.how-to-read-card {
+  background: #fff;
+  padding: 1.5rem 1.25rem;
+  border-radius: 6px;
+  border: 1px solid rgba(122, 32, 24, 0.1);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+.how-to-read-card h3 {
+  margin: 0 0 0.75rem;
+  font-size: 1.05rem;
+  color: #7a2018;
+  line-height: 1.35;
+}
+.how-to-read-card p {
+  margin: 0 0 0.75rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #3a2a22;
+}
+.how-to-read-card p:last-child {
+  margin-bottom: 0;
+  font-weight: 500;
+}
+.how-to-read-card a {
+  color: #7a2018;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+.how-to-read-foot {
+  max-width: 68ch;
+  margin: 1.5rem auto 0;
+  padding-top: 1.25rem;
+  border-top: 1px solid rgba(122, 32, 24, 0.15);
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: #5a4538;
+  font-style: italic;
+}
+@media (max-width: 768px) {
+  .how-to-read {
+    padding: 1.75rem 1.25rem;
+  }
+  .how-to-read-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .how-to-read h2 {
+    font-size: 1.5rem;
+  }
+}
