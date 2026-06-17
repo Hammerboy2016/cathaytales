@@ -1053,6 +1053,34 @@ details.historical-context p {
   color: var(--color-ink-faint, #8a7a6a);
   margin: 0;
 }
+.hub-long-intro {
+  margin: 1.8rem 0 2.4rem;
+  padding: 1.4rem 1.6rem 1.2rem;
+  border-left: 3px solid var(--color-accent, #b6442a);
+  background: rgba(182, 68, 42, 0.04);
+  max-width: 68ch;
+}
+.hub-long-intro p {
+  font-size: 1rem;
+  line-height: 1.75;
+  color: var(--color-ink, #2c2218);
+  margin: 0 0 1rem;
+}
+.hub-long-intro p:last-of-type {
+  margin-bottom: 0;
+}
+.hub-long-intro em {
+  font-style: italic;
+  color: var(--color-ink-soft, #5d4f43);
+}
+.hub-long-intro-byline {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  color: var(--color-ink-faint, #8a7a6a);
+  margin-top: 1rem !important;
+  text-align: right;
+  letter-spacing: 0.04em;
+}
 .hub-empty {
   font-style: italic;
   color: var(--color-ink-soft, #5d4f43);

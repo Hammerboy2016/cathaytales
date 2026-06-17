@@ -181,6 +181,8 @@ function getSeries(slug) {
 
 // ---------- HUB registry (v2.5 双轴主导航 2026-06-05) ----------
 // hub frontmatter 字段必填且严格匹配 6 选 1；缺/拼错 → buildPost 抛错
+// long_intro：每个 hub 的编辑性原创导读（HTML 多段，不 escape），见 ./_hub_long_intros.js
+const HUB_LONG_INTROS = require('./_hub_long_intros');
 const HUBS = [
   {
     key: 'Fox Spirits & Shapeshifters',
@@ -554,6 +556,7 @@ function buildHubs(posts, template) {
       HUB_SEO_DESCRIPTION: escapeHtml(hub.seo_description),
       HUB_KEYWORDS: escapeHtml(hub.keywords),
       HUB_BLURB: escapeHtml(hub.blurb),
+      HUB_LONG_INTRO: HUB_LONG_INTROS[hub.slug] || '',
       HUB_SLUG: hub.slug,
       HUB_CARDS: cards,
       HUB_COUNT: inHub.length,
