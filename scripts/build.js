@@ -16,12 +16,14 @@ const matter = require('gray-matter');
 
 const ROOT = path.resolve(__dirname, '..');
 const POSTS_DIR = path.join(ROOT, 'posts');
+const ESSAYS_DIR = path.join(ROOT, 'essays');
 const TEMPLATES_DIR = path.join(ROOT, 'templates');
 const ASSETS_DIR = path.join(ROOT, 'assets');
 const STATIC_DIR = path.join(ROOT, 'static');
 const DIST_DIR = path.join(ROOT, 'dist');
 const DIST_POSTS_DIR = path.join(DIST_DIR, 'posts');
 const DIST_HUBS_DIR = path.join(DIST_DIR, 'hubs');
+const DIST_ESSAYS_DIR = path.join(DIST_DIR, 'essays');
 const DIST_ASSETS_DIR = path.join(DIST_DIR, 'assets');
 
 // ---------- marked: enable footnotes via custom extension ----------
@@ -313,16 +315,17 @@ function seriesAnchor(seriesSlug) {
 function renderHubNav(pathPrefix = '') {
   const p = pathPrefix;
   const hubLinks = HUBS.map(h =>
-    `        <a href="${p}hubs/${h.slug}.html">${escapeHtml(h.nav_label)}</a>`
+    `        <a href="${p}hubs/${h.slug}">${escapeHtml(h.nav_label)}</a>`
   ).join('\n');
   return `<nav class="site-nav" aria-label="Main navigation">
       <div class="nav-hubs" aria-label="Tale themes">
 ${hubLinks}
       </div>
       <div class="nav-utility" aria-label="Site pages">
-        <a href="${p}index.html">All Tales</a>
+        <a href="${p}">All Tales</a>
+        <a href="${p}essays/">Essays</a>
         <a href="${p}about">About</a>
-        <a href="${p}index.html#subscribe">Subscribe</a>
+        <a href="${p}#subscribe">Subscribe</a>
         <a href="${p}contact">Contact</a>
       </div>
     </nav>`;
@@ -484,7 +487,7 @@ function buildPost(filePath, template, allPosts) {
     AUTHOR_NAME: series.author,
     AUTHOR_LINE: series.author_line,
     CSS_PATH: '../assets/style.css',
-    HOME_PATH: '../index.html',
+    HOME_PATH: '../',
     ASSETS_BASE: '../assets/',
   });
 
@@ -564,8 +567,8 @@ function buildHubs(posts, template) {
       cards = `
       <p class="hub-empty">
         No tales translated for this hub yet — new ones are added weekly.
-        In the meantime, <a href="../index.html">browse all tales</a> or
-        <a href="../index.html#subscribe">subscribe</a> to hear when this hub opens.
+        In the meantime, <a href="../">browse all tales</a> or
+        <a href="../#subscribe">subscribe</a> to hear when this hub opens.
       </p>`;
     } else {
       cards = inHub.map(p => {
@@ -602,11 +605,137 @@ function buildHubs(posts, template) {
       HUB_COUNT: inHub.length,
       HUB_NAV: renderHubNav('../'),
       CSS_PATH: '../assets/style.css',
-      HOME_PATH: '../index.html',
+      HOME_PATH: '../',
       ASSETS_BASE: '../assets/',
     });
     fs.writeFileSync(path.join(DIST_HUBS_DIR, `${hub.slug}.html`), html);
   }
+}
+
+// ---------- Essays (long-form editorial) ----------
+function buildEssay(filePath, template) {
+  resetFootnotes();
+  const raw = fs.readFileSync(filePath, 'utf8');
+  const { data: meta, content } = matter(raw);
+  const required = ['title', 'slug', 'date', 'deck', 'seo_description'];
+  for (const k of required) {
+    if (!meta[k]) throw new Error(`Essay ${path.basename(filePath)} missing required frontmatter field: ${k}`);
+  }
+  // marked rendering with footnote support already configured globally
+  let bodyHtml = marked.parse(content);
+  bodyHtml += renderFootnoteSection();
+  // strip the leading <h1> from body since template renders title separately
+  bodyHtml = bodyHtml.replace(/^\s*<h1[^>]*>[\s\S]*?<\/h1>\s*/, '');
+
+  const wordCount = content.split(/\s+/).filter(Boolean).length;
+  const readingTime = meta.reading_time || Math.max(3, Math.round(wordCount / 200));
+  const tags = Array.isArray(meta.tags) ? meta.tags.join(', ') : (meta.tags || '');
+
+  const html = applyTemplate(template, {
+    TITLE: escapeHtml(meta.title),
+    DECK: escapeHtml(meta.deck),
+    SEO_DESCRIPTION: escapeHtml(meta.seo_description),
+    TAGS: escapeHtml(tags),
+    DATE: meta.date,
+    DATE_FORMATTED: formatDate(meta.date),
+    READING_TIME: String(readingTime),
+    CONTENT: bodyHtml,
+    HUB_NAV: renderHubNav('../'),
+  });
+
+  ensureDir(DIST_ESSAYS_DIR);
+  const outPath = `essays/${meta.slug}.html`;
+  fs.writeFileSync(path.join(DIST_DIR, outPath), html);
+  return {
+    slug: meta.slug,
+    title: meta.title,
+    deck: meta.deck,
+    date: meta.date,
+    readingTime,
+    outPath,
+  };
+}
+
+function buildEssaysIndex(essays) {
+  // Simple list page at /essays/ — uses essay template's structure but as a list
+  const list = essays
+    .slice()
+    .sort((a, b) => (a.date < b.date ? 1 : -1))
+    .map(e => `      <article class="essay-card">
+        <div class="essay-card-meta">
+          <span class="essay-label">Editorial · Long-read</span>
+          <time datetime="${e.date}">${formatDate(e.date)}</time>
+          <span class="essay-reading-time">${e.readingTime} min read</span>
+        </div>
+        <h2 class="essay-card-title"><a href="${e.slug}">${escapeHtml(e.title)}</a></h2>
+        <p class="essay-card-deck">${escapeHtml(e.deck)}</p>
+      </article>`).join('\n');
+
+  const html = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Essays · Cathay Tales</title>
+  <meta name="description" content="Long-form editorials on Chinese strange-tales: reading guides, cultural frameworks, and translator's notes from the editors of Cathay Tales.">
+  <meta name="author" content="Cathay Tales">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Essays · Cathay Tales">
+  <meta property="og:description" content="Long-form editorials on Chinese strange-tales for English readers.">
+  <meta property="og:site_name" content="Cathay Tales — Classical Chinese Tales in English">
+  <meta property="og:image" content="https://cathaytales.com/assets/og-image.png">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7452174054733876" crossorigin="anonymous"></script>
+  <link rel="icon" href="../assets/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+  <link rel="alternate" type="application/rss+xml" title="Cathay Tales — RSS Feed" href="https://cathaytales.com/feed.xml">
+  <link rel="stylesheet" href="../assets/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+SC:wght@400;500;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S60FWRGXNY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-S60FWRGXNY');
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="../" class="brand">
+        <img class="brand-mark" src="../assets/brand-fox.jpg?v=3" alt="Cathay Tales — black fox under a red sun">
+        <span class="brand-text">
+          <span class="brand-en">Cathay Tales</span>
+          <span class="brand-zh">Classical Chinese Tales · in English with annotations</span>
+        </span>
+      </a>
+      ${renderHubNav('../')}
+    </div>
+  </header>
+  <main class="container">
+    <section class="essay-list-page">
+      <h1>Essays &amp; Long-reads</h1>
+      <p class="essay-list-lead">Editorials from the Cathay Tales editors — reading guides, cultural frameworks, and notes on the craft of translating these tales into English.</p>
+${list}
+    </section>
+  </main>
+  <a class="kofi-float" href="https://ko-fi.com/cathaytales" target="_blank" rel="noopener" aria-label="Support Cathay Tales on Ko-fi">
+    <span class="kofi-float-emoji">🍵</span>
+    <span class="kofi-float-text">Tip</span>
+  </a>
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 Cathay Tales. Translations &amp; annotations under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>. Source texts are in the public domain.</p>
+      <p class="footer-links"><a href="../about">About</a> · <a href="../privacy">Privacy</a> · <a href="../contact">Contact</a> · <a href="../feed.xml">RSS</a></p>
+      <p class="footer-zh">山有狐，月正红。</p>
+    </div>
+  </footer>
+</body>
+</html>
+`;
+  ensureDir(DIST_ESSAYS_DIR);
+  fs.writeFileSync(path.join(DIST_ESSAYS_DIR, 'index.html'), html);
 }
 
 function copyAssets() {
@@ -628,7 +757,7 @@ function copyStatic() {
 
 const SITE_URL = 'https://cathaytales.com';
 
-function buildSitemap(posts) {
+function buildSitemap(posts, essays = []) {
   const today = new Date().toISOString().slice(0, 10);
   const urls = [
     { loc: `${SITE_URL}/`, lastmod: today, priority: '1.0' },
@@ -639,6 +768,16 @@ function buildSitemap(posts) {
       loc: `${SITE_URL}/hubs/${h.slug}`,
       lastmod: today,
       priority: '0.9',
+    })),
+    ...(essays.length ? [{
+      loc: `${SITE_URL}/essays/`,
+      lastmod: today,
+      priority: '0.85',
+    }] : []),
+    ...essays.map(e => ({
+      loc: `${SITE_URL}/essays/${e.slug}`,
+      lastmod: e.date,
+      priority: '0.85',
     })),
     ...posts.map(p => ({
       loc: `${SITE_URL}/${p.outPath.replace(/\.html$/, '')}`,
@@ -725,12 +864,14 @@ function main() {
   ensureDir(DIST_DIR);
   ensureDir(DIST_POSTS_DIR);
   ensureDir(DIST_HUBS_DIR);
+  ensureDir(DIST_ESSAYS_DIR);
   copyAssets();
   copyStatic();
 
   const postTemplate = fs.readFileSync(path.join(TEMPLATES_DIR, 'post.html'), 'utf8');
   const indexTemplate = fs.readFileSync(path.join(TEMPLATES_DIR, 'index.html'), 'utf8');
   const hubTemplate = fs.readFileSync(path.join(TEMPLATES_DIR, 'hub.html'), 'utf8');
+  const essayTemplate = fs.readFileSync(path.join(TEMPLATES_DIR, 'essay.html'), 'utf8');
 
   const postFiles = fs.readdirSync(POSTS_DIR).filter(f => f.endsWith('.md'));
   // Pass 1: build to collect metadata (no Related Tales yet)
@@ -738,13 +879,20 @@ function main() {
   // Pass 2: rebuild posts with Related Tales injected (overwrites Pass 1 output)
   postFiles.forEach(f => buildPost(path.join(POSTS_DIR, f), postTemplate, posts));
 
+  // Essays (long-form editorial)
+  const essays = fs.existsSync(ESSAYS_DIR)
+    ? fs.readdirSync(ESSAYS_DIR).filter(f => f.endsWith('.md'))
+        .map(f => buildEssay(path.join(ESSAYS_DIR, f), essayTemplate))
+    : [];
+  if (essays.length) buildEssaysIndex(essays);
+
   buildIndex(posts, indexTemplate);
   buildHubs(posts, hubTemplate);
-  buildSitemap(posts);
+  buildSitemap(posts, essays);
   buildRobots();
   buildRSS(posts);
 
-  console.log(`✓ Built ${posts.length} post(s) + ${HUBS.length} hub(s)`);
+  console.log(`✓ Built ${posts.length} post(s) + ${HUBS.length} hub(s) + ${essays.length} essay(s)`);
   console.log(`✓ Output: ${DIST_DIR}`);
 }
 
