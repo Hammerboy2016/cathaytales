@@ -85,3 +85,20 @@ jobs:
           else
             echo "Nothing due."
           fi
+
+      - name: Cleanup stale pending branches (older than today)
+        run: |
+          set -e
+          TODAY=$(TZ=Asia/Shanghai date +%Y-%m-%d)
+          echo "Cleaning pending branches older than $TODAY"
+          STALE=$(git ls-remote --heads origin 'pending-*' \
+            | awk '{print $2}' \
+            | sed 's|refs/heads/||' \
+            | grep -E '^pending-[0-9]{4}-[0-9]{2}-[0-9]{2}$' || true)
+          for B in $STALE; do
+            B_DATE=${B#pending-}
+            if [[ "$B_DATE" < "$TODAY" ]]; then
+              echo "Delete stale branch: $B (date $B_DATE)"
+              git push origin --delete "$B" || echo "  (already gone)"
+            fi
+          done
