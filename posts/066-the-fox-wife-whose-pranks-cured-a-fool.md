@@ -6,7 +6,7 @@ series: "liaozhai"
 volume: "Liaozhai Zhiyi (聊斋志异) — Volume VII"
 tale_number: 66
 title_zh: "小翠"
-hub: "Debts Across Kinds"
+hub: "Fox Spirits & Shapeshifters"
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "Pu Songling", "Liaozhai", "Xiao Cui", "Wang Yuanfeng", "fox spirit", "classical Chinese tale", "repaying kindness", "cross-species marriage", "arranged marriage", "epilepsy", "trickster bride"]
 excerpt: "A ministry official's son could not dress himself at sixteen. The doctors called it hopeless. Then a stranger arrived at the gate with her teenage daughter and asked, calmly, if the boy would marry her — no dowry required, no questions answered. Within a week the girl was dressing the son in imperial robes for fun, kicking a ball at a visiting official's face, and drowning her husband in a tub of scalding water. Every prank was a piece of magic. And the whole marriage, it turned out, was a debt being paid for something that had happened one afternoon thirty years earlier, in a rainstorm, by a young man with a raincoat."

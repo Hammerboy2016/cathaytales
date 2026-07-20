@@ -11,7 +11,7 @@ dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "Pu Songling", "Liaozhai", "Xiangyu", "Jiangxue", "Huang Shenglai", "classical Chinese tale", "flower spirits", "white peony", "red camellia", "Laoshan", "love across death", "resurrection"]
 excerpt: "A young scholar lodged in a temple near Mount Lao and fell in love with a girl who visited him every evening. She was beautiful, eloquent, and gone before dawn each morning without fail. He did not know she was the spirit of a white peony that had grown in the temple garden for a hundred years. When the peony was dug up and died, he dug the stump out of the ground and wept over it every day. Then her ghost came to him and said: you can bring me back. But first you must do something no one has ever done for a flower."
 seo_description: "A classical Chinese tale by Pu Songling, retold: a scholar falls in love with a white peony spirit near Mount Lao — and when the flower dies, he brings her back from the dead."
-[scheduled:22:14]
+scheduled: "22:14"
 ---
 
 # The Scholar Whose Love Brought a Flower Back From the Dead / 香玉

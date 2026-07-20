@@ -6,7 +6,7 @@ series: "zibuyu"
 volume: "Zi Bu Yu (子不语) — What the Master Would Not Discuss, Volume 10"
 tale_number: 65
 title_zh: "绿毛怪"
-hub: "Jiangshi & the Reanimated Dead"
+hub: "Hauntings & Ghost Encounters"
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "Yuan Mei", "Zi Bu Yu", "jiangshi", "Chinese vampire", "green-haired corpse", "magistrate tale", "haunted temple", "Shanxi", "classical Chinese tale", "translated", "Qianlong reign"]
 excerpt: "A traveling sheep-trader in Shanxi asks to spend the night in a temple no one has entered for years. The villagers unlock it, warn him, and hand him the key. At the third watch, something seven or eight feet tall, green-furred from the neck down, climbs out of the platform under the statues and comes for him. By morning he is up a tree. By noon the county magistrate has arrived with shovels."
