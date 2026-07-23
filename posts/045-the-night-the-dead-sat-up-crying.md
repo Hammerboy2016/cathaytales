@@ -149,3 +149,21 @@ The corpse-eating *yěgǒu* (野狗) of Shandong folklore is not the same creatu
 The single curved cheek-tooth Li Hualong takes home is the kind of physical relic that, in Pu Songling's stories, lets the supernatural breach the everyday. He does not tell us what eventually happened to the tooth. He only tells us that no one who saw it could identify the animal it came from.
 
 </details>
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its domestic intimacy and structural unease. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Friend Who Forgot How to Leave: A Qing Dynasty Ghost Story](/posts/the-friend-who-forgot-how-to-leave) — a ghost story that refuses the happy ending
+- [The Beauty Wearing a Painted Skin: A Qing Dynasty Ghost Story](/posts/the-painted-skin) — where the haunting is less about the ghost and more about the witness
+- [The Skull That Blew Cold Air Through the Mat: A Qing Dynasty Ghost Story](/posts/the-skull-that-blew-cold-air-through-the-mat) — a tale of supernatural persistence that feels strangely domestic
+- [The Fox Girl Who Laughed at Everything: A Qing Dynasty Ghost Story](/posts/the-fox-girl-who-laughed-at-everything) — a fox tale that resists the easy moral
+- [The Silver Needle That Turned Black: A 13th-Century Chinese Poison Test](/posts/the-silver-needle-that-turned-black) — where the debt is paid not in revenge but in mercy

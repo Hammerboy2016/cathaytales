@@ -200,3 +200,21 @@ That's the part of Chinese ghost stories that's hardest to translate. Western gh
 **About the missing cup.** The closing line — *the foxes can move things across vast distances, but cannot keep them in the end* — is Pu Songling stating a metaphysical rule that runs through much of *Liaozhai*. The supernatural world overlaps with the human world, but is constrained by it. Foxes can borrow; they cannot own. This rule is what makes Pu Songling's universe feel sturdy rather than chaotic: even the spirits live under law.
 
 </details>
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its emotional complexity and quiet menace. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Fox Wife Whose Pranks Cured a Fool: A Qing Dynasty Story of Xiao Cui and Wang Yuanfeng](/posts/the-fox-wife-whose-pranks-cured-a-fool) — another tale of a fox who out-humans the humans
+- [The Night the Foxes Tried to Saw Down a Tree: A Qing Dynasty Ghost Story](/posts/the-night-the-foxes-tried-to-saw-down-a-tree) — a shapeshifter story where the transformation is emotional, not physical
+- [The Fox Girl Who Laughed at Everything: A Qing Dynasty Ghost Story](/posts/the-fox-girl-who-laughed-at-everything) — where the fox spirit is the most honest character in the room
+- [The Hell Judge Who Came Over for Drinks: A Qing Dynasty Ghost Story](/posts/the-hell-judge-who-came-over-for-drinks) — the afterlife as mirror of the magistrate's courtroom
+- [The Pedant Whose Ghost Friend Saw No Light: A Qing Dynasty Ghost Story](/posts/the-pedant-whose-ghost-friend-saw-no-light) — where the debt is paid not in revenge but in mercy

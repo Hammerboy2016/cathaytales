@@ -297,3 +297,21 @@ There is one classical detail I didn't want to flatten. The Chinese word *huì* 
 **A note on the Wu daughter.** Modern readers often pause at the moment when Lord Wu accepts his murdered daughter's head as part of Zhu's wife and makes Zhu his son-in-law. Pu Songling does not give Lord Wu a moral speech — he gives him a long quiet walk into the inner room and a brief sentence afterwards. The closest Western parallel is probably the medieval Welsh *Mabinogion* tale in which Lleu Llaw Gyffes accepts his wife's flower-body after his uncle's enchantment is undone — the body is composite, the law has no word for it, the family decides to call it kin. The logic of *Lu Pan* is the same: when the official law has no language, kinship is what people use instead.
 
 </details>
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its bureaucratic absurdity and genuine dread. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Scholar Who Died to Take the Exam: A Qing Dynasty Ghost Story](/posts/the-scholar-who-died-to-take-the-exam) — a journey into the bureaucracy of the dead
+- [The Magistrate Who Climbed Down a Well into Hell: A Qing Dynasty Ghost Story](/posts/the-magistrate-who-climbed-down-into-hell) — where the underworld runs on the same paperwork as the living
+- [The Ghost Who Resigned Twice: A Ming Dynasty Ghost Story](/posts/the-ghost-who-resigned-twice) — a story of what happens after the last breath — and the first complaint
+- [The Fisherman Who Drank with a Drowning Ghost: A Qing Dynasty Ghost Story](/posts/the-fisherman-who-drank-with-a-ghost) — a love story in which the grave is a threshold, not a wall
+- [The Son Who Cut Off His Own Head for Revenge: A Six Dynasties Ghost Story](/posts/the-son-who-cut-off-his-own-head-for-revenge) — where the debt is paid not in revenge but in mercy

@@ -229,3 +229,20 @@ The line I think Li Ruzhen is quietly putting under all of this is: *miserliness
 **Connection to other Cathay Tales.** This is the sixth *Flowers in the Mirror* tale on Cathay Tales. The earlier five — [the Country Where Politeness Killed Business](../posts/the-country-where-politeness-kills) (君子国), [the Country of Two Faces](../posts/the-country-of-two-faces) (两面国), [the Country Where Men Bound Their Feet](../posts/the-country-where-men-bound-their-feet) (女儿国), [the Country Where Two Girls Outscholared an Old Man](../posts/the-country-where-girls-quoted-the-classics) (黑齿国), and [the Country Where Even the Tavern Boys Spoke Classical Chinese](../posts/the-country-where-the-tavern-boys-spoke-classical-chinese) (淑士国) — together cover the most-quoted episodes of the novel's first half. Wúcháng Guó (Chapter 14) is structurally early in the journey, but Cathay Tales is publishing the imaginary-kingdom episodes out of chronological order, choosing instead the satirical bite of each chapter as the ordering criterion. The full list of imaginary countries in *Flowers in the Mirror* runs to more than thirty, and the next several will appear in coming weeks.
 
 </details>
+
+## Translator's Note
+
+This tale from Li Ruzhen's *Flowers in the Mirror* has always struck me for its wit and philosophical depth. Li Ruzhen builds each impossible country as a mirror for Qing China's own vanity, and the reflection still holds.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Country Where Everyone Wore a Mask Over the Back of Their Head: A Qing Dynasty Satire](/posts/the-country-of-two-faces) — a Taoist miracle that is also a riddle
+- [The Country Where Your Soul Showed Beneath Your Feet: A Qing Dynasty Satire](/posts/the-country-where-your-soul-showed-beneath-your-feet) — where the Taoist sage is less wizard than mirror
+- [The Country Where Men Bound Their Feet: A Qing Dynasty Satire](/posts/the-country-where-men-bound-their-feet) — a tale of supernatural wit that exposes a very human failing
+- [Nie Xiaoqian, the Ghost Bride of Lan Ruo Temple: A Qing Dynasty Ghost Story](/posts/nie-xiaoqian-the-ghost-bride) — a love story in which the grave is a threshold, not a wall

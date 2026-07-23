@@ -178,3 +178,21 @@ A small detail that would have hit Yuan Mei's audience harder than it hits moder
 A seventy-year-old man, sleeping in his own coffin, tucking a *yān dài* into his sleeve before bed, lighting it at midnight from a candle a guest had left burning — that whole image is, in 1780-something, both deeply traditional and absolutely up-to-date.
 
 </details>
+
+## Translator's Note
+
+This tale from Yuan Mei's *What the Master Would Not Discuss* has always struck me for its domestic intimacy and structural unease. Yuan Mei writes the grotesque not as horror, but as dark comedy — the laugh catches in your throat.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Fox That Feared a Peasant Maid: A Qing Dynasty Ghost Story](/posts/the-fox-that-feared-a-peasant-maid) — a ghost story that refuses the happy ending
+- [The Scholar Who Wiped a Ghost's Mouth with Toilet Paper: A Qing Dynasty Ghost Story](/posts/the-man-who-welcomed-a-ghost) — where the haunting is less about the ghost and more about the witness
+- [The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery](/posts/the-ghost-who-forgot-to-vanish) — a tale of supernatural persistence that feels strangely domestic
+- [The Magistrate Who Climbed Down a Well into Hell: A Qing Dynasty Ghost Story](/posts/the-magistrate-who-climbed-down-into-hell) — the afterlife as mirror of the magistrate's courtroom
+- [The Fox Widow Who Raised Her In-Laws: A Qing Dynasty Ghost Story](/posts/the-fox-wife-who-raised-her-in-laws) — proof that the fox in Chinese fiction is philosopher, not monster

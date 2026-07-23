@@ -278,3 +278,21 @@ There's a small editorial note at the end of the original that says, "Some say L
 **The political-prophetic register.** When this story was written in the late 9th century, the Tang dynasty was visibly dying. The figure of the *zhen ren* — the "true man" whom Heaven has chosen as the next emperor — was a deadly serious political category, and any author talking about how empires recognize their next ruler was making an oblique comment about the present. Du Guangting's choice to set the story at the *founding* of the Tang, and to have his hero quietly hand power to the dynasty's first great emperor before sailing off to found his own kingdom abroad, was a way of asking a then-current question: when an empire is collapsing, what does an honest strong man owe it? Du Guangting's answer is, basically, *recognize the right one when you see him, fund him, and otherwise get out of the way.*
 
 </details>
+
+## Translator's Note
+
+This tale from the Tang dynasty *chuanqi* tradition has always struck me for its wit and philosophical depth. Tang dynasty prose has a cinematic economy that modern short fiction still envies — every clause carries weight.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Fox Who Passed the Civil Service Exam: A Qing Dynasty Ghost Story](/posts/the-fox-scholar-who-passed-the-immortal-exam) — a Taoist miracle that is also a riddle
+- [The Country Where Two Schoolgirls Made the Old Scholar Sweat: A Qing Dynasty Satire](/posts/the-country-where-girls-quoted-the-classics) — where the Taoist sage is less wizard than mirror
+- [The Disciple Who Wanted to Walk Through Walls: A Qing Dynasty Tale of Daoist Magic](/posts/the-disciple-who-wanted-to-walk-through-walls) — a tale of supernatural wit that exposes a very human failing
+- [The Man Who Carried a Letter to the Dragon King: A Tang Dynasty Ghost Story](/posts/the-man-who-carried-a-letter-to-the-dragon-king) — a love story in which the grave is a threshold, not a wall
+- [The Scholar Whose Ghost Kept Asking the Ancients One Question: A Qing Dynasty Ghost Story](/posts/the-scholar-whose-ghost-asked-the-ancients-one-question) — where the debt is paid not in revenge but in mercy

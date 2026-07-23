@@ -196,3 +196,20 @@ He could not cover the inside of her throat. She had been dead before the fire r
 **Connection to other Cathay Tales forensic stories.** This is the seventh *Xi Yuan Ji Lu* tale on Cathay Tales. The earlier six — [the Silver Needle That Turned Black](../posts/the-silver-needle-that-turned-black) (arsenic detection), [the Red Umbrella That Made Old Bones Speak](../posts/the-red-umbrella-that-made-old-bones-speak) (optical examination of skeletal injury), [the Flies That Pointed to the Killer](../posts/the-flies-that-pointed-to-the-killer) (insect-based identification of a blood-stained weapon), [the Prince Who Tested His Father's Bones](../posts/the-prince-who-tested-his-fathers-bones) (the *dī gǔ qīn* paternity test), [the Hanged Man Whose Rope Mark Went the Wrong Way](../posts/the-hanged-man-whose-rope-mark-went-the-wrong-way) (the eight-character-mark distinction), and [the Drowned Monk Whose Fists Were Empty](../posts/the-drowned-monk-whose-fists-were-empty) (the clenched-fist debris test) — together cover roughly the central techniques of Volumes III and IV. The fire-death chapter that this case draws from completes the Volume IV trio of asphyxiation forensics: drowning, hanging, and burning. The next *Xi Yuan Ji Lu* tale on Cathay Tales will most likely move into Volume IV's chapters on poisoning, which contain the longest and most chemically intricate observations Song Ci ever recorded.
 
 </details>
+
+## Translator's Note
+
+This tale from Song Ci's *Collected Cases of Injustice Rectified* has always struck me for its moral clarity and narrative restraint. Song Ci's forensic instinct — evidence before verdict — feels startlingly modern, seven centuries before CSI.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Prince Who Tested His Father's Bones with a Drop of His Own Blood: A Forensic Test from 6th-Century China](/posts/the-prince-who-tested-his-fathers-bones) — a story of karmic debt that refuses simple justice
+- [The Bandit Whose Father Came Back From the Dead to Warn Him: A Qing Tale of Stolen Money, a Widow's Curse, and the Only Kind of Robbery That Never Fails](/posts/the-bandit-whose-father-came-back-to-warn-him) — a tale where retribution arrives from an unexpected quarter
+- [The Mother Whose Body Had Never Given Birth: A 13th-Century Chinese Postpartum Forensic Test](/posts/the-mother-whose-body-had-never-given-birth) — proof that karma in these texts is never mechanical
+- [The Man Who Carried a Letter to the Dragon King: A Tang Dynasty Ghost Story](/posts/the-man-who-carried-a-letter-to-the-dragon-king) — a love story in which the grave is a threshold, not a wall

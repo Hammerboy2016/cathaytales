@@ -215,3 +215,21 @@ There is also something quietly radical about A Bao in this story. She begins as
 **On the Hanlin ending:** The story's last act — fake exam questions becoming the real ones, the imperial summons, A Bao's rewards from the throne — is Pu Songling reaching toward a happy ending he himself never lived. He died without ever being summoned by an emperor, without ever entering the Hanlin Academy, and without ever passing the provincial examination. In some readings, *A Bao* is the story Pu Songling told himself about what the world would have looked like if it had been fair to the *chī*.
 
 </details>
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its tenderness and refusal to sentimentalize. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Man Who Carried a Letter to the Dragon King: A Tang Dynasty Ghost Story](/posts/the-man-who-carried-a-letter-to-the-dragon-king) — another tale of love across boundaries
+- [The Tavern Daughter Who Came Back from Her Grave: A Northern Song Ghost Love Story](/posts/the-tavern-daughter-who-came-back-from-her-grave) — a romance that treats death as a minor inconvenience
+- [The Lover Who Came Back for One Night: A Tang Dynasty Ghost Story](/posts/the-lover-who-came-back-for-one-night) — where devotion outlasts the body that held it
+- [The Disciple Who Wanted to Walk Through Walls: A Qing Dynasty Tale of Daoist Magic](/posts/the-disciple-who-wanted-to-walk-through-walls) — proof that Taoist fiction is philosophy wearing a trickster's mask
+- [The Country Where Even the Tavern Boys Spoke Classical Chinese: A Qing Dynasty Satire](/posts/the-country-where-the-tavern-boys-spoke-classical-chinese) — where the real magic is seeing clearly

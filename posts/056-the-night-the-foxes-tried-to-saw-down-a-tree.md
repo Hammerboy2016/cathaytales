@@ -148,3 +148,21 @@ I find that strangely cheering.
 **About** xunhu **as a profession.** Smoke-driven fox-hunting was widespread across late imperial north China, and was viewed by villagers as morally ambiguous: the foxes were valuable, the income was real, but folk belief held that any given fox might be a *xiūxiān* (修仙, immortality-cultivating) creature whose death would carry karmic consequences. The hunter in this story is doing exactly what a Qing rural reader would have recognized as a legitimate-but-risky trade; Ji Yun's narrative arc — *spared on oath, never returns* — is the morally tidy resolution that local oral tradition would have preferred.
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its emotional complexity and quiet menace. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Two-Hundred-Year-Old Fox Who Refused to Seduce: A Qing Dynasty Ghost Story](/posts/the-two-hundred-year-old-fox-who-refused-to-seduce) — another tale of a fox who out-humans the humans
+- [The Fox Wife Whose Pranks Cured a Fool: A Qing Dynasty Story of Xiao Cui and Wang Yuanfeng](/posts/the-fox-wife-whose-pranks-cured-a-fool) — a shapeshifter story where the transformation is emotional, not physical
+- [The Fox Widow Who Raised Her In-Laws: A Qing Dynasty Ghost Story](/posts/the-fox-wife-who-raised-her-in-laws) — where the fox spirit is the most honest character in the room
+- [The Ghost Who Kept Her Lover Alive on Purpose: A Qing Dynasty Ghost Story](/posts/the-ghost-who-kept-her-lover-alive) — a love story in which the grave is a threshold, not a wall
+- [The Couple Who Became Mandarin Ducks: A Warring States Love Tragedy](/posts/the-couple-who-became-mandarin-ducks) — proof that in these texts, grief is just love with nowhere to go

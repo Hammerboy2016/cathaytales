@@ -168,3 +168,21 @@ I think this is also Yuan Mei being a little cruel about how grief actually work
 **Yuan Mei vs. Ji Yun.** Yuan Mei's near-contemporary Ji Yun (compiler of *Notes from the Thatched Study*) wrote ghost stories that almost always end with a moral, often a Confucian one. Yuan Mei deliberately doesn't. *Zi Bu Yu* is, by design, the book Confucius said you shouldn't write. The closing line of "The Nanchang Scholar" — the brief, almost shrugging note about *hun* and *po* — is not a moral. It's a folk-biology footnote, the way a modern writer might tag a horror story with "sleep paralysis is a known phenomenon." Yuan Mei is not telling you what to *do* with the story. He is just telling you the story, and watching to see if it bothers you.
 
 </details>
+
+## Translator's Note
+
+This tale from Yuan Mei's *What the Master Would Not Discuss* has always struck me for its domestic intimacy and structural unease. Yuan Mei writes the grotesque not as horror, but as dark comedy — the laugh catches in your throat.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery](/posts/the-ghost-who-forgot-to-vanish) — a ghost story that refuses the happy ending
+- [The Young Man Who Sold a Ghost at the Market: A Six Dynasties Ghost Story](/posts/the-young-man-who-sold-a-ghost) — where the haunting is less about the ghost and more about the witness
+- [The Teacher Whose Entire Wedding Party Was Dead: A Southern Song Ghost Story](/posts/the-teacher-whose-entire-wedding-party-was-dead) — a tale of supernatural persistence that feels strangely domestic
+- [The Magistrate Who Climbed Down a Well into Hell: A Qing Dynasty Ghost Story](/posts/the-magistrate-who-climbed-down-into-hell) — the afterlife as mirror of the magistrate's courtroom
+- [The Hell Judge Who Came Over for Drinks: A Qing Dynasty Ghost Story](/posts/the-hell-judge-who-came-over-for-drinks) — where death is not an exit but a transfer

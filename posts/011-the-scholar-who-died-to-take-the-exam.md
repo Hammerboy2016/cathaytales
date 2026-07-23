@@ -141,3 +141,21 @@ Pu Songling took the imperial civil examination thirty-one times without passing
 The idea of the dead taking civil service examinations reflects Song dynasty and Ming dynasty folk religion's systematization of the afterlife. Underworld bureaucracy became a mirror of the living bureaucracy — with the same ranks, the same procedures, and the same examination culture that defined the lives of ambitious men like Pu Songling. For a man who failed thirty-one examinations, writing a story where his protagonist passes the death-version test might have been its own small consolation.
 
 </details>
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its bureaucratic absurdity and genuine dread. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Ghost Who Resigned Twice: A Ming Dynasty Ghost Story](/posts/the-ghost-who-resigned-twice) — a journey into the bureaucracy of the dead
+- [The Magistrate Who Climbed Down a Well into Hell: A Qing Dynasty Ghost Story](/posts/the-magistrate-who-climbed-down-into-hell) — where the underworld runs on the same paperwork as the living
+- [The Hell Judge Who Came Over for Drinks: A Qing Dynasty Ghost Story](/posts/the-hell-judge-who-came-over-for-drinks) — a story of what happens after the last breath — and the first complaint
+- [Nie Xiaoqian, the Ghost Bride of Lan Ruo Temple: A Qing Dynasty Ghost Story](/posts/nie-xiaoqian-the-ghost-bride) — a love story in which the grave is a threshold, not a wall
+- [The Pillow That Dreamed a Lifetime in a Bowl of Millet: A Tang Dynasty Tale of Borrowed Glory](/posts/the-pillow-that-dreamed-a-lifetime) — where the real magic is seeing clearly

@@ -190,3 +190,21 @@ The tale survives in modern Chinese partly because of the line attributed to Shi
 **Connection to other Cathay Tales.** This is the first *Soushen Ji* tale on Cathay Tales in which the protagonist is a young commoner with no special standing — most of the *Soushen Ji* tales the site has translated so far have involved emperors ([the Son Who Cut Off His Own Head](../posts/the-son-who-cut-off-his-own-head-for-revenge)), kings ([the Couple Who Became Mandarin Ducks](../posts/the-couple-who-became-mandarin-ducks)), or filial daughters of officials ([the Girl Who Volunteered to Feed the Mountain Serpent](../posts/the-girl-who-volunteered-to-feed-the-mountain-serpent), [the Husband Who Broke the Three-Year Promise](../posts/the-husband-who-broke-the-three-year-promise)). Song Dingbo is none of these things. He is an ordinary young man on a country road. The fact that the *Soushen Ji* preserved his name at all is one of the small wonders of Chinese textual transmission — a Han-era anonymous traveler became, through one short anecdote, one of the most-named ghost-encounter protagonists in classical Chinese literature.
 
 </details>
+
+## Translator's Note
+
+This tale from Gan Bao's *In Search of the Supernatural* has always struck me for its domestic intimacy and structural unease. The living-married-to-the-dead motif haunts me — the question of consent across the grave, asked without judgment.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery](/posts/the-ghost-who-forgot-to-vanish) — a ghost story that refuses the happy ending
+- [The Night the Dead Sat Up Crying: A Qing Dynasty Ghost Story](/posts/the-night-the-dead-sat-up-crying) — where the haunting is less about the ghost and more about the witness
+- [The Old Man Who Slept in His Own Coffin: A Qing Dynasty Ghost Story](/posts/the-old-man-who-slept-in-his-own-coffin) — a tale of supernatural persistence that feels strangely domestic
+- [The Couple Who Became Mandarin Ducks: A Warring States Love Tragedy](/posts/the-couple-who-became-mandarin-ducks) — a love story in which the grave is a threshold, not a wall
+- [The Fifteen Strings of Cash: A Joke That Killed Four People](/posts/the-fifteen-strings-of-cash) — where the debt is paid not in revenge but in mercy

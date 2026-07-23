@@ -375,3 +375,21 @@ Pu Songling closes with his usual *"the Historian of the Strange remarks"* coda,
 **On the scorpion scene:** Read as a moral story, this is a sexual predator getting what he deserves. Read as a story about Yingning herself, it is the moment she discovers she has a defense reflex she cannot control — and the cost of discovering it is that her freedom of expression has to die. Within a few sentences of the scorpion's death, her laughter dies too. The two events are causally linked in the text. The neighbor's son's death is, in Pu Songling's structure, the end of the comedy half of the tale; everything after it is elegy.
 
 </details>
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its emotional complexity and quiet menace. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Fox Bride and the Stolen Cup: A Qing Dynasty Ghost Story](/posts/the-fox-bride-and-the-stolen-cup) — another tale of a fox who out-humans the humans
+- [The Fox Widow Who Raised Her In-Laws: A Qing Dynasty Ghost Story](/posts/the-fox-wife-who-raised-her-in-laws) — a shapeshifter story where the transformation is emotional, not physical
+- [The Fox Wife Whose Pranks Cured a Fool: A Qing Dynasty Story of Xiao Cui and Wang Yuanfeng](/posts/the-fox-wife-whose-pranks-cured-a-fool) — where the fox spirit is the most honest character in the room
+- [The Fisherman Who Drank with a Drowning Ghost: A Qing Dynasty Ghost Story](/posts/the-fisherman-who-drank-with-a-ghost) — a love story in which the grave is a threshold, not a wall
+- [The Skull That Blew Cold Air Through the Mat: A Qing Dynasty Ghost Story](/posts/the-skull-that-blew-cold-air-through-the-mat) — an encounter that blurs the line between haunting and hospitality

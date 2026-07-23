@@ -133,3 +133,21 @@ I keep coming back to her last gesture. She doesn't argue with him. She doesn't 
 **Mao Lake and the Songjiang setting.** Mao Lake (泖湖, also written 泖湾) was a wetlands area west of the city of Songjiang, in what is now the Qingpu district of greater Shanghai. In the Qing it was a sparsely populated area of paddies, fish ponds, and willow groves — exactly the kind of liminal, foggy landscape that produced ghost stories. Yuan Mei's cousin Lü was a *lǐnshēng* (廪生), a stipended government student at the prefectural school in Songjiang, which would have placed him on real, walkable ground for this story.
 
 </details>
+
+## Translator's Note
+
+This tale from Yuan Mei's *What the Master Would Not Discuss* has always struck me for its domestic intimacy and structural unease. Yuan Mei writes the grotesque not as horror, but as dark comedy — the laugh catches in your throat.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Teacher Whose Entire Wedding Party Was Dead: A Southern Song Ghost Story](/posts/the-teacher-whose-entire-wedding-party-was-dead) — a ghost story that refuses the happy ending
+- [The Beauty Wearing a Painted Skin: A Qing Dynasty Ghost Story](/posts/the-painted-skin) — where the haunting is less about the ghost and more about the witness
+- [The Girl Who Volunteered to Feed the Mountain Serpent: A Jin Dynasty Ghost Story](/posts/the-girl-who-volunteered-to-feed-the-mountain-serpent) — a tale of supernatural persistence that feels strangely domestic
+- [The Young Monk Who Could Not Forget the Tiger: A Qing Dynasty Ghost Story](/posts/the-young-monk-who-could-not-forget-the-tiger) — proof that Taoist fiction is philosophy wearing a trickster's mask
+- [The Fox Wife Whose Pranks Cured a Fool: A Qing Dynasty Story of Xiao Cui and Wang Yuanfeng](/posts/the-fox-wife-whose-pranks-cured-a-fool) — proof that the fox in Chinese fiction is philosopher, not monster

@@ -264,3 +264,21 @@ The monks said nothing. They tended the garden.
 ---
 
 *Retelling by Cathay Tales. Source: 《聊斋志异》卷四·香玉 (Pu Songling, c. 1680, edited woodblock edition of 1766). Historical notes on Laoshan temple life, flower-spirit taxonomy, and Qing-dynasty scholar lodging customs drawn from standard commentaries.*
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its tenderness and refusal to sentimentalize. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Lover Who Came Back for One Night: A Tang Dynasty Ghost Story](/posts/the-lover-who-came-back-for-one-night) — another tale of love across boundaries
+- [The Tavern Daughter Who Came Back from Her Grave: A Northern Song Ghost Love Story](/posts/the-tavern-daughter-who-came-back-from-her-grave) — a romance that treats death as a minor inconvenience
+- [The Princess Who Came Back for Three Days: A Spring and Autumn Era Ghost Story](/posts/the-princess-who-came-back-for-three-days) — where devotion outlasts the body that held it
+- [The Fox Girl Who Laughed at Everything: A Qing Dynasty Ghost Story](/posts/the-fox-girl-who-laughed-at-everything) — a fox tale that resists the easy moral
+- [The Two-Hundred-Year-Old Fox Who Refused to Seduce: A Qing Dynasty Ghost Story](/posts/the-two-hundred-year-old-fox-who-refused-to-seduce) — proof that the fox in Chinese fiction is philosopher, not monster

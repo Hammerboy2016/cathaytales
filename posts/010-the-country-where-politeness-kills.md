@@ -242,3 +242,20 @@ The most historically significant passage in this chapter is not the comedy mark
 - The most accessible English version remains Lin Tai-yi, *Flowers in the Mirror* (Berkeley: University of California Press, 1965), an abridged translation of the first 50 chapters only. A complete bilingual edition (Library of Chinese Classics, 2005) is available but out of print.
 
 </details>
+
+## Translator's Note
+
+This tale from Li Ruzhen's *Flowers in the Mirror* has always struck me for its wit and philosophical depth. Li Ruzhen builds each impossible country as a mirror for Qing China's own vanity, and the reflection still holds.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Curly-Bearded Stranger: A Tang Dynasty Folktale of Three Heroes](/posts/the-curly-bearded-stranger) — a Taoist miracle that is also a riddle
+- [The Country Where Everyone Wore a Mask Over the Back of Their Head: A Qing Dynasty Satire](/posts/the-country-of-two-faces) — where the Taoist sage is less wizard than mirror
+- [The Country Where Even the Tavern Boys Spoke Classical Chinese: A Qing Dynasty Satire](/posts/the-country-where-the-tavern-boys-spoke-classical-chinese) — a tale of supernatural wit that exposes a very human failing
+- [The Silver Needle That Turned Black: A 13th-Century Chinese Poison Test](/posts/the-silver-needle-that-turned-black) — a karmic puzzle where the answer is quieter than you'd expect

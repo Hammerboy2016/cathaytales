@@ -128,3 +128,21 @@ Mount Tai (泰山) in Shandong was, by the Qing, the most sacred mountain in pop
 The closing line of this tale refers obliquely to another fox story Ji Yun had recorded earlier in the same collection — a fox who performed virtuous acts as a kind of insurance policy against celestial punishment, and who consequently received only mercy, not transcendence. The pairing is one of Ji Yun's recurring moral structures: virtue performed *for* a reward forfeits the reward; virtue performed for nothing at all sometimes receives everything.
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its emotional complexity and quiet menace. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Two-Hundred-Year-Old Fox Who Refused to Seduce: A Qing Dynasty Ghost Story](/posts/the-two-hundred-year-old-fox-who-refused-to-seduce) — another tale of a fox who out-humans the humans
+- [The Fox Girl Who Laughed at Everything: A Qing Dynasty Ghost Story](/posts/the-fox-girl-who-laughed-at-everything) — a shapeshifter story where the transformation is emotional, not physical
+- [The Fox Wife Whose Pranks Cured a Fool: A Qing Dynasty Story of Xiao Cui and Wang Yuanfeng](/posts/the-fox-wife-whose-pranks-cured-a-fool) — where the fox spirit is the most honest character in the room
+- [The Pedant Whose Ghost Friend Saw No Light: A Qing Dynasty Ghost Story](/posts/the-pedant-whose-ghost-friend-saw-no-light) — a karmic puzzle where the answer is quieter than you'd expect
+- [The Friend Who Forgot How to Leave: A Qing Dynasty Ghost Story](/posts/the-friend-who-forgot-how-to-leave) — an encounter that blurs the line between haunting and hospitality

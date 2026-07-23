@@ -160,3 +160,21 @@ And the senior clerk's deduction — *a ghost has form but no substance; it shou
 *Source: 《阅微草堂笔记·卷三·滦阳消夏录三》 — 清·纪昀. Public domain.*
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its domestic intimacy and structural unease. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Jade Guanyin Who Chose to Die: A Southern Song Ghost Story](/posts/the-jade-guanyin-who-chose-to-die) — a ghost story that refuses the happy ending
+- [The Old Man Who Slept in His Own Coffin: A Qing Dynasty Ghost Story](/posts/the-old-man-who-slept-in-his-own-coffin) — where the haunting is less about the ghost and more about the witness
+- [The Fox That Feared a Peasant Maid: A Qing Dynasty Ghost Story](/posts/the-fox-that-feared-a-peasant-maid) — a tale of supernatural persistence that feels strangely domestic
+- [The Night the Foxes Tried to Saw Down a Tree: A Qing Dynasty Ghost Story](/posts/the-night-the-foxes-tried-to-saw-down-a-tree) — a fox tale that resists the easy moral
+- [The Fisherman Who Drank with a Drowning Ghost: A Qing Dynasty Ghost Story](/posts/the-fisherman-who-drank-with-a-ghost) — proof that in these texts, grief is just love with nowhere to go

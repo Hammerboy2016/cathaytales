@@ -159,3 +159,21 @@ What makes Ji Yun's framing remarkable is the embedding. He gives us first a gho
 It is also worth noticing that Ji Yun does not let himself off the hook. The ghost at the grave is haunting *his own family's neighborhood*. The man muttering *did the ancients lie to me?* under the pines is someone Ji Yun's own great-great-grandfather had tried to talk out of his obsession, and failed. The story ends not with comfort, but with a faint, persistent echo.
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its moral clarity and narrative restraint. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Son Who Cut Off His Own Head for Revenge: A Six Dynasties Ghost Story](/posts/the-son-who-cut-off-his-own-head-for-revenge) — a story of karmic debt that refuses simple justice
+- [The Silver Needle That Turned Black: A 13th-Century Chinese Poison Test](/posts/the-silver-needle-that-turned-black) — a tale where retribution arrives from an unexpected quarter
+- [The Flies That Pointed to the Killer: A 13th-Century Chinese Forensic Case](/posts/the-flies-that-pointed-to-the-killer) — proof that karma in these texts is never mechanical
+- [The Fox That Feared a Peasant Maid: A Qing Dynasty Ghost Story](/posts/the-fox-that-feared-a-peasant-maid) — proof that the scariest ghosts are the ones who sit down and stay
+- [The Courtesan Who Drowned a Fortune to Punish a Coward: A Ming Dynasty Tragedy](/posts/the-courtesan-who-threw-treasures-into-the-river) — proof that in these texts, grief is just love with nowhere to go

@@ -239,3 +239,21 @@ The dried red flower at the end is mine. Pu Songling closes with a one-line list
 **On the name "Lan Ruo Temple"** — the Chinese 兰若 is a transliteration of the Sanskrit *araṇya*, meaning "a forest hermitage" or "a quiet place suitable for meditation." It was a generic Buddhist term for an abandoned or remote temple, not a place name. Pu Songling's "Lan Ruo Temple" is, in effect, "the Quiet Place Temple" — a name that sounds eerie in modern Chinese but was, in classical usage, almost flat.
 
 </details>
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its tenderness and refusal to sentimentalize. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Fisherman Who Drank with a Drowning Ghost: A Qing Dynasty Ghost Story](/posts/the-fisherman-who-drank-with-a-ghost) — another tale of love across boundaries
+- [The Clerk Whose Wife Came Down from Heaven: A Wei Dynasty Immortal-Marriage Tale](/posts/the-clerk-whose-wife-came-down-from-heaven) — a romance that treats death as a minor inconvenience
+- [The Princess Who Came Back for Three Days: A Spring and Autumn Era Ghost Story](/posts/the-princess-who-came-back-for-three-days) — where devotion outlasts the body that held it
+- [The Night the Dead Sat Up Crying: A Qing Dynasty Ghost Story](/posts/the-night-the-dead-sat-up-crying) — proof that the scariest ghosts are the ones who sit down and stay
+- [The Hanged Man Whose Rope Mark Went the Wrong Way: A 13th-Century Chinese Forensic Test](/posts/the-hanged-man-whose-rope-mark-went-the-wrong-way) — where the debt is paid not in revenge but in mercy

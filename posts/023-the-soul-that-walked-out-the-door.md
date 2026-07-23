@@ -146,3 +146,21 @@ What stays with me is the moment when the two of them meet in the courtyard. Not
 **Editorial postscript.** The closing paragraph in which the author names his source — Zhang Zhonggui, magistrate of Laiwu, a relative of the participants — is a chuanqi convention. It does not necessarily indicate the events occurred. It is the Tang fiction-writer's gesture toward verifiability: a way of saying *I am taking responsibility for this account*. Modern readers should treat it the way they would a "based on a true story" credit at the start of a film.
 
 </details>
+
+## Translator's Note
+
+This tale from the Tang dynasty *chuanqi* tradition has always struck me for its tenderness and refusal to sentimentalize. Tang dynasty prose has a cinematic economy that modern short fiction still envies — every clause carries weight.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Clerk Whose Wife Came Down from Heaven: A Wei Dynasty Immortal-Marriage Tale](/posts/the-clerk-whose-wife-came-down-from-heaven) — another tale of love across boundaries
+- [The Tavern Daughter Who Came Back from Her Grave: A Northern Song Ghost Love Story](/posts/the-tavern-daughter-who-came-back-from-her-grave) — a romance that treats death as a minor inconvenience
+- [The Hunter Who Married the Magistrate's Dead Daughter: A Han-Dynasty Ghost-Marriage Tale](/posts/the-hunter-who-married-the-magistrates-dead-daughter) — where devotion outlasts the body that held it
+- [The Silence That Was Worth Three Fortunes: A Tang Dynasty Tale of an Immortal's Test](/posts/the-silence-that-was-worth-three-fortunes) — proof that Taoist fiction is philosophy wearing a trickster's mask
+- [The Beauty Wearing a Painted Skin: A Qing Dynasty Ghost Story](/posts/the-painted-skin) — an encounter that blurs the line between haunting and hospitality

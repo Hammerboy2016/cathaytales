@@ -318,3 +318,21 @@ This particular tale is unusual in the *Sanyan* corpus for its sympathy toward a
 **On the village name change**: 升仙里 (Sheng Xian Li, "the Lane of Rising Immortals") and 惜花村 (Xi Hua Cun, "Flower-Mourning Village") are both names attached to real Suzhou-area villages in late Ming gazetteers. Feng Menglong likely worked the legend backward from a real local toponym, anchoring the supernatural story in a place his readers could visit.
 
 </details>
+
+## Translator's Note
+
+This tale from Feng Menglong's vernacular story collection has always struck me for its wit and philosophical depth. Feng Menglong's genius is how ordinary greed becomes mythic — a merchant's mistake elevated to cosmic consequence.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Country Where Politeness Killed Business: A Qing Dynasty Satire](/posts/the-country-where-politeness-kills) — a Taoist miracle that is also a riddle
+- [The Country Where Your Soul Showed Beneath Your Feet: A Qing Dynasty Satire](/posts/the-country-where-your-soul-showed-beneath-your-feet) — where the Taoist sage is less wizard than mirror
+- [The Country Where Men Bound Their Feet: A Qing Dynasty Satire](/posts/the-country-where-men-bound-their-feet) — a tale of supernatural wit that exposes a very human failing
+- [The Teacher Whose Entire Wedding Party Was Dead: A Southern Song Ghost Story](/posts/the-teacher-whose-entire-wedding-party-was-dead) — proof that the scariest ghosts are the ones who sit down and stay
+- [A Pig That Hated Only One Man: A Qing Dynasty Ghost Story](/posts/the-pig-and-the-old-man) — where the debt is paid not in revenge but in mercy

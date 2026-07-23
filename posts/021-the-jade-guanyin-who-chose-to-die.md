@@ -193,3 +193,21 @@ I keep coming back to the moment she gets into the palanquin. She knows she's go
 **Ghost women in Chinese literature.** The figure of the woman who returns from the dead is one of the oldest in Chinese literature, present already in the *Zhuangzi* and *Lüshi Chunqiu*. What distinguishes Feng Menglong's version here is the seamstress's relentless agency: she engineers her own escape, engineers her own return, engineers her own revenge. She is not a passive spirit awaiting rescue. She acts, and the story takes her seriously when she does.
 
 </details>
+
+## Translator's Note
+
+This tale from Feng Menglong's vernacular story collection has always struck me for its domestic intimacy and structural unease. Feng Menglong's genius is how ordinary greed becomes mythic — a merchant's mistake elevated to cosmic consequence.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Night the Dead Sat Up Crying: A Qing Dynasty Ghost Story](/posts/the-night-the-dead-sat-up-crying) — a ghost story that refuses the happy ending
+- [The Three Tricks Every Ghost Has: A Qing Dynasty Ghost Story](/posts/the-three-tricks-every-ghost-has) — where the haunting is less about the ghost and more about the witness
+- [The Teacher Whose Entire Wedding Party Was Dead: A Southern Song Ghost Story](/posts/the-teacher-whose-entire-wedding-party-was-dead) — a tale of supernatural persistence that feels strangely domestic
+- [The Philosopher Who Faked His Death to Test His Wife: A Late Ming Retelling of Zhuangzi](/posts/the-philosopher-who-faked-his-death-to-test-his-wife) — a karmic puzzle where the answer is quieter than you'd expect
+- [The Scholar Who Died to Take the Exam: A Qing Dynasty Ghost Story](/posts/the-scholar-who-died-to-take-the-exam) — where death is not an exit but a transfer

@@ -316,3 +316,21 @@ The tavern itself is real. Fan's Tavern, also called the **White Alum Tavern** (
 The most quietly radical thing about this *huaben* is the editor's refusal to apply the standard late-Ming chastity framework. A young woman who has been sexually compromised by a grave robber, in nearly any other Ming *huaben*, would either be quietly killed off, ritually purified, or rhetorically rehabilitated by some elaborate plot device that restores her honor. Feng Menglong does none of this. He gives Zhou Shengxian the full agency of her own death scene, her own resurrection, her own re-killing, and her own court case. He has her testify, in the City God's court, on her own behalf. He gives her the last word. The Ming literary critic Yao Shuyi's 1991 entry on this tale in the *Dictionary of Chinese Literature* notes that Feng Menglong's silence is "a clear case of editorial choice rather than narrative oversight" — a place where the editor simply declined to write the moralizing line that a more conservative compiler would have considered required.
 
 </details>
+
+## Translator's Note
+
+This tale from Feng Menglong's vernacular story collection has always struck me for its tenderness and refusal to sentimentalize. Feng Menglong's genius is how ordinary greed becomes mythic — a merchant's mistake elevated to cosmic consequence.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Soul That Walked Out the Door: A Tang Dynasty Ghost Story](/posts/the-soul-that-walked-out-the-door) — another tale of love across boundaries
+- [Nie Xiaoqian, the Ghost Bride of Lan Ruo Temple: A Qing Dynasty Ghost Story](/posts/nie-xiaoqian-the-ghost-bride) — a romance that treats death as a minor inconvenience
+- [The Husband Who Broke a Three-Year Promise: A Han Dynasty Ghost Story](/posts/the-husband-who-broke-the-three-year-promise) — where devotion outlasts the body that held it
+- [The Old Gardener and the Flower Spirits: A Northern Song Tale of Cosmic Justice](/posts/the-old-gardener-and-the-flower-spirits) — proof that Taoist fiction is philosophy wearing a trickster's mask
+- [The Country Where Even the Tavern Boys Spoke Classical Chinese: A Qing Dynasty Satire](/posts/the-country-where-the-tavern-boys-spoke-classical-chinese) — where the real magic is seeing clearly

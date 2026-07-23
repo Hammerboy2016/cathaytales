@@ -220,3 +220,21 @@ Li Chaowei writes the Dragon World with such material precision — the palace o
 **Li Chaowei's closing note** — the final paragraph, where Li Chaowei signs his name and comments on the story, is itself a *chuanqi* convention. He says the five types of creatures (the *wuchong* — scaled, shelled, hairy, feathered, bare) each have their own form of wisdom; Liu Yi represents the highest human virtue applied to the dragon world. *"I felt this was right,"* he writes, *"so I wrote it down."* It's a modest end to one of the strangest and most beautiful love stories in classical Chinese literature.
 
 </details>
+
+## Translator's Note
+
+This tale from the Tang dynasty *chuanqi* tradition has always struck me for its tenderness and refusal to sentimentalize. Tang dynasty prose has a cinematic economy that modern short fiction still envies — every clause carries weight.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Fisherman Who Drank with a Drowning Ghost: A Qing Dynasty Ghost Story](/posts/the-fisherman-who-drank-with-a-ghost) — another tale of love across boundaries
+- [The Tavern Daughter Who Came Back from Her Grave: A Northern Song Ghost Love Story](/posts/the-tavern-daughter-who-came-back-from-her-grave) — a romance that treats death as a minor inconvenience
+- [The Princess Who Came Back for Three Days: A Spring and Autumn Era Ghost Story](/posts/the-princess-who-came-back-for-three-days) — where devotion outlasts the body that held it
+- [The Killer Who Walked Into His Own Execution: A Tang Dynasty Tale of Honor and Murder](/posts/the-killer-who-walked-into-his-own-execution) — a karmic puzzle where the answer is quieter than you'd expect
+- [The Fox Bride and the Stolen Cup: A Qing Dynasty Ghost Story](/posts/the-fox-bride-and-the-stolen-cup) — proof that the fox in Chinese fiction is philosopher, not monster

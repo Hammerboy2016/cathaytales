@@ -177,3 +177,21 @@ This story is the origin of three of the most enduring Chinese symbols of marrie
 The wife is referred to throughout as **Hé shì** (何氏) — literally "[a woman] of the He family." This was standard practice for women in Warring States and early imperial records: women appeared in historical writing only by their fathers' family name. Some later folk versions of the story call her Hé Niáng (何娘) or Hé Pínɡ (何贞), but these are post-Tang inventions; no Warring States source preserves a personal name for her.
 
 </details>
+
+## Translator's Note
+
+This tale from Gan Bao's *In Search of the Supernatural* has always struck me for its tenderness and refusal to sentimentalize. The living-married-to-the-dead motif haunts me — the question of consent across the grave, asked without judgment.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Princess Who Came Back for Three Days: A Spring and Autumn Era Ghost Story](/posts/the-princess-who-came-back-for-three-days) — another tale of love across boundaries
+- [The Husband Who Broke a Three-Year Promise: A Han Dynasty Ghost Story](/posts/the-husband-who-broke-the-three-year-promise) — a romance that treats death as a minor inconvenience
+- [The Soul That Walked Out the Door: A Tang Dynasty Ghost Story](/posts/the-soul-that-walked-out-the-door) — where devotion outlasts the body that held it
+- [The Son Who Cut Off His Own Head for Revenge: A Six Dynasties Ghost Story](/posts/the-son-who-cut-off-his-own-head-for-revenge) — a karmic puzzle where the answer is quieter than you'd expect
+- [The Fox Girl Who Laughed at Everything: A Qing Dynasty Ghost Story](/posts/the-fox-girl-who-laughed-at-everything) — proof that the fox in Chinese fiction is philosopher, not monster

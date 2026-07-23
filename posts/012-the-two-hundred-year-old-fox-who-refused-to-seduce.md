@@ -106,3 +106,21 @@ Where Pu Songling's foxes are mostly enchanting women navigating love affairs wi
 Shuzhou (束州) is an old place name — by Ji Yun's time the settlement was long absorbed into Hejian Prefecture, Hebei. Huai Town (淮镇) is in the same area. Both places appear repeatedly in *Notes from the Thatched Study* as sites of supernatural encounter, often connected to ancient graves and tomb mounds left over from the Han or Six Dynasties periods.
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its emotional complexity and quiet menace. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Fox Bride and the Stolen Cup: A Qing Dynasty Ghost Story](/posts/the-fox-bride-and-the-stolen-cup) — another tale of a fox who out-humans the humans
+- [The Fox Widow Who Raised Her In-Laws: A Qing Dynasty Ghost Story](/posts/the-fox-wife-who-raised-her-in-laws) — a shapeshifter story where the transformation is emotional, not physical
+- [The Fox Girl Who Laughed at Everything: A Qing Dynasty Ghost Story](/posts/the-fox-girl-who-laughed-at-everything) — where the fox spirit is the most honest character in the room
+- [The Ghost Who Kept Her Lover Alive on Purpose: A Qing Dynasty Ghost Story](/posts/the-ghost-who-kept-her-lover-alive) — a love story in which the grave is a threshold, not a wall
+- [The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery](/posts/the-ghost-who-forgot-to-vanish) — an encounter that blurs the line between haunting and hospitality

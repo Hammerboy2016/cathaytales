@@ -274,3 +274,21 @@ A small but exquisite detail in the original: there are two pieces of jade in th
 The last line of the tale, as preserved in the *Taiping Guangji*, reads: *"Zhangwu later traveled often to Huazhou and never stopped visiting Yang Liu-niang"* (章武后往来华州，访遗杨六娘，至今不绝) — a quiet, flat statement of ordinary continuity after so much extraordinary loss. He could not visit Wang-shi again. The road he could keep walking was the one to the woman who had carried Wang-shi's last words for him. The grief stayed where the love had been; the friendship took the shape it could.
 
 </details>
+
+## Translator's Note
+
+This tale from the Tang dynasty *chuanqi* tradition has always struck me for its tenderness and refusal to sentimentalize. Tang dynasty prose has a cinematic economy that modern short fiction still envies — every clause carries weight.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Tavern Daughter Who Came Back from Her Grave: A Northern Song Ghost Love Story](/posts/the-tavern-daughter-who-came-back-from-her-grave) — another tale of love across boundaries
+- [The Fisherman Who Drank with a Drowning Ghost: A Qing Dynasty Ghost Story](/posts/the-fisherman-who-drank-with-a-ghost) — a romance that treats death as a minor inconvenience
+- [The Princess Who Came Back for Three Days: A Spring and Autumn Era Ghost Story](/posts/the-princess-who-came-back-for-three-days) — where devotion outlasts the body that held it
+- [The Killer Who Walked Into His Own Execution: A Tang Dynasty Tale of Honor and Murder](/posts/the-killer-who-walked-into-his-own-execution) — a karmic puzzle where the answer is quieter than you'd expect
+- [The Fox Bride and the Stolen Cup: A Qing Dynasty Ghost Story](/posts/the-fox-bride-and-the-stolen-cup) — proof that the fox in Chinese fiction is philosopher, not monster

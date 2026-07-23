@@ -204,3 +204,21 @@ Pu Songling does not say, in this story, whether that is love or not. He leaves 
 ---
 
 *Retelling by Cathay Tales. Source: 《聊斋志异》卷七·小翠 (Pu Songling, c. 1680, edited woodblock edition of 1766). Historical notes on Ming-dynasty official ranks and fox lore drawn from standard commentaries.*
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its emotional complexity and quiet menace. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Fox Widow Who Raised Her In-Laws: A Qing Dynasty Ghost Story](/posts/the-fox-wife-who-raised-her-in-laws) — another tale of a fox who out-humans the humans
+- [The Fox Girl Who Laughed at Everything: A Qing Dynasty Ghost Story](/posts/the-fox-girl-who-laughed-at-everything) — a shapeshifter story where the transformation is emotional, not physical
+- [The Fox Bride and the Stolen Cup: A Qing Dynasty Ghost Story](/posts/the-fox-bride-and-the-stolen-cup) — where the fox spirit is the most honest character in the room
+- [The Fisherman Who Drank with a Drowning Ghost: A Qing Dynasty Ghost Story](/posts/the-fisherman-who-drank-with-a-ghost) — a love story in which the grave is a threshold, not a wall
+- [The Son Who Cut Off His Own Head for Revenge: A Six Dynasties Ghost Story](/posts/the-son-who-cut-off-his-own-head-for-revenge) — where the debt is paid not in revenge but in mercy

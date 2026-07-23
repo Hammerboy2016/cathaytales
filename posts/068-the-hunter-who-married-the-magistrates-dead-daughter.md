@@ -244,3 +244,21 @@ Whether he was right, we cannot now know. But he wrote it down as if he were wri
 </details>
 
 <!-- [scheduled:12:50] -->
+
+## Translator's Note
+
+This tale from Gan Bao's *In Search of the Supernatural* has always struck me for its tenderness and refusal to sentimentalize. The living-married-to-the-dead motif haunts me — the question of consent across the grave, asked without judgment.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Man Who Carried a Letter to the Dragon King: A Tang Dynasty Ghost Story](/posts/the-man-who-carried-a-letter-to-the-dragon-king) — another tale of love across boundaries
+- [The Couple Who Became Mandarin Ducks: A Warring States Love Tragedy](/posts/the-couple-who-became-mandarin-ducks) — a romance that treats death as a minor inconvenience
+- [The Boy Who Followed His Soul: A Qing Dynasty Story of Sun Zichu and A Bao](/posts/the-boy-who-followed-his-soul) — where devotion outlasts the body that held it
+- [The Girl Who Volunteered to Feed the Mountain Serpent: A Jin Dynasty Ghost Story](/posts/the-girl-who-volunteered-to-feed-the-mountain-serpent) — proof that the scariest ghosts are the ones who sit down and stay
+- [The Prince Who Tested His Father's Bones with a Drop of His Own Blood: A Forensic Test from 6th-Century China](/posts/the-prince-who-tested-his-fathers-bones) — where the debt is paid not in revenge but in mercy

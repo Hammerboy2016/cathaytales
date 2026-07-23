@@ -142,3 +142,21 @@ I think about this one when I am working too long on a deadline and my own writi
 **Notes on the title.** The story is sometimes anthologized under the title *Wén Rén Yè Yǒu Guāng* (文人夜有光, "The Light Inside Scholars at Night") rather than *Lǎo Xuéjiū Yù Guǐ* (老学究遇鬼, "The Pedant Meets a Ghost"). Both are descriptive editorial titles applied later; the original text is untitled and runs as a single anecdote within the *Luanyang Xiaoxia Lu* sequence.
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its moral clarity and narrative restraint. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Killer Who Walked Into His Own Execution: A Tang Dynasty Tale of Honor and Murder](/posts/the-killer-who-walked-into-his-own-execution) — a story of karmic debt that refuses simple justice
+- [The Hanged Man Whose Rope Mark Went the Wrong Way: A 13th-Century Chinese Forensic Test](/posts/the-hanged-man-whose-rope-mark-went-the-wrong-way) — a tale where retribution arrives from an unexpected quarter
+- [The Red Umbrella That Made Old Bones Speak: A 13th-Century Forensic Technique](/posts/the-red-umbrella-that-made-old-bones-speak) — proof that karma in these texts is never mechanical
+- [The Night the Foxes Tried to Saw Down a Tree: A Qing Dynasty Ghost Story](/posts/the-night-the-foxes-tried-to-saw-down-a-tree) — a fox tale that resists the easy moral
+- [The Skull That Blew Cold Air Through the Mat: A Qing Dynasty Ghost Story](/posts/the-skull-that-blew-cold-air-through-the-mat) — an encounter that blurs the line between haunting and hospitality

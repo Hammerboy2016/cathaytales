@@ -202,3 +202,20 @@ A drowning man holds onto the world. A corpse cannot. That is the entire thirtee
 **Connection to other Cathay Tales forensic stories.** This is the sixth *Xi Yuan Ji Lu* tale on Cathay Tales. The earlier five — [the Silver Needle That Turned Black](../posts/the-silver-needle-that-turned-black) (arsenic detection), [the Red Umbrella That Made Old Bones Speak](../posts/the-red-umbrella-that-made-old-bones-speak) (optical examination of skeletal injury), [the Flies That Pointed to the Killer](../posts/the-flies-that-pointed-to-the-killer) (insect-based identification of a blood-stained weapon), [the Prince Who Tested His Father's Bones](../posts/the-prince-who-tested-his-fathers-bones) (the *dī gǔ qīn* paternity test), and [the Hanged Man Whose Rope Mark Went the Wrong Way](../posts/the-hanged-man-whose-rope-mark-went-the-wrong-way) (the eight-character-mark distinction) — together cover roughly half of the techniques in the manual's most-cited entries. Volume IV's drowning chapter, the one this case draws from, remained the operational standard for Chinese drowning investigations into the early 20th century.
 
 </details>
+
+## Translator's Note
+
+This tale from Song Ci's *Collected Cases of Injustice Rectified* has always struck me for its moral clarity and narrative restraint. Song Ci's forensic instinct — evidence before verdict — feels startlingly modern, seven centuries before CSI.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Pedant Whose Ghost Friend Saw No Light: A Qing Dynasty Ghost Story](/posts/the-pedant-whose-ghost-friend-saw-no-light) — a story of karmic debt that refuses simple justice
+- [The Silver Needle That Turned Black: A 13th-Century Chinese Poison Test](/posts/the-silver-needle-that-turned-black) — a tale where retribution arrives from an unexpected quarter
+- [The Bandit Whose Father Came Back From the Dead to Warn Him: A Qing Tale of Stolen Money, a Widow's Curse, and the Only Kind of Robbery That Never Fails](/posts/the-bandit-whose-father-came-back-to-warn-him) — proof that karma in these texts is never mechanical
+- [The Fox Wife Whose Pranks Cured a Fool: A Qing Dynasty Story of Xiao Cui and Wang Yuanfeng](/posts/the-fox-wife-whose-pranks-cured-a-fool) — a fox tale that resists the easy moral

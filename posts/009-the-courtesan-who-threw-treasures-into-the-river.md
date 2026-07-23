@@ -222,3 +222,21 @@ What distinguishes the story from the long Chinese tradition of courtesan-and-sc
 Guazhou (瓜洲) was a major Yangtze crossing town in the Ming and Qing, located on the north bank of the Yangtze opposite Zhenjiang in modern Jiangsu province. It was the last northern stop on the Grand Canal before the river crossing south to Jiangnan, and was famous in poetry as a place of partings, snowfall, and waiting for fair weather. The town was largely destroyed by Yangtze flooding in the late nineteenth century and now exists only as a small district within Yangzhou. Local tourism still markets a "Du Shiniang's Pavilion" on the riverbank — a Qing-dynasty memorial structure, rebuilt several times, that has no documentary connection to the actual events but has been visited as a literary pilgrimage site for more than two hundred years.
 
 </details>
+
+## Translator's Note
+
+This tale from Feng Menglong's vernacular story collection has always struck me for its tenderness and refusal to sentimentalize. Feng Menglong's genius is how ordinary greed becomes mythic — a merchant's mistake elevated to cosmic consequence.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Scholar Whose Love Brought a Flower Back From the Dead: A Qing Dynasty Story of Xiangyu and Jiangxue](/posts/the-scholar-whose-love-brought-a-flower-back-from-the-dead) — another tale of love across boundaries
+- [The Ghost Who Kept Her Lover Alive on Purpose: A Qing Dynasty Ghost Story](/posts/the-ghost-who-kept-her-lover-alive) — a romance that treats death as a minor inconvenience
+- [The Couple Who Became Mandarin Ducks: A Warring States Love Tragedy](/posts/the-couple-who-became-mandarin-ducks) — where devotion outlasts the body that held it
+- [The Jade Guanyin Who Chose to Die: A Southern Song Ghost Story](/posts/the-jade-guanyin-who-chose-to-die) — proof that the scariest ghosts are the ones who sit down and stay
+- [The Scholar Whose Ghost Kept Asking the Ancients One Question: A Qing Dynasty Ghost Story](/posts/the-scholar-whose-ghost-asked-the-ancients-one-question) — where the debt is paid not in revenge but in mercy

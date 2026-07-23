@@ -205,3 +205,20 @@ The case of the murder weapon identified by flies became a stock device in late-
 - The standard English translation remains McKnight (1981), with a more recent annotated edition by Sung Tsʻai (Brill, 2017) under the title *The Washing Away of Wrongs: A Tale of the World's First Forensic Pathologist.*
 
 </details>
+
+## Translator's Note
+
+This tale from Song Ci's *Collected Cases of Injustice Rectified* has always struck me for its moral clarity and narrative restraint. Song Ci's forensic instinct — evidence before verdict — feels startlingly modern, seven centuries before CSI.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Prince Who Tested His Father's Bones with a Drop of His Own Blood: A Forensic Test from 6th-Century China](/posts/the-prince-who-tested-his-fathers-bones) — a story of karmic debt that refuses simple justice
+- [The Son Who Cut Off His Own Head for Revenge: A Six Dynasties Ghost Story](/posts/the-son-who-cut-off-his-own-head-for-revenge) — a tale where retribution arrives from an unexpected quarter
+- [The Pedant Whose Ghost Friend Saw No Light: A Qing Dynasty Ghost Story](/posts/the-pedant-whose-ghost-friend-saw-no-light) — proof that karma in these texts is never mechanical
+- [The Sheep-Trader Who Slept Above a Green-Haired Corpse: A Qing Ghost Story of a Sealed Temple, an Iron-Clawed Thing, and the Magistrate Who Opened the Coffin](/posts/the-sheep-trader-who-slept-above-a-green-haired-corpse) — proof that the scariest ghosts are the ones who sit down and stay
