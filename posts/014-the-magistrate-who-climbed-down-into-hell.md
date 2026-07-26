@@ -210,3 +210,21 @@ Read on its surface, this is a ghost story. Read with attention to what Yuan Mei
 It is one of the very few stories in *Zibuyu* where Yuan Mei almost shows his hand.
 
 </details>
+
+## Translator's Note
+
+This tale from Yuan Mei's *What the Master Would Not Discuss* has always struck me for its bureaucratic absurdity and genuine dread. Yuan Mei writes the grotesque not as horror, but as dark comedy — the laugh catches in your throat.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Hell Judge Who Came Over for Drinks: A Qing Dynasty Ghost Story](/posts/the-hell-judge-who-came-over-for-drinks) — a journey into the bureaucracy of the dead
+- [The Ghost Who Resigned Twice: A Ming Dynasty Ghost Story](/posts/the-ghost-who-resigned-twice) — where the underworld runs on the same paperwork as the living
+- [The Scholar Who Died to Take the Exam: A Qing Dynasty Ghost Story](/posts/the-scholar-who-died-to-take-the-exam) — a story of what happens after the last breath — and the first complaint
+- [The Skull That Blew Cold Air Through the Mat: A Qing Dynasty Ghost Story](/posts/the-skull-that-blew-cold-air-through-the-mat) — proof that the scariest ghosts are the ones who sit down and stay
+- [The Three Tricks Every Ghost Has: A Qing Dynasty Ghost Story](/posts/the-three-tricks-every-ghost-has) — an encounter that blurs the line between haunting and hospitality

@@ -427,3 +427,21 @@ Only one of them ends with a corpse the singer dug up himself.
 **About** fenshen yinxing**.** The Daoist art of "body-splitting and rendering invisible" appears throughout Ming–Qing fiction as a marker of a fully realized adept — see, for example, the various transformations of the Eight Immortals or the Monkey King in *Journey to the West*. Feng Menglong uses it here for an unusual purpose in the story: the entire visiting prince, his retainer, his luggage, his clothing, his heart attack, and his demand for brain matter are projections of Zhuangzi himself. This makes the test of Lady Tian's fidelity not merely engineered but performed, in real time, by the man being tested against.
 
 </details>
+
+## Translator's Note
+
+This tale from Feng Menglong's vernacular story collection has always struck me for its moral clarity and narrative restraint. Feng Menglong's genius is how ordinary greed becomes mythic — a merchant's mistake elevated to cosmic consequence.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Drowned Monk Whose Fists Were Empty: A 13th-Century Chinese Forensic Test](/posts/the-drowned-monk-whose-fists-were-empty) — a story of karmic debt that refuses simple justice
+- [The Flies That Pointed to the Killer: A 13th-Century Chinese Forensic Case](/posts/the-flies-that-pointed-to-the-killer) — a tale where retribution arrives from an unexpected quarter
+- [The Fifteen Strings of Cash: A Joke That Killed Four People](/posts/the-fifteen-strings-of-cash) — proof that karma in these texts is never mechanical
+- [The Jade Guanyin Who Chose to Die: A Southern Song Ghost Story](/posts/the-jade-guanyin-who-chose-to-die) — proof that the scariest ghosts are the ones who sit down and stay
+- [The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery](/posts/the-ghost-who-forgot-to-vanish) — an encounter that blurs the line between haunting and hospitality

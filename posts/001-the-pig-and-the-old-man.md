@@ -99,3 +99,21 @@ In the summer of the *jiyou* year of the Qianlong reign (1789), Ji Yun was stati
 *Notes from the Thatched Study* (阅微草堂笔记) is a five-part collection of *bǐjì* (笔记, "brush notes" — a genre of informal jottings mixing anecdotes, observations, and commentary). Ji Yun (1724–1805), also known as Ji Xiaolan, was one of Qing China's most powerful scholars — he served as chief editor of the *Siku Quanshu* (四库全书), the largest literary compilation in Chinese history. Unlike the more famous *Liaozhai Zhiyi* (Strange Tales from a Chinese Studio) by Pu Songling, Ji Yun's tales are deliberately sparse: he gives you the incident and steps back, trusting the reader to draw the conclusion.
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its moral clarity and narrative restraint. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Bandit Whose Father Came Back From the Dead to Warn Him: A Qing Tale of Stolen Money, a Widow's Curse, and the Only Kind of Robbery That Never Fails](/posts/the-bandit-whose-father-came-back-to-warn-him) — a story of karmic debt that refuses simple justice
+- [The Pedant Whose Ghost Friend Saw No Light: A Qing Dynasty Ghost Story](/posts/the-pedant-whose-ghost-friend-saw-no-light) — a tale where retribution arrives from an unexpected quarter
+- [The Drowned Monk Whose Fists Were Empty: A 13th-Century Chinese Forensic Test](/posts/the-drowned-monk-whose-fists-were-empty) — proof that karma in these texts is never mechanical
+- [The Fox That Feared a Peasant Maid: A Qing Dynasty Ghost Story](/posts/the-fox-that-feared-a-peasant-maid) — proof that the scariest ghosts are the ones who sit down and stay
+- [The Country Where Politeness Killed Business: A Qing Dynasty Satire](/posts/the-country-where-politeness-kills) — where the real magic is seeing clearly

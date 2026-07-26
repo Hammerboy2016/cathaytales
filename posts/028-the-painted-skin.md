@@ -301,3 +301,21 @@ In *Painted Skin*, the moral is sharper than in most of his stories. Pu Songling
 By Western conventions *Painted Skin* sits between two genres: the supernatural horror tale (a demon kills the protagonist) and the marriage morality tale (a husband cheats and his wife pays). Pu Songling himself didn't see those as separate genres. For him a *ghost story* was always also a story about how people treated each other. We've kept the SEO subtitle "A Qing Dynasty Ghost Story" because that's the genre Western readers will be looking for; the moral story underneath is what the translator's reflection is for.
 
 </details>
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its domestic intimacy and structural unease. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Skull That Blew Cold Air Through the Mat: A Qing Dynasty Ghost Story](/posts/the-skull-that-blew-cold-air-through-the-mat) — a ghost story that refuses the happy ending
+- [The Scholar Who Wiped a Ghost's Mouth with Toilet Paper: A Qing Dynasty Ghost Story](/posts/the-man-who-welcomed-a-ghost) — where the haunting is less about the ghost and more about the witness
+- [The Friend Who Forgot How to Leave: A Qing Dynasty Ghost Story](/posts/the-friend-who-forgot-how-to-leave) — a tale of supernatural persistence that feels strangely domestic
+- [The Disciple Who Wanted to Walk Through Walls: A Qing Dynasty Tale of Daoist Magic](/posts/the-disciple-who-wanted-to-walk-through-walls) — proof that Taoist fiction is philosophy wearing a trickster's mask
+- [The Silver Needle That Turned Black: A 13th-Century Chinese Poison Test](/posts/the-silver-needle-that-turned-black) — where the debt is paid not in revenge but in mercy

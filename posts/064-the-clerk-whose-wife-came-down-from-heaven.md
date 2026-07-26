@@ -263,3 +263,21 @@ She kept coming down. Xian Chao lived into the next dynasty. On the third of the
 </details>
 
 <!-- [scheduled:16:20] -->
+
+## Translator's Note
+
+This tale from Gan Bao's *In Search of the Supernatural* has always struck me for its tenderness and refusal to sentimentalize. The living-married-to-the-dead motif haunts me — the question of consent across the grave, asked without judgment.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Princess Who Came Back for Three Days: A Spring and Autumn Era Ghost Story](/posts/the-princess-who-came-back-for-three-days) — another tale of love across boundaries
+- [The Lover Who Came Back for One Night: A Tang Dynasty Ghost Story](/posts/the-lover-who-came-back-for-one-night) — a romance that treats death as a minor inconvenience
+- [The Courtesan Who Drowned a Fortune to Punish a Coward: A Ming Dynasty Tragedy](/posts/the-courtesan-who-threw-treasures-into-the-river) — where devotion outlasts the body that held it
+- [The Son Who Cut Off His Own Head for Revenge: A Six Dynasties Ghost Story](/posts/the-son-who-cut-off-his-own-head-for-revenge) — a karmic puzzle where the answer is quieter than you'd expect
+- [The Night the Dead Sat Up Crying: A Qing Dynasty Ghost Story](/posts/the-night-the-dead-sat-up-crying) — an encounter that blurs the line between haunting and hospitality

@@ -158,3 +158,21 @@ But somewhere in Ruicheng county, in 1741, there was a house that had once been 
 **About Yuan Mei's editorial voice.** *Zi Bu Yu* is, throughout its twenty-four volumes and ten-volume sequel, notable for what it does *not* do. Yuan Mei rarely closes a story with a moral verdict. He rarely tells you what an anecdote proves. He collects, dates, sources, and files — and then moves on. Modern scholars have read this restraint in various ways: as Enlightenment-style skepticism (Yuan Mei is documenting phenomena, not endorsing their supernatural explanations); as ironic Confucian orthodoxy (by titling the work *what Confucius would not speak of*, Yuan Mei is claiming a position outside the official ideological consensus); or as a straightforward editorial preference (Yuan Mei simply enjoyed stories that stopped short of their own moral, and thought the reader could be trusted to supply the rest). The *green-haired thing* under the Ruicheng temple is a good example of all three readings at once. Yuan Mei tells you what was found, what was done, and that the door was left unlocked afterward. He does not tell you whose body it was. He does not need to.
 
 </details>
+
+## Translator's Note
+
+This tale from Yuan Mei's *What the Master Would Not Discuss* has always struck me for its domestic intimacy and structural unease. Yuan Mei writes the grotesque not as horror, but as dark comedy — the laugh catches in your throat.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery](/posts/the-ghost-who-forgot-to-vanish) — a ghost story that refuses the happy ending
+- [The Friend Who Forgot How to Leave: A Qing Dynasty Ghost Story](/posts/the-friend-who-forgot-how-to-leave) — where the haunting is less about the ghost and more about the witness
+- [The Fox That Feared a Peasant Maid: A Qing Dynasty Ghost Story](/posts/the-fox-that-feared-a-peasant-maid) — a tale of supernatural persistence that feels strangely domestic
+- [The Magistrate Who Climbed Down a Well into Hell: A Qing Dynasty Ghost Story](/posts/the-magistrate-who-climbed-down-into-hell) — the afterlife as mirror of the magistrate's courtroom
+- [The Country Where Politeness Killed Business: A Qing Dynasty Satire](/posts/the-country-where-politeness-kills) — where the real magic is seeing clearly

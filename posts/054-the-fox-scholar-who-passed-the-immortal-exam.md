@@ -138,3 +138,21 @@ I think that's why this story sticks with me. Other Qing ghost tales scare you. 
 **About the fox bureaucracy.** Yuan Mei's universe is populated by spirits that participate in their own civil administration. Foxes are not merely shapeshifters but a *guild* with its own examination system, ranks, licensing, and demotion procedures. The Lady of Mount Tai, in her capacity as administrator of fox licensure, mirrors the imperial Ministry of Rites in administering the human civil exams. This is not a parody. Yuan Mei takes the parallel seriously as a literary device: the supernatural world has the same shape as the human world because both are produced by the same cosmic order. A fox who has passed the exam is, by definition, a member of the gentry — and is entitled to be addressed accordingly.
 
 </details>
+
+## Translator's Note
+
+This tale from Yuan Mei's *What the Master Would Not Discuss* has always struck me for its wit and philosophical depth. Yuan Mei writes the grotesque not as horror, but as dark comedy — the laugh catches in your throat.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Country Where Politeness Killed Business: A Qing Dynasty Satire](/posts/the-country-where-politeness-kills) — a Taoist miracle that is also a riddle
+- [The Young Monk Who Could Not Forget the Tiger: A Qing Dynasty Ghost Story](/posts/the-young-monk-who-could-not-forget-the-tiger) — where the Taoist sage is less wizard than mirror
+- [The Country Where the Teacher Read Every Character Wrong: A Qing Dynasty Satire on Fake Scholars](/posts/the-country-where-the-teacher-read-every-character-wrong) — a tale of supernatural wit that exposes a very human failing
+- [The Skull That Blew Cold Air Through the Mat: A Qing Dynasty Ghost Story](/posts/the-skull-that-blew-cold-air-through-the-mat) — proof that the scariest ghosts are the ones who sit down and stay
+- [The Night the Foxes Tried to Saw Down a Tree: A Qing Dynasty Ghost Story](/posts/the-night-the-foxes-tried-to-saw-down-a-tree) — proof that the fox in Chinese fiction is philosopher, not monster

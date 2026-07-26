@@ -198,3 +198,20 @@ Modern forensic pathology has confirmed the underlying physics. A self-suspended
 Song Ci (宋慈, 1186–1249) was born in Jianyang, Fujian — the same prefecture that frames the case above. He was a *jinshi* (進士, the highest-ranked civil-service degree) in 1217, and served in increasingly senior judicial posts in Hunan, Guangdong, Jiangxi, and Fujian. He compiled *The Washing Away of Wrongs* in 1247, at the age of 61, near the end of his career. He died two years later. The book was reprinted in every dynasty from his death to the end of the Qing, was translated into French by 1779, and remains the earliest surviving systematic forensic-science manual in any language.
 
 </details>
+
+## Translator's Note
+
+This tale from Song Ci's *Collected Cases of Injustice Rectified* has always struck me for its moral clarity and narrative restraint. Song Ci's forensic instinct — evidence before verdict — feels startlingly modern, seven centuries before CSI.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Red Umbrella That Made Old Bones Speak: A 13th-Century Forensic Technique](/posts/the-red-umbrella-that-made-old-bones-speak) — a story of karmic debt that refuses simple justice
+- [The Prince Who Tested His Father's Bones with a Drop of His Own Blood: A Forensic Test from 6th-Century China](/posts/the-prince-who-tested-his-fathers-bones) — a tale where retribution arrives from an unexpected quarter
+- [The Silver Needle That Turned Black: A 13th-Century Chinese Poison Test](/posts/the-silver-needle-that-turned-black) — proof that karma in these texts is never mechanical
+- [Nie Xiaoqian, the Ghost Bride of Lan Ruo Temple: A Qing Dynasty Ghost Story](/posts/nie-xiaoqian-the-ghost-bride) — a love story in which the grave is a threshold, not a wall

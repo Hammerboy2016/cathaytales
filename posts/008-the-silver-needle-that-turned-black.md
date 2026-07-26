@@ -153,3 +153,20 @@ By the Qing dynasty (1644–1912), the silver pin (now also called the *银探�
 Arsenic was, until the twentieth century, the favored poison of domestic murder almost everywhere on earth. It is tasteless, odorless when dissolved, and produces symptoms (severe vomiting, abdominal pain, sudden death) easily mistaken for cholera, dysentery, or a "weak heart." Across Europe through the Renaissance, it was called *poudre de succession* — "inheritance powder" — for its association with quietly rearranged wills. Song Ci's manual gave Chinese magistrates a procedural answer to that problem six centuries before European chemistry could match it. The test was crude, but it was *systematic, regulated, and reviewable* — three things that no European jurisdiction could claim about its own poison detection until well into the nineteenth century.
 
 </details>
+
+## Translator's Note
+
+This tale from Song Ci's *Collected Cases of Injustice Rectified* has always struck me for its moral clarity and narrative restraint. Song Ci's forensic instinct — evidence before verdict — feels startlingly modern, seven centuries before CSI.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Red Umbrella That Made Old Bones Speak: A 13th-Century Forensic Technique](/posts/the-red-umbrella-that-made-old-bones-speak) — a story of karmic debt that refuses simple justice
+- [The Bandit Whose Father Came Back From the Dead to Warn Him: A Qing Tale of Stolen Money, a Widow's Curse, and the Only Kind of Robbery That Never Fails](/posts/the-bandit-whose-father-came-back-to-warn-him) — a tale where retribution arrives from an unexpected quarter
+- [The Prince Who Tested His Father's Bones with a Drop of His Own Blood: A Forensic Test from 6th-Century China](/posts/the-prince-who-tested-his-fathers-bones) — proof that karma in these texts is never mechanical
+- [The Night the Dead Sat Up Crying: A Qing Dynasty Ghost Story](/posts/the-night-the-dead-sat-up-crying) — proof that the scariest ghosts are the ones who sit down and stay

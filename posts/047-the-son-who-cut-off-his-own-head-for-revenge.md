@@ -141,3 +141,21 @@ The "Three Kings Tomb" story is set in the southern kingdom of **Chu**, a state 
 In the 20th century, **Lu Xun** (鲁迅) retold this story under the title *Forging the Swords* (《铸剑》, 1927) in his collection *Old Tales Retold* (《故事新编》), giving the stranger a name (Yan Zhi Ao Zhe), expanding the boy's psychology, and making the cauldron scene one of the most cinematic set pieces in modern Chinese literature. Lu Xun's version is darker and more political — for him, the story is about how violence consumes the avenger as surely as it consumes the tyrant. Gan Bao's original is more matter-of-fact: this is what happened. Three heads went into the pot. They could not be told apart. So they buried them together.
 
 </details>
+
+## Translator's Note
+
+This tale from Gan Bao's *In Search of the Supernatural* has always struck me for its moral clarity and narrative restraint. The living-married-to-the-dead motif haunts me — the question of consent across the grave, asked without judgment.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Mother Whose Body Had Never Given Birth: A 13th-Century Chinese Postpartum Forensic Test](/posts/the-mother-whose-body-had-never-given-birth) — a story of karmic debt that refuses simple justice
+- [The Fifteen Strings of Cash: A Joke That Killed Four People](/posts/the-fifteen-strings-of-cash) — a tale where retribution arrives from an unexpected quarter
+- [The Hanged Man Whose Rope Mark Went the Wrong Way: A 13th-Century Chinese Forensic Test](/posts/the-hanged-man-whose-rope-mark-went-the-wrong-way) — proof that karma in these texts is never mechanical
+- [The Couple Who Became Mandarin Ducks: A Warring States Love Tragedy](/posts/the-couple-who-became-mandarin-ducks) — a love story in which the grave is a threshold, not a wall
+- [The Country Where Politeness Killed Business: A Qing Dynasty Satire](/posts/the-country-where-politeness-kills) — where the real magic is seeing clearly

@@ -298,3 +298,20 @@ The medicine beast is not in the story by accident.
 </details>
 
 <!-- [scheduled:21:23] -->
+
+## Translator's Note
+
+This tale from Li Ruzhen's *Flowers in the Mirror* has always struck me for its wit and philosophical depth. Li Ruzhen builds each impossible country as a mirror for Qing China's own vanity, and the reflection still holds.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Silence That Was Worth Three Fortunes: A Tang Dynasty Tale of an Immortal's Test](/posts/the-silence-that-was-worth-three-fortunes) — a Taoist miracle that is also a riddle
+- [The Old Gardener and the Flower Spirits: A Northern Song Tale of Cosmic Justice](/posts/the-old-gardener-and-the-flower-spirits) — where the Taoist sage is less wizard than mirror
+- [The Country Where Two Schoolgirls Made the Old Scholar Sweat: A Qing Dynasty Satire](/posts/the-country-where-girls-quoted-the-classics) — a tale of supernatural wit that exposes a very human failing
+- [The Couple Who Became Mandarin Ducks: A Warring States Love Tragedy](/posts/the-couple-who-became-mandarin-ducks) — a love story in which the grave is a threshold, not a wall

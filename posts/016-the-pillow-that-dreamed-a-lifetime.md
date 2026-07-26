@@ -171,3 +171,21 @@ I notice the story doesn't tell us what Lu Sheng does after he walks away. It do
 **The afterlife of the story.** *The Record of the Pillow* spawned the idiom *huángliáng yī mèng* (黄粱一梦), "a yellow millet dream," still in everyday use in modern Chinese to mean "an entire life of ambition, seen in retrospect to be insubstantial." It was rewritten into the Ming-dynasty playwright Tang Xianzu's drama *The Record of Handan* (邯郸记), one of his "Four Dreams of Linchuan" (临川四梦). It is also one of the most-cited sources of the *Strange Tales* tradition that we translate under the *Cathay Tales* banner — *Liaozhai* and *Zibuyu* both echo the pillow-into-other-life motif more than a thousand years later.
 
 </details>
+
+## Translator's Note
+
+This tale from the Tang dynasty *chuanqi* tradition has always struck me for its wit and philosophical depth. Tang dynasty prose has a cinematic economy that modern short fiction still envies — every clause carries weight.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Country with No Bowels: A Qing Dynasty Satire on Misers](/posts/the-country-with-no-bowels) — a Taoist miracle that is also a riddle
+- [The Old Gardener and the Flower Spirits: A Northern Song Tale of Cosmic Justice](/posts/the-old-gardener-and-the-flower-spirits) — where the Taoist sage is less wizard than mirror
+- [The Country Where Your Soul Showed Beneath Your Feet: A Qing Dynasty Satire](/posts/the-country-where-your-soul-showed-beneath-your-feet) — a tale of supernatural wit that exposes a very human failing
+- [The Killer Who Walked Into His Own Execution: A Tang Dynasty Tale of Honor and Murder](/posts/the-killer-who-walked-into-his-own-execution) — a karmic puzzle where the answer is quieter than you'd expect
+- [The Night the Dead Sat Up Crying: A Qing Dynasty Ghost Story](/posts/the-night-the-dead-sat-up-crying) — an encounter that blurs the line between haunting and hospitality

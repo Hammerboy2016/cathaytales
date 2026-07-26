@@ -160,3 +160,20 @@ What Song Ci contributed was (1) extending the technique from fresh corpses to s
 Several forensic-history research groups in China and Taiwan have, over the past three decades, attempted to recreate the red-umbrella technique under controlled laboratory conditions, typically on pig or sheep femurs with experimentally induced antemortem and postmortem fractures. The general finding has been that traditional vermillion-dyed mulberry oilpaper functions as a high-quality long-pass optical filter (transmission peak around 615–625 nm, blue cutoff below 500 nm) — and that, when used in direct noon sunlight on freshly steamed bone, it reliably enhances the contrast of hematoidin-stained antemortem fractures. The technique cannot match modern UV-fluorescence imaging in absolute sensitivity, but it consistently outperforms unaided visual inspection. The most-cited modern surveys of this experimental literature appear in *Chinese Journal of Forensic Sciences* (中国法医学杂志) across the 2000s and 2010s.
 
 </details>
+
+## Translator's Note
+
+This tale from Song Ci's *Collected Cases of Injustice Rectified* has always struck me for its moral clarity and narrative restraint. Song Ci's forensic instinct — evidence before verdict — feels startlingly modern, seven centuries before CSI.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Philosopher Who Faked His Death to Test His Wife: A Late Ming Retelling of Zhuangzi](/posts/the-philosopher-who-faked-his-death-to-test-his-wife) — a story of karmic debt that refuses simple justice
+- [The Drowned Monk Whose Fists Were Empty: A 13th-Century Chinese Forensic Test](/posts/the-drowned-monk-whose-fists-were-empty) — a tale where retribution arrives from an unexpected quarter
+- [The Prince Who Tested His Father's Bones with a Drop of His Own Blood: A Forensic Test from 6th-Century China](/posts/the-prince-who-tested-his-fathers-bones) — proof that karma in these texts is never mechanical
+- [The Man Who Carried a Letter to the Dragon King: A Tang Dynasty Ghost Story](/posts/the-man-who-carried-a-letter-to-the-dragon-king) — a love story in which the grave is a threshold, not a wall

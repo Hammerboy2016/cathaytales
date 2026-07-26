@@ -184,3 +184,21 @@ The story is striking for its time in three ways:
 A folk song commemorating Li Ji is said to have survived in the Fujian highlands at least into the Tang dynasty, though no recording of it remains.
 
 </details>
+
+## Translator's Note
+
+This tale from Gan Bao's *In Search of the Supernatural* has always struck me for its domestic intimacy and structural unease. The living-married-to-the-dead motif haunts me — the question of consent across the grave, asked without judgment.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Friend Who Forgot How to Leave: A Qing Dynasty Ghost Story](/posts/the-friend-who-forgot-how-to-leave) — a ghost story that refuses the happy ending
+- [The Young Man Who Sold a Ghost at the Market: A Six Dynasties Ghost Story](/posts/the-young-man-who-sold-a-ghost) — where the haunting is less about the ghost and more about the witness
+- [The Three Tricks Every Ghost Has: A Qing Dynasty Ghost Story](/posts/the-three-tricks-every-ghost-has) — a tale of supernatural persistence that feels strangely domestic
+- [The Husband Who Broke a Three-Year Promise: A Han Dynasty Ghost Story](/posts/the-husband-who-broke-the-three-year-promise) — a love story in which the grave is a threshold, not a wall
+- [The Clerk Whose Wife Came Down from Heaven: A Wei Dynasty Immortal-Marriage Tale](/posts/the-clerk-whose-wife-came-down-from-heaven) — proof that in these texts, grief is just love with nowhere to go

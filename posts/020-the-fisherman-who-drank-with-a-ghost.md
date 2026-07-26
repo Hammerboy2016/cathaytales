@@ -218,3 +218,21 @@ The story ends with a whirlwind circling a man on a country road, refusing to tu
 **Yishi shi's closing barb.** The mocking little *Yueling* parody at the end is not a separate joke — it is the moral of the story, repeated in a different key. The whole tale is built to set up the contrast: a humble drowned ghost remembers an old friend across years and ranks; a great living official cannot even remember a childhood companion through a single visit. Pu Songling, exam-failure and country tutor, is writing about something he lived.
 
 </details>
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its tenderness and refusal to sentimentalize. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Hunter Who Married the Magistrate's Dead Daughter: A Han-Dynasty Ghost-Marriage Tale](/posts/the-hunter-who-married-the-magistrates-dead-daughter) — another tale of love across boundaries
+- [The Clerk Whose Wife Came Down from Heaven: A Wei Dynasty Immortal-Marriage Tale](/posts/the-clerk-whose-wife-came-down-from-heaven) — a romance that treats death as a minor inconvenience
+- [The Husband Who Broke a Three-Year Promise: A Han Dynasty Ghost Story](/posts/the-husband-who-broke-the-three-year-promise) — where devotion outlasts the body that held it
+- [The Fox Bride and the Stolen Cup: A Qing Dynasty Ghost Story](/posts/the-fox-bride-and-the-stolen-cup) — a fox tale that resists the easy moral
+- [The Old Gardener and the Flower Spirits: A Northern Song Tale of Cosmic Justice](/posts/the-old-gardener-and-the-flower-spirits) — where the real magic is seeing clearly

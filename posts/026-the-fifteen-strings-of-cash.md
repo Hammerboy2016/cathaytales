@@ -293,3 +293,21 @@ The 1956 adaptation has, however, almost nothing in common with the original Fen
 - The standard English translation of selected Sanyan stories remains **Yang Hsien-yi and Gladys Yang, *The Courtesan's Jewel Box: Chinese Stories of the Xth–XVIIth Centuries*** (Beijing: Foreign Languages Press, 1957), which includes a translation of *Cui Ning* under the title *The Fifteen Strings of Cash.* A more recent annotated translation by **Shuhui Yang and Yunqin Yang, *Stories to Awaken the World: A Ming Dynasty Collection, Volume 3*** (Seattle: University of Washington Press, 2009), provides the complete text of *Xing Shi Heng Yan* in modern scholarly English.
 
 </details>
+
+## Translator's Note
+
+This tale from Feng Menglong's vernacular story collection has always struck me for its moral clarity and narrative restraint. Feng Menglong's genius is how ordinary greed becomes mythic — a merchant's mistake elevated to cosmic consequence.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Bandit Whose Father Came Back From the Dead to Warn Him: A Qing Tale of Stolen Money, a Widow's Curse, and the Only Kind of Robbery That Never Fails](/posts/the-bandit-whose-father-came-back-to-warn-him) — a story of karmic debt that refuses simple justice
+- [The Mother Whose Body Had Never Given Birth: A 13th-Century Chinese Postpartum Forensic Test](/posts/the-mother-whose-body-had-never-given-birth) — a tale where retribution arrives from an unexpected quarter
+- [The Pedant Whose Ghost Friend Saw No Light: A Qing Dynasty Ghost Story](/posts/the-pedant-whose-ghost-friend-saw-no-light) — proof that karma in these texts is never mechanical
+- [The Courtesan Who Drowned a Fortune to Punish a Coward: A Ming Dynasty Tragedy](/posts/the-courtesan-who-threw-treasures-into-the-river) — a love story in which the grave is a threshold, not a wall
+- [The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery](/posts/the-ghost-who-forgot-to-vanish) — an encounter that blurs the line between haunting and hospitality

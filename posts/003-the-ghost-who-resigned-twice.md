@@ -120,3 +120,21 @@ The idea that the underworld mirrors the imperial bureaucracy was not satire in 
 Tao Yuanming's *Peach Blossom Spring* has been read as a political allegory since the Song dynasty: a vision of a society free from imperial authority, where people live without taxes, conscription, or factional strife. The ghost's invocation of it — and his warning that the fisherman must not return — gives the story its sharpest edge. The hidden world cannot survive contact with power. The ghost knows this. He has already been destroyed twice by systems that promised to be different and weren't. He is not about to let it happen a third time.
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its bureaucratic absurdity and genuine dread. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Magistrate Who Climbed Down a Well into Hell: A Qing Dynasty Ghost Story](/posts/the-magistrate-who-climbed-down-into-hell) — a journey into the bureaucracy of the dead
+- [The Scholar Who Died to Take the Exam: A Qing Dynasty Ghost Story](/posts/the-scholar-who-died-to-take-the-exam) — where the underworld runs on the same paperwork as the living
+- [The Hell Judge Who Came Over for Drinks: A Qing Dynasty Ghost Story](/posts/the-hell-judge-who-came-over-for-drinks) — a story of what happens after the last breath — and the first complaint
+- [The Night the Foxes Tried to Saw Down a Tree: A Qing Dynasty Ghost Story](/posts/the-night-the-foxes-tried-to-saw-down-a-tree) — a fox tale that resists the easy moral
+- [The Teacher Whose Entire Wedding Party Was Dead: A Southern Song Ghost Story](/posts/the-teacher-whose-entire-wedding-party-was-dead) — an encounter that blurs the line between haunting and hospitality

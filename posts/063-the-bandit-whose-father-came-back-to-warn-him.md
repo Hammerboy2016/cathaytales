@@ -149,3 +149,21 @@ The **chastity-widow institution** (节妇 *jiéfù*) reached its historical pea
 Ji Yun is famously restrained in *Yuewei*. Unlike his contemporary Pu Songling, who liked to end his stories with a signed authorial verdict (*The Chronicler of the Strange says…*), Ji Yun usually lets the story stop itself. When he does add a closing comment — as he does here, in seven characters, *gài tiāndào huòyín, lǐ gù bù shuǎng* (盖天道祸淫，理固不爽) — the effect is that of a magistrate closing a case file. *Heaven's Way punishes lechery. The principle admits no exceptions.* It is not a moral flourish. It is a docket entry.
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its moral clarity and narrative restraint. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Pedant Whose Ghost Friend Saw No Light: A Qing Dynasty Ghost Story](/posts/the-pedant-whose-ghost-friend-saw-no-light) — a story of karmic debt that refuses simple justice
+- [The Prince Who Tested His Father's Bones with a Drop of His Own Blood: A Forensic Test from 6th-Century China](/posts/the-prince-who-tested-his-fathers-bones) — a tale where retribution arrives from an unexpected quarter
+- [The Drowned Monk Whose Fists Were Empty: A 13th-Century Chinese Forensic Test](/posts/the-drowned-monk-whose-fists-were-empty) — proof that karma in these texts is never mechanical
+- [The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery](/posts/the-ghost-who-forgot-to-vanish) — proof that the scariest ghosts are the ones who sit down and stay
+- [The Country Where Even the Tavern Boys Spoke Classical Chinese: A Qing Dynasty Satire](/posts/the-country-where-the-tavern-boys-spoke-classical-chinese) — where the real magic is seeing clearly

@@ -359,3 +359,21 @@ The ghosts of the Lin'an Qiantang Gate ward were, in their own quiet way, more c
 **Connection to other Cathay Tales sanyan stories.** This is the seventh **Three Words** (三言) tale on Cathay Tales. The earlier six — [the Courtesan Who Threw Treasures into the River](../posts/the-courtesan-who-threw-treasures-into-the-river) (杜十娘 from Volume 32 of *Awaken the World*), [the Jade Guanyin Who Chose to Die](../posts/the-jade-guanyin-who-chose-to-die) (崔待诏 from Volume 8 of *Caution the World*), [the Fifteen Strings of Cash](../posts/the-fifteen-strings-of-cash) (Volume 33 of *Awaken*), [the Old Gardener and the Flower Spirits](../posts/the-old-gardener-and-the-flower-spirits) (灌园叟 from Volume 4 of *Awaken*), [the Tavern Daughter Who Came Back from Her Grave](../posts/the-tavern-daughter-who-came-back-from-her-grave) (周胜仙 from Volume 14 of *Awaken*), and [the Philosopher Who Faked His Death to Test His Wife](../posts/the-philosopher-who-faked-his-death-to-test-his-wife) (庄子鼓盆 from Volume 2 of *Caution*) — have ranged across all three of the *Three Words* volumes. This is the first to draw from a ghost-marriage *huaben* of the Lin'an Southern Song tradition.
 
 </details>
+
+## Translator's Note
+
+This tale from Feng Menglong's vernacular story collection has always struck me for its domestic intimacy and structural unease. Feng Menglong's genius is how ordinary greed becomes mythic — a merchant's mistake elevated to cosmic consequence.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Beauty Wearing a Painted Skin: A Qing Dynasty Ghost Story](/posts/the-painted-skin) — a ghost story that refuses the happy ending
+- [The Three Tricks Every Ghost Has: A Qing Dynasty Ghost Story](/posts/the-three-tricks-every-ghost-has) — where the haunting is less about the ghost and more about the witness
+- [The Girl Who Volunteered to Feed the Mountain Serpent: A Jin Dynasty Ghost Story](/posts/the-girl-who-volunteered-to-feed-the-mountain-serpent) — a tale of supernatural persistence that feels strangely domestic
+- [The Old Gardener and the Flower Spirits: A Northern Song Tale of Cosmic Justice](/posts/the-old-gardener-and-the-flower-spirits) — proof that Taoist fiction is philosophy wearing a trickster's mask
+- [The Country with No Bowels: A Qing Dynasty Satire on Misers](/posts/the-country-with-no-bowels) — where the real magic is seeing clearly

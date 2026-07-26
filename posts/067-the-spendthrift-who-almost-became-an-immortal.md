@@ -232,3 +232,21 @@ For most of us, it would be exactly the one Du Zichun used.
 ---
 
 *If this piece moved you, the archive is [here](https://cathaytales.com/). Cathay Tales is a one-person editorial project translating short fiction from late imperial China — fox spirits, forensic case files, Tang alchemy, and gothic horror from a Qing libertine, all public domain, all annotated so a reader who has never opened a Chinese book can still feel the story land. If you would like to see the project keep going, the ["buy me a tea" link is at the foot of the page](https://cathaytales.com/support). The tea helps. The reading helps more.*
+
+## Translator's Note
+
+This tale from the Tang dynasty *chuanqi* tradition has always struck me for its wit and philosophical depth. Tang dynasty prose has a cinematic economy that modern short fiction still envies — every clause carries weight.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Country Where Even the Tavern Boys Spoke Classical Chinese: A Qing Dynasty Satire](/posts/the-country-where-the-tavern-boys-spoke-classical-chinese) — a Taoist miracle that is also a riddle
+- [The Disciple Who Wanted to Walk Through Walls: A Qing Dynasty Tale of Daoist Magic](/posts/the-disciple-who-wanted-to-walk-through-walls) — where the Taoist sage is less wizard than mirror
+- [The Country Where Men Bound Their Feet: A Qing Dynasty Satire](/posts/the-country-where-men-bound-their-feet) — a tale of supernatural wit that exposes a very human failing
+- [The Killer Who Walked Into His Own Execution: A Tang Dynasty Tale of Honor and Murder](/posts/the-killer-who-walked-into-his-own-execution) — a karmic puzzle where the answer is quieter than you'd expect
+- [The Drowned Monk Whose Fists Were Empty: A 13th-Century Chinese Forensic Test](/posts/the-drowned-monk-whose-fists-were-empty) — where the debt is paid not in revenge but in mercy

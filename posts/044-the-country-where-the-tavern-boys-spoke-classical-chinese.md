@@ -462,3 +462,20 @@ One last note. The new old gentleman who walks in at the end of the chapter, in 
 **Connection to the larger journey.** Shushi Country is the fifth in the long sequence of imaginary kingdoms in *Flowers in the Mirror* whose meaning Cathay Tales has been retelling, and the chapter sets up the meeting with the genuinely accomplished hermit-scholar Yin Yuan in Chapter 24. The complete *Cathay Tales* sequence so far: [the Country Where Politeness Killed Business](../posts/the-country-where-politeness-kills) (Tale 10, **Country of the Gentlemen / 君子国**); [the Country Where Everyone Wore a Mask Over the Back of Their Head](../posts/the-country-of-two-faces) (Tale 19, **Country of Two Faces / 两面国**); [the Country Where Men Bound Their Feet](../posts/the-country-where-men-bound-their-feet) (Tale 27, **Country of Women / 女儿国**); [the Country Where Two Schoolgirls Made the Old Scholar Sweat](../posts/the-country-where-girls-quoted-the-classics) (Tale 36, **Country of Black Teeth / 黑齿国**); and this chapter, Tale 44, **Country of the Refined Scholars / 淑士国**.
 
 </details>
+
+## Translator's Note
+
+This tale from Li Ruzhen's *Flowers in the Mirror* has always struck me for its wit and philosophical depth. Li Ruzhen builds each impossible country as a mirror for Qing China's own vanity, and the reflection still holds.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Young Monk Who Could Not Forget the Tiger: A Qing Dynasty Ghost Story](/posts/the-young-monk-who-could-not-forget-the-tiger) — a Taoist miracle that is also a riddle
+- [The Country Where Men Bound Their Feet: A Qing Dynasty Satire](/posts/the-country-where-men-bound-their-feet) — where the Taoist sage is less wizard than mirror
+- [The Pillow That Dreamed a Lifetime in a Bowl of Millet: A Tang Dynasty Tale of Borrowed Glory](/posts/the-pillow-that-dreamed-a-lifetime) — a tale of supernatural wit that exposes a very human failing
+- [The Ghost Who Kept Her Lover Alive on Purpose: A Qing Dynasty Ghost Story](/posts/the-ghost-who-kept-her-lover-alive) — a love story in which the grave is a threshold, not a wall

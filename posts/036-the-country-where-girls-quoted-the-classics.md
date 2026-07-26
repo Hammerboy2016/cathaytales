@@ -221,3 +221,20 @@ Lin Zhiyang catches the tone in his voice and does not press. The next chapter, 
 **Connection to the larger journey.** Black Teeth Country is the third in the long sequence of imaginary kingdoms in *Flowers in the Mirror* whose meaning Cathay Tales has been retelling. See also: [the Country Where Politeness Killed Business](../posts/the-country-where-politeness-kills) (Tale 010, the **Country of the Refined Scholars**, where merchants beg to be given less money), [the Country Where Everyone Wore a Mask Over the Back of Their Head](../posts/the-country-of-two-faces) (Tale 019, the **Country of Two Faces**, where the second face is the one waiting for everyone in plain clothes), and [the Country Where Men Bound Their Feet](../posts/the-country-where-men-bound-their-feet) (Tale 027, the **Country of Women**, where Lin Zhiyang himself is the one with the bandaged feet).
 
 </details>
+
+## Translator's Note
+
+This tale from Li Ruzhen's *Flowers in the Mirror* has always struck me for its wit and philosophical depth. Li Ruzhen builds each impossible country as a mirror for Qing China's own vanity, and the reflection still holds.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Disciple Who Wanted to Walk Through Walls: A Qing Dynasty Tale of Daoist Magic](/posts/the-disciple-who-wanted-to-walk-through-walls) — a Taoist miracle that is also a riddle
+- [The Country with No Bowels: A Qing Dynasty Satire on Misers](/posts/the-country-with-no-bowels) — where the Taoist sage is less wizard than mirror
+- [The Pillow That Dreamed a Lifetime in a Bowl of Millet: A Tang Dynasty Tale of Borrowed Glory](/posts/the-pillow-that-dreamed-a-lifetime) — a tale of supernatural wit that exposes a very human failing
+- [The Night the Foxes Tried to Saw Down a Tree: A Qing Dynasty Ghost Story](/posts/the-night-the-foxes-tried-to-saw-down-a-tree) — a fox tale that resists the easy moral

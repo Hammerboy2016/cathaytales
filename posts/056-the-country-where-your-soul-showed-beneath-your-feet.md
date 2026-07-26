@@ -243,3 +243,20 @@ The beggar with the rainbow cloud is not in the story by accident.
 **Connection to other Cathay Tales.** This is the **seventh** *Flowers in the Mirror* tale on *Cathay Tales*. The earlier six — [the Country Where Politeness Killed Business](../posts/the-country-where-politeness-kills) (君子国, Tale 010), [the Country of Two Faces](../posts/the-country-of-two-faces) (两面国, Tale 019), [the Country Where Men Bound Their Feet](../posts/the-country-where-men-bound-their-feet) (女儿国, Tale 027), [the Country Where Two Schoolgirls Made the Old Scholar Sweat](../posts/the-country-where-girls-quoted-the-classics) (黑齿国, Tale 036), [the Country Where Even the Tavern Boys Spoke Classical Chinese](../posts/the-country-where-the-tavern-boys-spoke-classical-chinese) (淑士国, Tale 044), and [the Country with No Bowels](../posts/the-country-with-no-bowels) (无肠国, Tale 053) — together cover the most-quoted episodes of the novel's first half. Dàrén Guó shares Chapter 14 with Wúcháng Guó: the two stops happen on the same long afternoon of the same voyage, separated by one short crossing and one passing reference to the cloud-less, ear-dropping intermediate countries that we have not given their own posts. The full list of imaginary countries in *Flowers in the Mirror* runs to more than thirty, and additional ones will appear in the coming weeks.
 
 </details>
+
+## Translator's Note
+
+This tale from Li Ruzhen's *Flowers in the Mirror* has always struck me for its wit and philosophical depth. Li Ruzhen builds each impossible country as a mirror for Qing China's own vanity, and the reflection still holds.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Country Where the Teacher Read Every Character Wrong: A Qing Dynasty Satire on Fake Scholars](/posts/the-country-where-the-teacher-read-every-character-wrong) — a Taoist miracle that is also a riddle
+- [The Country Where Politeness Killed Business: A Qing Dynasty Satire](/posts/the-country-where-politeness-kills) — where the Taoist sage is less wizard than mirror
+- [The Old Gardener and the Flower Spirits: A Northern Song Tale of Cosmic Justice](/posts/the-old-gardener-and-the-flower-spirits) — a tale of supernatural wit that exposes a very human failing
+- [The Sheep-Trader Who Slept Above a Green-Haired Corpse: A Qing Ghost Story of a Sealed Temple, an Iron-Clawed Thing, and the Magistrate Who Opened the Coffin](/posts/the-sheep-trader-who-slept-above-a-green-haired-corpse) — proof that the scariest ghosts are the ones who sit down and stay

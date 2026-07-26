@@ -191,3 +191,20 @@ The expression *liǎngmiàn pài* (literally "the two-faced faction") entered mo
 The **hàorán jīn** (浩然巾) was a real article of Ming and early Qing scholarly headwear — a long, flowing cloth cap with a drape extending down the back of the neck, named after the Tang poet Meng Haoran (孟浩然) who was traditionally depicted wearing one. Li Ruzhen's choice of this specific garment, rather than some invented fantasy headdress, is part of the satire's bite: the very garment associated with scholarly cultivation is what the two-faced citizens use to conceal their actual nature.
 
 </details>
+
+## Translator's Note
+
+This tale from Li Ruzhen's *Flowers in the Mirror* has always struck me for its wit and philosophical depth. Li Ruzhen builds each impossible country as a mirror for Qing China's own vanity, and the reflection still holds.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Country Where Politeness Killed Business: A Qing Dynasty Satire](/posts/the-country-where-politeness-kills) — a Taoist miracle that is also a riddle
+- [The Country Where the Teacher Read Every Character Wrong: A Qing Dynasty Satire on Fake Scholars](/posts/the-country-where-the-teacher-read-every-character-wrong) — where the Taoist sage is less wizard than mirror
+- [The Curly-Bearded Stranger: A Tang Dynasty Folktale of Three Heroes](/posts/the-curly-bearded-stranger) — a tale of supernatural wit that exposes a very human failing
+- [The Old Man Who Slept in His Own Coffin: A Qing Dynasty Ghost Story](/posts/the-old-man-who-slept-in-his-own-coffin) — proof that the scariest ghosts are the ones who sit down and stay

@@ -130,3 +130,21 @@ This was, for Yuan Mei, the heart of the matter. The orthodox Qing tradition of 
 A locked east wing in a Hangzhou family compound, with a story attached to it about something dead under the floor, is the kind of detail that local oral tradition often preserves long after the family in question has dispersed. The house Yuan Mei is describing in this story may have actually existed in eighteenth-century Hangzhou; the name Min Maojia is recorded in some Qing prefecture-level records as a real local figure of the period. Yuan Mei often anchored the most fantastical of his anecdotes to real names and verifiable places — partly as a literary technique, partly because most of his stories really did come from people he knew, and partly because the line between *what happened* and *what people said happened* in a city like Hangzhou was, by his own cheerful admission, never very firm.
 
 </details>
+
+## Translator's Note
+
+This tale from Yuan Mei's *What the Master Would Not Discuss* has always struck me for its domestic intimacy and structural unease. Yuan Mei writes the grotesque not as horror, but as dark comedy — the laugh catches in your throat.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Scholar Who Wiped a Ghost's Mouth with Toilet Paper: A Qing Dynasty Ghost Story](/posts/the-man-who-welcomed-a-ghost) — a ghost story that refuses the happy ending
+- [The Girl Who Volunteered to Feed the Mountain Serpent: A Jin Dynasty Ghost Story](/posts/the-girl-who-volunteered-to-feed-the-mountain-serpent) — where the haunting is less about the ghost and more about the witness
+- [The Beauty Wearing a Painted Skin: A Qing Dynasty Ghost Story](/posts/the-painted-skin) — a tale of supernatural persistence that feels strangely domestic
+- [The Magistrate Who Climbed Down a Well into Hell: A Qing Dynasty Ghost Story](/posts/the-magistrate-who-climbed-down-into-hell) — the afterlife as mirror of the magistrate's courtroom
+- [The Tavern Daughter Who Came Back from Her Grave: A Northern Song Ghost Love Story](/posts/the-tavern-daughter-who-came-back-from-her-grave) — proof that in these texts, grief is just love with nowhere to go

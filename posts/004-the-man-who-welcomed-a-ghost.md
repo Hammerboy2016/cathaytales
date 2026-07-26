@@ -104,3 +104,21 @@ This tale comes from the sixth and final section of *Luanyang Xiaoxia Lu* (滦�
 Chinese ghost folklore is full of spectral etiquette — ghosts who appear because they were wronged, because they seek vengeance, because they are bound by unfinished business. But the ghost in this story has no obvious grievance. It just shows up twice — once at night, once at the latrine — and grins. Xu's response treats it as exactly what it is: an uninvited guest with poor timing. The humor depends on treating the supernatural as a *social breach*, not a metaphysical threat. That reframing — from horror to rudeness — is what disarms it.
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its domestic intimacy and structural unease. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery](/posts/the-ghost-who-forgot-to-vanish) — a ghost story that refuses the happy ending
+- [The Teacher Whose Entire Wedding Party Was Dead: A Southern Song Ghost Story](/posts/the-teacher-whose-entire-wedding-party-was-dead) — where the haunting is less about the ghost and more about the witness
+- [The Young Man Who Sold a Ghost at the Market: A Six Dynasties Ghost Story](/posts/the-young-man-who-sold-a-ghost) — a tale of supernatural persistence that feels strangely domestic
+- [The Ghost Who Resigned Twice: A Ming Dynasty Ghost Story](/posts/the-ghost-who-resigned-twice) — the afterlife as mirror of the magistrate's courtroom
+- [The Silence That Was Worth Three Fortunes: A Tang Dynasty Tale of an Immortal's Test](/posts/the-silence-that-was-worth-three-fortunes) — where the real magic is seeing clearly

@@ -118,3 +118,21 @@ Yuan Mei's main supernatural collection is *Zibuyu* (子不语 — "What the Mas
 This particular tale has a remarkable cross-cultural twin. The Italian writer **Giovanni Boccaccio** (1313–1375), in his *Decameron* (Day Four, introduction), tells the story of *Filippo Balducci and the goslings*: a man who raises his son in total isolation from women, brings the boy down to Florence at eighteen, and tries to pass off a group of young women as "geese." The boy promptly asks his father to bring one of the geese home. The plot is so close to Yuan Mei's that the modern essayist **Wang Zengqi** (汪曾祺) speculated the story must have traveled from Italy to Qing dynasty China through some now-lost route — perhaps Jesuit missionaries, perhaps Silk Road merchants. The actual chain of transmission has never been proven. But the parallel is too exact to be coincidence, and the parallel itself is, perhaps, the more revealing observation: across four hundred years and ten thousand kilometers, the joke worked the same way, because the joke is on the same kind of attempt.
 
 </details>
+
+## Translator's Note
+
+This tale from Yuan Mei's *What the Master Would Not Discuss* has always struck me for its wit and philosophical depth. Yuan Mei writes the grotesque not as horror, but as dark comedy — the laugh catches in your throat.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Country Where Two Schoolgirls Made the Old Scholar Sweat: A Qing Dynasty Satire](/posts/the-country-where-girls-quoted-the-classics) — a Taoist miracle that is also a riddle
+- [The Country Where Everyone Wore a Mask Over the Back of Their Head: A Qing Dynasty Satire](/posts/the-country-of-two-faces) — where the Taoist sage is less wizard than mirror
+- [The Curly-Bearded Stranger: A Tang Dynasty Folktale of Three Heroes](/posts/the-curly-bearded-stranger) — a tale of supernatural wit that exposes a very human failing
+- [The Magistrate Who Climbed Down a Well into Hell: A Qing Dynasty Ghost Story](/posts/the-magistrate-who-climbed-down-into-hell) — the afterlife as mirror of the magistrate's courtroom
+- [The Friend Who Forgot How to Leave: A Qing Dynasty Ghost Story](/posts/the-friend-who-forgot-how-to-leave) — an encounter that blurs the line between haunting and hospitality

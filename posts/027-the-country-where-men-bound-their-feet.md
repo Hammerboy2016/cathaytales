@@ -262,3 +262,20 @@ Modern Chinese feminist criticism (including Wang Lihua, Yang Nianqun, Liu Renfu
 - The most accessible English translation remains **Lin Tai-yi**, *Flowers in the Mirror* (Berkeley: University of California Press, 1965), an abridged translation of the first 50 chapters only. Lin's translation includes the Country of Women sequence in slightly compressed form.
 
 </details>
+
+## Translator's Note
+
+This tale from Li Ruzhen's *Flowers in the Mirror* has always struck me for its wit and philosophical depth. Li Ruzhen builds each impossible country as a mirror for Qing China's own vanity, and the reflection still holds.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Country Where Two Schoolgirls Made the Old Scholar Sweat: A Qing Dynasty Satire](/posts/the-country-where-girls-quoted-the-classics) — a Taoist miracle that is also a riddle
+- [The Pillow That Dreamed a Lifetime in a Bowl of Millet: A Tang Dynasty Tale of Borrowed Glory](/posts/the-pillow-that-dreamed-a-lifetime) — where the Taoist sage is less wizard than mirror
+- [The Spendthrift Who Almost Became an Immortal: A Tang Dynasty Story of Du Zichun, the Alchemist Who Waited Three Hundred Years, and the One Thing He Could Not Give Up](/posts/the-spendthrift-who-almost-became-an-immortal) — a tale of supernatural wit that exposes a very human failing
+- [The Magistrate Who Climbed Down a Well into Hell: A Qing Dynasty Ghost Story](/posts/the-magistrate-who-climbed-down-into-hell) — the afterlife as mirror of the magistrate's courtroom

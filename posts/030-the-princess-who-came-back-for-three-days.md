@@ -226,3 +226,21 @@ This is, in a strange way, the same narrative engine as a modern detective story
 In Wu, in this story, they cannot.
 
 </details>
+
+## Translator's Note
+
+This tale from Gan Bao's *In Search of the Supernatural* has always struck me for its tenderness and refusal to sentimentalize. The living-married-to-the-dead motif haunts me — the question of consent across the grave, asked without judgment.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Fisherman Who Drank with a Drowning Ghost: A Qing Dynasty Ghost Story](/posts/the-fisherman-who-drank-with-a-ghost) — another tale of love across boundaries
+- [The Husband Who Broke a Three-Year Promise: A Han Dynasty Ghost Story](/posts/the-husband-who-broke-the-three-year-promise) — a romance that treats death as a minor inconvenience
+- [The Lover Who Came Back for One Night: A Tang Dynasty Ghost Story](/posts/the-lover-who-came-back-for-one-night) — where devotion outlasts the body that held it
+- [The Son Who Cut Off His Own Head for Revenge: A Six Dynasties Ghost Story](/posts/the-son-who-cut-off-his-own-head-for-revenge) — a karmic puzzle where the answer is quieter than you'd expect
+- [The Jade Guanyin Who Chose to Die: A Southern Song Ghost Story](/posts/the-jade-guanyin-who-chose-to-die) — an encounter that blurs the line between haunting and hospitality

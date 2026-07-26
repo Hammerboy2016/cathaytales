@@ -156,3 +156,20 @@ The dead woman in Xu Guanglin's inner chamber was twenty-two years old, had been
 [^ye-family]: The names of the Xu and Ye households, the specific street, and the twelve *mu* of tea-terrace are reconstructed from a summary in the Ming-era Chuzhou local gazetteer and from a note in the supplement to the *Ming Gong Shu Pan Qing Ming Ji*.
 
 [^chens-notes]: Chen Shu's inquest notes are cited in the Chuzhou gazetteer as *Chen tíxíng zhī xíng zhuàng* (陳提刑之行狀), "the itinerant record of Inquest Commissioner Chen." The full memorial is not extant; the surviving fragments come to about eight hundred characters and are the basis of the reconstruction above.
+
+## Translator's Note
+
+This tale from Song Ci's *Collected Cases of Injustice Rectified* has always struck me for its moral clarity and narrative restraint. Song Ci's forensic instinct — evidence before verdict — feels startlingly modern, seven centuries before CSI.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Son Who Cut Off His Own Head for Revenge: A Six Dynasties Ghost Story](/posts/the-son-who-cut-off-his-own-head-for-revenge) — a story of karmic debt that refuses simple justice
+- [The Prince Who Tested His Father's Bones with a Drop of His Own Blood: A Forensic Test from 6th-Century China](/posts/the-prince-who-tested-his-fathers-bones) — a tale where retribution arrives from an unexpected quarter
+- [The Hanged Man Whose Rope Mark Went the Wrong Way: A 13th-Century Chinese Forensic Test](/posts/the-hanged-man-whose-rope-mark-went-the-wrong-way) — proof that karma in these texts is never mechanical
+- [The Boy Who Followed His Soul: A Qing Dynasty Story of Sun Zichu and A Bao](/posts/the-boy-who-followed-his-soul) — a love story in which the grave is a threshold, not a wall

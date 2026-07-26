@@ -209,3 +209,21 @@ The last thing I want to flag is what Shen Yazhi *doesn't* tell us. The wife has
 **About** Feng Yan **in later Chinese literature.** The Feng Yan story became one of the most retold tales of the late Tang and early Song. It survives in the *Wenyuan yinghua* (文苑英华) anthology compiled in 982, in the *Taiping guangji* (太平广记) of 978, and in numerous Song *biji* collections. It was dramatized in Ming opera under the title *Feng Yan zhuan zaju* (冯燕传杂剧) and was a touchstone for Ming-Qing discussions of *yì*. The closing four-character formula *cuò qiáng wǔ, qí yì fēi* — "broke the strong-armed, evened the wrongs" — entered later literary Chinese as a standard description of *xiá* virtue.
 
 </details>
+
+## Translator's Note
+
+This tale from the Tang dynasty *chuanqi* tradition has always struck me for its moral clarity and narrative restraint. Tang dynasty prose has a cinematic economy that modern short fiction still envies — every clause carries weight.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [A Pig That Hated Only One Man: A Qing Dynasty Ghost Story](/posts/the-pig-and-the-old-man) — a story of karmic debt that refuses simple justice
+- [The Silver Needle That Turned Black: A 13th-Century Chinese Poison Test](/posts/the-silver-needle-that-turned-black) — a tale where retribution arrives from an unexpected quarter
+- [The Fifteen Strings of Cash: A Joke That Killed Four People](/posts/the-fifteen-strings-of-cash) — proof that karma in these texts is never mechanical
+- [The Soul That Walked Out the Door: A Tang Dynasty Ghost Story](/posts/the-soul-that-walked-out-the-door) — a love story in which the grave is a threshold, not a wall
+- [The Beauty Wearing a Painted Skin: A Qing Dynasty Ghost Story](/posts/the-painted-skin) — an encounter that blurs the line between haunting and hospitality

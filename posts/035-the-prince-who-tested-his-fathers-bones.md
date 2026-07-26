@@ -175,3 +175,20 @@ I think we are still working on the answer.
 **Connection to the 13th-century forensic project.** Song Ci's choice of the Xiao Zong case as his illustration was probably not just expository convenience. The *Xi Yuan Ji Lu* repeatedly emphasizes that forensic technique exists to *cleanse wrongful conviction* — the title literally means "the washing away of wrongs." By citing a case in which the test produced the wrong moral outcome (a verified kinship that led to a regicide-by-defection, a murdered child), Song Ci may have been signaling something quieter to his readers: that the magistrate's tools, however authoritative, cannot tell you what to do with the truth they uncover.
 
 </details>
+
+## Translator's Note
+
+This tale from Song Ci's *Collected Cases of Injustice Rectified* has always struck me for its moral clarity and narrative restraint. Song Ci's forensic instinct — evidence before verdict — feels startlingly modern, seven centuries before CSI.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Mother Whose Body Had Never Given Birth: A 13th-Century Chinese Postpartum Forensic Test](/posts/the-mother-whose-body-had-never-given-birth) — a story of karmic debt that refuses simple justice
+- [The Red Umbrella That Made Old Bones Speak: A 13th-Century Forensic Technique](/posts/the-red-umbrella-that-made-old-bones-speak) — a tale where retribution arrives from an unexpected quarter
+- [The Flies That Pointed to the Killer: A 13th-Century Chinese Forensic Case](/posts/the-flies-that-pointed-to-the-killer) — proof that karma in these texts is never mechanical
+- [The Pillow That Dreamed a Lifetime in a Bowl of Millet: A Tang Dynasty Tale of Borrowed Glory](/posts/the-pillow-that-dreamed-a-lifetime) — proof that Taoist fiction is philosophy wearing a trickster's mask

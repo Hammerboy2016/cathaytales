@@ -145,3 +145,21 @@ The scholar's final state — *though he met beautiful women afterwards, he neve
 That, in *Yuewei*'s house style, is the whole reflection.
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its tenderness and refusal to sentimentalize. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Courtesan Who Drowned a Fortune to Punish a Coward: A Ming Dynasty Tragedy](/posts/the-courtesan-who-threw-treasures-into-the-river) — another tale of love across boundaries
+- [The Fisherman Who Drank with a Drowning Ghost: A Qing Dynasty Ghost Story](/posts/the-fisherman-who-drank-with-a-ghost) — a romance that treats death as a minor inconvenience
+- [The Boy Who Followed His Soul: A Qing Dynasty Story of Sun Zichu and A Bao](/posts/the-boy-who-followed-his-soul) — where devotion outlasts the body that held it
+- [The Ghost Who Forgot to Vanish: A Qing Dynasty Murder Mystery](/posts/the-ghost-who-forgot-to-vanish) — proof that the scariest ghosts are the ones who sit down and stay
+- [The Three Tricks Every Ghost Has: A Qing Dynasty Ghost Story](/posts/the-three-tricks-every-ghost-has) — an encounter that blurs the line between haunting and hospitality

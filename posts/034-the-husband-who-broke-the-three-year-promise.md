@@ -158,3 +158,21 @@ What makes the Chinese version distinctive is that the wife is not divine, not a
 **Why the husband's failure is structural, not moral.** Later Chinese commentators sometimes read the story as a parable about scholarly impatience or marital trust. The text itself does not moralize. The wife's last line — *why could you not endure one more year* — is a pure statement of timing, not of character. The story belongs to a strain of *Soushen Ji* tales in which the supernatural operates by clock and calendar: there is a process, the process has a duration, the duration is non-negotiable, and the human in the story fails not because he is bad but because he is *human*. Patience, in this literature, is the rarest virtue, and the one most often missing.
 
 </details>
+
+## Translator's Note
+
+This tale from Gan Bao's *In Search of the Supernatural* has always struck me for its tenderness and refusal to sentimentalize. The living-married-to-the-dead motif haunts me — the question of consent across the grave, asked without judgment.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Couple Who Became Mandarin Ducks: A Warring States Love Tragedy](/posts/the-couple-who-became-mandarin-ducks) — another tale of love across boundaries
+- [The Tavern Daughter Who Came Back from Her Grave: A Northern Song Ghost Love Story](/posts/the-tavern-daughter-who-came-back-from-her-grave) — a romance that treats death as a minor inconvenience
+- [The Courtesan Who Drowned a Fortune to Punish a Coward: A Ming Dynasty Tragedy](/posts/the-courtesan-who-threw-treasures-into-the-river) — where devotion outlasts the body that held it
+- [The Son Who Cut Off His Own Head for Revenge: A Six Dynasties Ghost Story](/posts/the-son-who-cut-off-his-own-head-for-revenge) — a karmic puzzle where the answer is quieter than you'd expect
+- [The Country Where Even the Tavern Boys Spoke Classical Chinese: A Qing Dynasty Satire](/posts/the-country-where-the-tavern-boys-spoke-classical-chinese) — where the real magic is seeing clearly

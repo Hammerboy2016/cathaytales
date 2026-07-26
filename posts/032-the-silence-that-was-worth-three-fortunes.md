@@ -337,3 +337,21 @@ I don't think it was. I think the cry over the baby is the only line in the whol
 **Afterlife in modern literature.** The Japanese writer Akutagawa Ryūnosuke (芥川龍之介) rewrote the story in 1920 as *Toshishun* (杜子春), giving it a distinctly humanist ending: in Akutagawa's version Du Zichun cries out not for his child but for his beaten mother, and the priest forgives him on the grounds that any seeker who could have stayed silent through *that* would have been a monster. The change is small and the moral is opposite: Akutagawa's priest treats the failure of silence as the proof of humanity. Read alongside the Tang original it is a useful mirror — a thousand years and a sea apart, the same test produces opposite conclusions about what a good man should do.
 
 </details>
+
+## Translator's Note
+
+This tale from the Tang dynasty *chuanqi* tradition has always struck me for its wit and philosophical depth. Tang dynasty prose has a cinematic economy that modern short fiction still envies — every clause carries weight.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Fox Who Passed the Civil Service Exam: A Qing Dynasty Ghost Story](/posts/the-fox-scholar-who-passed-the-immortal-exam) — a Taoist miracle that is also a riddle
+- [The Country Where Even the Tavern Boys Spoke Classical Chinese: A Qing Dynasty Satire](/posts/the-country-where-the-tavern-boys-spoke-classical-chinese) — where the Taoist sage is less wizard than mirror
+- [The Disciple Who Wanted to Walk Through Walls: A Qing Dynasty Tale of Daoist Magic](/posts/the-disciple-who-wanted-to-walk-through-walls) — a tale of supernatural wit that exposes a very human failing
+- [The Lover Who Came Back for One Night: A Tang Dynasty Ghost Story](/posts/the-lover-who-came-back-for-one-night) — a love story in which the grave is a threshold, not a wall
+- [The Drowned Monk Whose Fists Were Empty: A 13th-Century Chinese Forensic Test](/posts/the-drowned-monk-whose-fists-were-empty) — where the debt is paid not in revenge but in mercy

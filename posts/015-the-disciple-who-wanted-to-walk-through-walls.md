@@ -171,3 +171,21 @@ It is, in the end, a very kind story. The priest is not cruel. The wall is not v
 **The Rainbow Skirt Dance (霓裳羽衣舞).** Said to have been brought down from the moon by Tang Emperor Xuanzong in a dream and choreographed by the famous concubine Yang Guifei. The dance was lost after the An Lushan rebellion of the 8th century. By Pu Songling's day it was already a thousand-year-old absence — the most famous lost piece of music in Chinese history. Having Cháng'é dance it at a small Daoist party on Mount Lao is the kind of throwaway audacity that makes *Liaozhai* what it is.
 
 </details>
+
+## Translator's Note
+
+This tale from Pu Songling's *Strange Tales from a Chinese Studio* has always struck me for its wit and philosophical depth. Pu Songling gives his foxes and ghosts more humanity than the humans in his stories, and the irony is never lost on him.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Fox Who Passed the Civil Service Exam: A Qing Dynasty Ghost Story](/posts/the-fox-scholar-who-passed-the-immortal-exam) — a Taoist miracle that is also a riddle
+- [The Curly-Bearded Stranger: A Tang Dynasty Folktale of Three Heroes](/posts/the-curly-bearded-stranger) — where the Taoist sage is less wizard than mirror
+- [The Country Where the Teacher Read Every Character Wrong: A Qing Dynasty Satire on Fake Scholars](/posts/the-country-where-the-teacher-read-every-character-wrong) — a tale of supernatural wit that exposes a very human failing
+- [The Scholar Whose Love Brought a Flower Back From the Dead: A Qing Dynasty Story of Xiangyu and Jiangxue](/posts/the-scholar-whose-love-brought-a-flower-back-from-the-dead) — a love story in which the grave is a threshold, not a wall
+- [The Red Umbrella That Made Old Bones Speak: A 13th-Century Forensic Technique](/posts/the-red-umbrella-that-made-old-bones-speak) — where the debt is paid not in revenge but in mercy

@@ -166,3 +166,21 @@ The premise that a fox spirit would respect a *real* filial daughter-in-law was 
 This is one of the very early stories in *Luanyang Xiaoxia Lu I*, the opening volume of the entire *Yuewei Caotang Biji*. Ji Yun chose it as one of the first anecdotes the reader would encounter. That placement matters. Read in order, the volume opens with the famous *Pig and the Old Man* tale (about karmic debt), then moves to this one (about official hypocrisy), then to the *Old Pedant Met His Dead Friend* tale (about scholars whose books are smoke). All three are quietly making the same argument: the official world is not the moral world. The fox knows it. So does the dead friend. So, almost certainly, did Ji Yun.
 
 </details>
+
+## Translator's Note
+
+This tale from Ji Yun's *Notes from the Thatched Study* has always struck me for its domestic intimacy and structural unease. Ji Yun's restraint — he shows the crime and lets karma speak — is its own kind of fury, quieter than any scream.
+
+— *Wang Cai*
+
+
+
+## Related Tales
+
+If you enjoyed this story, you might also like:
+
+- [The Friend Who Forgot How to Leave: A Qing Dynasty Ghost Story](/posts/the-friend-who-forgot-how-to-leave) — a ghost story that refuses the happy ending
+- [The Night the Dead Sat Up Crying: A Qing Dynasty Ghost Story](/posts/the-night-the-dead-sat-up-crying) — where the haunting is less about the ghost and more about the witness
+- [The Skull That Blew Cold Air Through the Mat: A Qing Dynasty Ghost Story](/posts/the-skull-that-blew-cold-air-through-the-mat) — a tale of supernatural persistence that feels strangely domestic
+- [The Night the Foxes Tried to Saw Down a Tree: A Qing Dynasty Ghost Story](/posts/the-night-the-foxes-tried-to-saw-down-a-tree) — a fox tale that resists the easy moral
+- [The Scholar Whose Ghost Kept Asking the Ancients One Question: A Qing Dynasty Ghost Story](/posts/the-scholar-whose-ghost-asked-the-ancients-one-question) — where the debt is paid not in revenge but in mercy
