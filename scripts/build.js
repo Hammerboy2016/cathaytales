@@ -348,7 +348,15 @@ function applyTemplate(template, vars) {
 function buildPost(filePath, template, allPosts) {
   resetFootnotes();
   const raw = fs.readFileSync(filePath, 'utf8');
-  const { data: meta, content } = matter(raw);
+  // Defensive: catch malformed frontmatter (e.g. [scheduled:HH:MM] malformed as markdown link)
+  // so one bad post doesn't take down the whole build — the root cause of 3 cron merge failures in Jul/Aug 2026.
+  let meta, content;
+  try {
+    ({ data: meta, content } = matter(raw));
+  } catch (err) {
+    console.error(`  ✗ SKIP ${path.basename(filePath)}: frontmatter parse error — ${err.message.split('\n')[0]}`);
+    return null;
+  }
 
   // Render body
   const bodyHtml = marked.parse(content);
@@ -875,9 +883,17 @@ function main() {
 
   const postFiles = fs.readdirSync(POSTS_DIR).filter(f => f.endsWith('.md'));
   // Pass 1: build to collect metadata (no Related Tales yet)
-  const posts = postFiles.map(f => buildPost(path.join(POSTS_DIR, f), postTemplate));
+  const posts = postFiles
+    .map(f => buildPost(path.join(POSTS_DIR, f), postTemplate))
+    .filter(Boolean);
   // Pass 2: rebuild posts with Related Tales injected (overwrites Pass 1 output)
-  postFiles.forEach(f => buildPost(path.join(POSTS_DIR, f), postTemplate, posts));
+  postFiles.forEach(f => {
+    try {
+      buildPost(path.join(POSTS_DIR, f), postTemplate, posts);
+    } catch (err) {
+      console.error(`  ✗ SKIP pass2 ${f}: ${err.message.split('\n')[0]}`);
+    }
+  });
 
   // Essays (long-form editorial)
   const essays = fs.existsSync(ESSAYS_DIR)
