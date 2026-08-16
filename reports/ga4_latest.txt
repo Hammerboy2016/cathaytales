@@ -1,35 +1,28 @@
 # GA4 Daily Report (auto-generated)
-# Generated: 2026-08-10 06:56:46 CST
-# Workflow run: 31340652461
+# Generated: 2026-08-17 06:43:32 CST
+# Workflow run: 31977109902
 # Source: .github/workflows/ga4-daily.yml
 # ---
 ============================================================
   Cathay Tales GA4 数据简报
   Property ID: 540045995
-  日期范围: 2026-07-11 ~ 2026-08-09
+  日期范围: 2026-07-18 ~ 2026-08-16
 ============================================================
 
-📊 概览 (2026-07-11 ~ 2026-08-09)
+📊 概览 (2026-07-18 ~ 2026-08-16)
 ------------------------------------------------------------
-  活跃用户 (Active Users)     : 95
+  活跃用户 (Active Users)     : 101
   新用户 (New Users)          : 102
-  会话数 (Sessions)           : 108
-  页面浏览 (Page Views)       : 130
-  每会话 PV (Pages/Session)   : 1.20
-  人均参与时长                 : 37.0 秒 (0.6 分)
-  参与率 (Engagement Rate)    : 25.0%
-  跳出率 (Bounce Rate)        : 75.0%
+  会话数 (Sessions)           : 113
+  页面浏览 (Page Views)       : 127
+  每会话 PV (Pages/Session)   : 1.12
+  人均参与时长                 : 33.6 秒 (0.6 分)
+  参与率 (Engagement Rate)    : 17.7%
+  跳出率 (Bounce Rate)        : 82.3%
 
-📈 每日趋势 (2026-07-11 ~ 2026-08-09)
+📈 每日趋势 (2026-07-18 ~ 2026-08-16)
 ------------------------------------------------------------
   日期                 活跃      新用户       会话       PV
-  2026-07-11          2        2        2        2
-  2026-07-12          2        2        5        6
-  2026-07-13          2        2        2        2
-  2026-07-14          1        1        1        1
-  2026-07-15          2        2        2        2
-  2026-07-16          7        9        7        9
-  2026-07-17          8       13        8       13
   2026-07-18          2        2        2        2
   2026-07-19          3        3        5        4
   2026-07-20          2        2        2        2
@@ -48,218 +41,225 @@
   2026-08-06          8        6        8        7
   2026-08-07          1        1        1        1
   2026-08-08          2        2        2        2
-  2026-08-09          3        3        4        3
+  2026-08-09          5        5        7        5
+  2026-08-10          1        1        1        1
+  2026-08-11          1        1        2        2
+  2026-08-12          1        1        1        1
+  2026-08-13          3        3        3        3
+  2026-08-14          5        5        5        5
+  2026-08-15         12       13       12       13
+  2026-08-16          5        5        5        5
 
-📄 Top 10 页面 (2026-07-11 ~ 2026-08-09)
+📄 Top 10 页面 (2026-07-18 ~ 2026-08-16)
 ------------------------------------------------------------
    1. /
       Cathay Tales — Classical Chinese Tales i
-      PV=49  独立访客=48  人均停留=3s
+      PV=63  独立访客=61  人均停留=3s
    2. /hubs/hauntings
       Chinese Ghost Stories: Hauntings & Encou
-      PV=8  独立访客=5  人均停留=16s
-   3. /posts/the-pillow-that-dreamed-a-lifetime
-      The Pillow That Dreamed a Lifetime in a 
-      PV=8  独立访客=3  人均停留=278s
-   4. /hubs/love-across-death
-      Chinese Ghost-Romance Tales: Love Across
-      PV=6  独立访客=3  人均停留=29s
-   5. /about
-      About · Cathay Tales
-      PV=4  独立访客=3  人均停留=25s
-   6. /hubs/afterlife-and-underworld
+      PV=6  独立访客=4  人均停留=18s
+   3. /posts/the-painted-skin
+      The Beauty Wearing a Painted Skin: A Qin
+      PV=6  独立访客=4  人均停留=3s
+   4. /hubs/afterlife-and-underworld
       Chinese Afterlife & Underworld Tales — C
       PV=4  独立访客=3  人均停留=23s
-   7. /hubs/karma-and-retribution
-      Chinese Tales of Karma & Retribution — C
-      PV=4  独立访客=2  人均停留=0s
-   8. /posts/the-couple-who-became-mandarin-ducks
+   5. /posts/the-couple-who-became-mandarin-ducks
       The Couple Who Became Mandarin Ducks: A 
       PV=4  独立访客=1  人均停留=76s
-   9. /posts/the-painted-skin
-      The Beauty Wearing a Painted Skin: A Qin
-      PV=4  独立访客=3  人均停留=4s
-  10. /posts/the-disciple-who-wanted-to-walk-through-walls
+   6. /hubs/love-across-death
+      Chinese Ghost-Romance Tales: Love Across
+      PV=3  独立访客=1  人均停留=78s
+   7. /posts/the-disciple-who-wanted-to-walk-through-walls
       The Disciple Who Wanted to Walk Through 
       PV=3  独立访客=2  人均停留=2s
+   8. /posts/the-fisherman-who-drank-with-a-ghost
+      The Fisherman Who Drank with a Drowning 
+      PV=3  独立访客=3  人均停留=0s
+   9. /posts/the-philosopher-who-faked-his-death-to-test-his-wife
+      The Philosopher Who Faked His Death to T
+      PV=3  独立访客=3  人均停留=0s
+  10. /posts/the-young-man-who-sold-a-ghost
+      The Young Man Who Sold a Ghost at the Ma
+      PV=3  独立访客=3  人均停留=52s
 
 ⭐ Top 20 页面参与度（按总停留时长排）
 ----------------------------------------------------------------------
   路径                                              PV   UV       人均      跳出率      质量分
   /posts/the-man-who-welcomed-a-ghost              2    1 1609.0s   33.3% 🔥140.8
-  /posts/the-pillow-that-dreamed-a-lifetime        8    3  278.0s   66.7% 🔥 26.5
+  /posts/the-pillow-that-dreamed-a-lifetime        2    1  764.0s    0.0% 🔥 73.7
+  /                                               63   61    2.7s   86.9% 🔻  1.5
+  /posts/the-young-man-who-sold-a-ghost            3    3   52.3s   66.7% ✓   7.7
   /posts/the-drowned-monk-whose-fists-were-emp     2    2   74.0s   50.0% 🔥 11.2
-  /posts/the-young-man-who-sold-a-ghost            1    1  145.0s    0.0% 🔥 22.1
-  /                                               49   48    2.7s   87.5% 🔻  1.5
-  /hubs/love-across-death                          6    3   28.7s   33.3% ✓   9.1
-  /hubs/hauntings                                  8    5   15.6s   33.3% ✓   8.0
+  /hubs/love-across-death                          3    1   78.0s    0.0% 🔥 16.5
   /posts/the-hell-judge-who-came-over-for-drin     1    1   77.0s    0.0% 🔥 16.4
-  /about                                           4    3   25.3s   33.3% ✓   8.8
   /posts/the-couple-who-became-mandarin-ducks      4    1   76.0s    0.0% 🔥 16.3
+  /hubs/hauntings                                  6    4   18.5s   40.0% ✓   7.5
+  /about                                           2    2   37.0s   50.0% ✓   8.1
   /hubs/afterlife-and-underworld                   4    3   23.0s   50.0% ✓   6.9
-  /posts/the-country-of-two-faces                  2    2   23.5s   50.0% ✓   7.0
-  /posts/the-magistrate-who-climbed-down-into-     1    1   41.0s    0.0% 🔥 13.4
   /posts/nie-xiaoqian-the-ghost-bride              1    1   22.0s    0.0% 🔥 11.8
-  /hubs/taoist-marvels                             2    2    9.5s   50.0% ✓   5.8
-  /hubs/fox-spirits                                2    2    8.5s  100.0% 🔻  0.7
-  /essays/                                         2    1   14.0s    0.0% 🔥 11.2
-  /posts/the-painted-skin                          4    3    4.3s   60.0% 🔻  4.4
+  /hubs/karma-and-retribution                      1    1   17.0s    0.0% 🔥 11.4
+  /posts/the-girl-who-volunteered-to-feed-the-     1    1   15.0s    0.0% 🔥 11.2
+  /posts/the-painted-skin                          6    4    3.2s   75.0% 🔻  2.8
   /essays/how-to-read-a-chinese-ghost-story        2    1    9.0s   33.3% ✓   7.4
+  /the-disciple-who-wanted-to-walk-through-wal     1    1    7.0s  100.0% 🔻  0.6
+  /posts/the-young-monk-who-could-not-forget-t     1    1    6.0s  100.0% 🔻  0.5
+  /the-disciple-who-wanted-to-walk-through-wal     1    1    5.0s  100.0% 🔻  0.4
   /posts/the-disciple-who-wanted-to-walk-throu     3    2    2.0s  100.0% 🔻  0.2
 
 🛬 Top 15 着陆页（用户进站第一页 = SEO/外链入口）
 ----------------------------------------------------------------------
   路径                                                会话     用户      参与率       人均
-  /                                                 47     47   10.6%    9.2s
-  /posts/the-pillow-that-dreamed-a-lifetime          6      3   33.3%  278.0s
+  /                                                 60     60   11.7%    7.7s
+  (not set)                                          5      5    0.0%  321.8s
+  /posts/the-painted-skin                            5      3   20.0%    4.3s
   /posts/the-couple-who-became-mandarin-ducks        4      1  100.0%   76.0s
-  (not set)                                          3      3    0.0%  536.3s
-  /hubs/hauntings                                    3      3   33.3%    2.0s
   /posts/the-disciple-who-wanted-to-walk-throu       3      2    0.0%    2.0s
   /posts/the-fisherman-who-drank-with-a-ghost        3      3    0.0%    0.0s
-  /posts/the-painted-skin                            3      2   33.3%    6.5s
   /posts/the-philosopher-who-faked-his-death-t       3      3    0.0%    0.0s
-  /about                                             2      2   50.0%    1.0s
+  /posts/the-young-man-who-sold-a-ghost              3      3   33.3%   50.3s
   /essays/how-to-read-a-chinese-ghost-story          2      1  100.0%   62.0s
   /hubs/afterlife-and-underworld                     2      2   50.0%   18.5s
-  /hubs/fox-spirits                                  2      2    0.0%    8.5s
-  /hubs/karma-and-retribution                        2      2  100.0%    0.0s
-  /hubs/love-across-death                            2      2   50.0%    4.0s
+  /hubs/hauntings                                    2      2    0.0%    1.0s
+  /posts/the-curly-bearded-stranger                  2      2    0.0%    0.0s
+  /posts/the-drowned-monk-whose-fists-were-emp       2      2   50.0%   74.0s
+  /posts/the-soul-that-walked-out-the-door           2      2    0.0%    0.0s
+  /the-disciple-who-wanted-to-walk-through-wal       2      2    0.0%    6.0s
 
-🚀 Top 10 流量来源 (2026-07-11 ~ 2026-08-09)
+🚀 Top 10 流量来源 (2026-07-18 ~ 2026-08-16)
 ------------------------------------------------------------
   来源 / 媒介                                   会话       用户       参与会话
-  (direct) / (none)                         81       79         12
-  google / organic                          21       11         12
-  bing / organic                             3        3          1
+  (direct) / (none)                         86       84          8
+  google / organic                          21       12         10
+  bing / organic                             3        3          0
   duckduckgo / organic                       2        1          1
+  (not set) / (not set)                      1        1          0
   medium.com / referral                      1        1          1
 
 🔗 真渠道细分（剔除 direct/google/(not set)）
 ----------------------------------------------------------------------
   来源                 媒介         落地页                              会话   用户       人均
-  bing               organic    /                                 2    2    0.0s
-  bing               organic    /posts/the-magistrate-who-cli     1    1   41.0s
+  bing               organic    /                                 3    3    0.0s
   duckduckgo         organic    (not set)                         1    1    0.0s
   duckduckgo         organic    /hubs/afterlife-and-underworl     1    1   36.0s
   medium.com         referral   /                                 1    1   19.0s
 
-🔍 来源 × 国家交叉 (Top 20, 2026-07-11 ~ 2026-08-09)
+🔍 来源 × 国家交叉 (Top 20, 2026-07-18 ~ 2026-08-16)
 ----------------------------------------------------------------------
   来源                   国家                       会话     用户     参与       人均时长
-  (direct)             United States            37     37      0      0.5s
-  (direct)             Brazil                    8      8      4      2.0s
-  google               United States             7      6      4    112.5s
-  (direct)             Singapore                 5      5      1      0.0s
+  (direct)             United States            45     45      0      0.9s
+  (direct)             Singapore                 9      9      3      0.0s
+  google               United Kingdom            8      3      4     26.7s
+  google               United States             7      6      3    104.7s
+  (direct)             Brazil                    5      5      0      0.0s
+  (direct)             China                     4      4      1     11.5s
   (direct)             Japan                     4      4      0      0.0s
-  (direct)             Vietnam                   4      4      2      0.2s
-  google               Italy                     4      1      1     70.0s
-  google               United Kingdom            4      1      4     76.0s
-  (direct)             China                     3      3      1     13.7s
+  (direct)             Romania                   3      3      0      5.7s
   (direct)             Taiwan                    3      1      0      4.0s
+  bing                 United States             3      3      0      0.0s
   google               Mexico                    3      1      2   1671.0s
-  (direct)             (not set)                 2      2      1      8.0s
-  (direct)             Argentina                 2      2      1      8.5s
-  (direct)             Bangladesh                2      2      1      1.5s
-  (direct)             Mexico                    2      2      0      1.0s
-  (direct)             South Africa              2      2      1      0.0s
-  bing                 United States             2      2      0      0.0s
+  (direct)             (not set)                 2      2      2     15.0s
+  (direct)             France                    2      2      1      0.0s
+  (direct)             Paraguay                  2      2      2     14.0s
+  (direct)             Vietnam                   2      2      0      0.5s
   duckduckgo           United States             2      1      1     36.0s
   google               Singapore                 2      1      0      0.0s
   (direct)             Belarus                   1      1      0      0.0s
+  (direct)             Bolivia                   1      1      0      0.0s
+  (direct)             Colombia                  1      1      0      0.0s
 
-🌏 Top 10 国家 (2026-07-11 ~ 2026-08-09)
+🌏 Top 10 国家 (2026-07-18 ~ 2026-08-16)
 ------------------------------------------------------------
-   1. United States             用户=    46  会话=    48
-   2. Brazil                    用户=     8  会话=     8
-   3. Singapore                 用户=     6  会话=     7
+   1. United States             用户=    55  会话=    57
+   2. Singapore                 用户=    10  会话=    11
+   3. Brazil                    用户=     5  会话=     5
    4. Japan                     用户=     5  会话=     5
-   5. Vietnam                   用户=     4  会话=     4
-   6. China                     用户=     3  会话=     3
-   7. Mexico                    用户=     3  会话=     5
+   5. China                     用户=     4  会话=     4
+   6. Romania                   用户=     3  会话=     3
+   7. United Kingdom            用户=     3  会话=     8
    8. (not set)                 用户=     2  会话=     2
-   9. Argentina                 用户=     2  会话=     2
-  10. Bangladesh                用户=     2  会话=     2
+   9. France                    用户=     2  会话=     2
+  10. Mexico                    用户=     2  会话=     4
 
 👥 新 vs 老用户对比（粘性指标）
 ----------------------------------------------------------------------
   类型                  用户     会话    PV       人均时长     人均PV
-  new                 94     95   117     19.1s     1.24
-  returning            6     12    12    286.2s     2.00
-  (not set)            0      1     1      0.0s     0.00
+  new                100    100   116     16.7s     1.16
+  returning            7     11     9    245.3s     1.29
+  (unknown)            1      1     0      6.0s     0.00
+  (not set)            0      2     2      0.0s     0.00
 
-📱 设备分布 (2026-07-11 ~ 2026-08-09)
+📱 设备分布 (2026-07-18 ~ 2026-08-16)
 ------------------------------------------------------------
-  desktop      用户=    61 (64.2%)  会话=    69
-  mobile       用户=    34 (35.8%)  会话=    39
+  desktop      用户=    65 (64.4%)  会话=    73
+  mobile       用户=    36 (35.6%)  会话=    40
 
 🕐 24 小时流量分布（UTC，北京时间 +8）
 ----------------------------------------------------------------------
    UTC    北京    用户    会话   PV  柱状(PV)
      0    8:00     2     2    2  ███
-     1    9:00     6     7    8  ████████████
-     2   10:00     4     4    6  █████████
+     1    9:00     6     6    5  ████████
+     2   10:00     3     4    6  ██████████
      3   11:00     1     1    1  █
-     4   12:00     6     6    8  ████████████
-     5   13:00     3     3    3  ████
-     6   14:00     4     4    5  ███████
-     7   15:00     1     1    2  ███
-     8   16:00     4     4    4  ██████
-     9   17:00     6     6    6  █████████
-    10   18:00     4     4   15  ███████████████████████
-    11   19:00     5     5    4  ██████
-    12   20:00     2     3    3  ████
-    13   21:00     4     4    4  ██████
-    15   23:00     4     4    5  ███████
-    16    0:00     7     7    8  ████████████
-    17    1:00     2     2    2  ███
-    18    2:00     6     6    7  ███████████
-    19    3:00     6     6    6  █████████
-    20    4:00     5     6    5  ███████
-    21    5:00     4     4    4  ██████
-    22    6:00     3     3    3  ████
-    23    7:00    16    16   19  ██████████████████████████████
+     4   12:00     8     8   10  ████████████████
+     5   13:00     6     6    6  ██████████
+     6   14:00     5     5    5  ████████
+     7   15:00     1     1    1  █
+     8   16:00     3     3    3  █████
+     9   17:00     8     8    8  █████████████
+    10   18:00     4     4   15  █████████████████████████
+    11   19:00     3     3    2  ███
+    12   20:00     5     5    4  ██████
+    13   21:00     3     3    3  █████
+    14   22:00     1     1    1  █
+    15   23:00     2     2    2  ███
+    16    0:00     5     5    5  ████████
+    17    1:00     1     1    1  █
+    18    2:00     6     6    6  ██████████
+    19    3:00     9     9    9  ███████████████
+    20    4:00     4     5    4  ██████
+    21    5:00     6     7    6  ██████████
+    22    6:00     3     3    4  ██████
+    23    7:00    15    15   18  ██████████████████████████████
 
 📅 周几流量分布（0=周日, 6=周六）
 ----------------------------------------------------------------------
   星期        用户    会话    PV       人均时长  柱状(PV)
-  周日        26    32    33     35.2s  █████████████████████████
-  周一        15    15    15      0.5s  ███████████
-  周二         4     4     6      6.5s  ████
-  周三         9    11    24     65.0s  ██████████████████
-  周四        17    18    19    101.7s  ██████████████
-  周五        13    14    19      3.2s  ██████████████
-  周六        14    14    14     14.8s  ██████████
+  周日        31    35    34     28.0s  █████████████████████████
+  周一        14    14    14      0.6s  ██████████
+  周二         4     5     7      6.5s  █████
+  周三         8    10    23     73.1s  ████████████████
+  周四        13    14    13    128.0s  █████████
+  周五        10    11    11      1.7s  ████████
+  周六        24    24    25      9.2s  ██████████████████
 
 🎯 增长信号分析（旺财自动总结）
 ----------------------------------------------------------------------
 
   🔥 应该放大（高质量+有流量，质量分≥10）：
     /posts/the-man-who-welcomed-a-ghost                质量140.8 停留1609s PV2
-    /posts/the-pillow-that-dreamed-a-lifetime          质量26.5 停留278s PV8
+    /posts/the-pillow-that-dreamed-a-lifetime          质量73.7 停留764s PV2
     /posts/the-couple-who-became-mandarin-ducks        质量16.3 停留76s PV4
     /posts/the-drowned-monk-whose-fists-were-empty     质量11.2 停留74s PV2
 
   🔻 哑火警告（流量有但质量低，需复盘标题/开篇/选材）：
-    /posts/the-painted-skin                            质量4.4 停留4s PV4
+    /posts/the-painted-skin                            质量2.8 停留3s PV6
     /posts/the-disciple-who-wanted-to-walk-through-wal 质量0.2 停留2s PV3
     /posts/the-fisherman-who-drank-with-a-ghost        质量0.0 停留0s PV3
     /posts/the-philosopher-who-faked-his-death-to-test 质量0.0 停留0s PV3
-    /posts/the-soul-that-walked-out-the-door           质量0.0 停留0s PV2
+    /posts/the-curly-bearded-stranger                  质量0.0 停留0s PV2
 
   💎 潜力股（质量高但流量低，应外推到 Medium/Reddit）：
     /posts/the-man-who-welcomed-a-ghost                质量140.8 停留1609s PV2
-    /posts/the-young-man-who-sold-a-ghost              质量22.1 停留145s PV1
+    /posts/the-pillow-that-dreamed-a-lifetime          质量73.7 停留764s PV2
     /posts/the-hell-judge-who-came-over-for-drinks     质量16.4 停留77s PV1
     /posts/the-couple-who-became-mandarin-ducks        质量16.3 停留76s PV4
-    /posts/the-magistrate-who-climbed-down-into-hell   质量13.4 停留41s PV1
+    /posts/nie-xiaoqian-the-ghost-bride                质量11.8 停留22s PV1
 
   🗂️  Hub 引流健康度：
-    /hubs/hauntings                                    PV8 UV5 停留16s
-    /hubs/love-across-death                            PV6 UV3 停留29s
+    /hubs/hauntings                                    PV6 UV4 停留18s
     /hubs/afterlife-and-underworld                     PV4 UV3 停留23s
-    /hubs/karma-and-retribution                        PV4 UV2 停留0s
-    /hubs/fox-spirits                                  PV2 UV2 停留8s
-    /hubs/taoist-marvels                               PV2 UV2 停留10s
+    /hubs/love-across-death                            PV3 UV1 停留78s
+    /hubs/karma-and-retribution                        PV1 UV1 停留17s
 
 ============================================================
