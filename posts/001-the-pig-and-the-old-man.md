@@ -7,6 +7,7 @@ volume: "Luanyang Xiaoxia Lu (Part I)"
 tale_number: 1
 title_zh: "老翁与猪"
 hub: "Karma & Retribution"
+noindex: true
 dynasty: "Qing"
 tags: ["karma", "reincarnation", "Buddhism", "forgiveness", "Qing dynasty", "Ji Xiaolan"]
 excerpt: "A village pig charged to bite one elderly neighbor on sight — and ignored everyone else. Then the old man figured out why."
