@@ -7,6 +7,7 @@ volume: "Xi Yuan Ji Lu, Volume IV — On Poisoning (服毒)"
 case_number: 1
 title_zh: "银钗验毒：宋慈的砒霜检测术"
 hub: "Karma & Retribution"
+noindex: true
 dynasty: "Song"
 tags: ["forensic science", "Song dynasty", "true crime", "Song Ci", "poison", "arsenic", "history of CSI", "Chinese forensics"]
 excerpt: "In 1247, a Chinese coroner wrote down how to catch a poisoner with a silver hairpin. The chemistry he didn't know he was doing wouldn't be explained in the West for another six hundred years."
