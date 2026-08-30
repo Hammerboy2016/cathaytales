@@ -8,6 +8,7 @@ tale_number: 2
 title_zh: "两面国：人人在后脑勺戴了张面具"
 subtitle: "A Chinese Gulliver's Travels — Episode 2"
 hub: "Taoist Marvels"
+noindex: true
 dynasty: "Qing"
 tags: ["Qing dynasty", "Li Ruzhen", "Jinghuayuan", "Flowers in the Mirror", "fantasy", "satire", "Gulliver's Travels", "travelogue", "Liangmian Guo", "Country of Two Faces", "hypocrisy"]
 excerpt: "Tang Ao and Lin Zhiyang walk into a coastal kingdom where every citizen wears a hood that covers the back of his head. The faces in front are warm, attentive, deferential. When Lin Zhiyang lifts a hood from behind, he finds a second face — fanged, snake-eyed, and grinning. The first face only smiles at people in silk. The second face is what's waiting for everyone else."
