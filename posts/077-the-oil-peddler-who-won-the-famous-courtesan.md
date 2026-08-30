@@ -7,6 +7,7 @@ volume: "Xingshi Hengyan (醒世恒言) — Stories to Awaken the World, Volume 
 tale_number: 77
 title_zh: "卖油郎独占花魁"
 hub: "Love Across Death"
+noindex: true
 dynasty: "Ming"
 tags: ["Feng Menglong", "Sanyan", "Xingshi Hengyan", "huaben", "courtesan", "Hangzhou", "West Lake", "oil peddler", "devotion", "Ming dynasty", "classical Chinese tale", "vernacular fiction", "translated", "Southern Song"]
 excerpt: "She was the most celebrated courtesan in Hangzhou, and every wealthy young man of the Southern Song wanted a single night with her. The man who finally won her was an oil peddler with less than three taels to his name — all of which he spent on one evening, knowing she would probably never even speak to him."
