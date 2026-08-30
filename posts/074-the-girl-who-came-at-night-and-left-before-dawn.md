@@ -7,6 +7,7 @@ volume: "Various — collected in Tangwen Cui (唐文粹) and Taiping Guangji (�
 tale_number: 74
 title_zh: "莺莺传"
 hub: "Love Across Death"
+noindex: true
 dynasty: "Tang"
 tags: ["Chinese ghost story", "Tang dynasty", "chuanqi", "Yuan Zhen", "Cui Yingying", "Zhang Sheng", "Hongniang", "Romance of the Western Chamber", "classical Chinese tale", "translated", "forbidden love", "scholar-beauty", "Puzhou", "semi-autobiographical"]
 excerpt: "A young scholar stopped at a temple in Puzhou and met a widow and her daughter, who were travelling with coffers of silk and nowhere safe to go. Bandits came that night. He helped the family survive. The widow invited him to a feast of thanks. Her daughter sat across from him, beautiful, silent, furious — and said almost nothing the entire evening. Weeks later, through the maid, he sent her a poem. She sent back a reply that said: do not come. He went anyway. And she came to his room that night without a word, and stayed until before dawn, and did this every night for months. Then he left for the capital. Then he stopped writing. Then he called her a monster."
