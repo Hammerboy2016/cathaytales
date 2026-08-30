@@ -7,6 +7,7 @@ volume: "Jing Shi Tong Yan (警世通言) — Stories to Caution the World, Volu
 tale_number: 8
 title_zh: "杜十娘怒沉百宝箱"
 hub: "Love Across Death"
+noindex: true
 dynasty: "Ming"
 tags: ["Ming dynasty", "courtesan", "tragedy", "love story", "Feng Menglong", "Sanyan", "vernacular fiction", "betrayal"]
 excerpt: "A celebrated Beijing courtesan saved her own ransom in secret. When her lover sold her to a salt merchant for a thousand taels, she opened the box she had carried south — and threw a fortune into the Yangtze, one drawer at a time."
