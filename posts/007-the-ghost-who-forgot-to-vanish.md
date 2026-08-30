@@ -7,6 +7,7 @@ volume: "Volume III · Luanyang Xiaoxia Lu III"
 tale_number: 7
 title_zh: "唐执玉断狱"
 hub: "Hauntings & Ghost Encounters"
+noindex: true
 dynasty: "Qing"
 tags: ["ghost story", "murder mystery", "Qing dynasty", "Ji Yun", "courtroom", "yamen", "forensic", "Notes from the Thatched Study"]
 excerpt: "A bleeding ghost knelt at the high commissioner's steps and named its murderer. The verdict was overturned. Then one old clerk asked: how exactly did the ghost leave?"
