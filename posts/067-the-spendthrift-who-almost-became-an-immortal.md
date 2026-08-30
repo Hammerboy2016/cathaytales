@@ -7,6 +7,7 @@ volume: "Xuanguai Lu (玄怪录) — Records of the Mysterious and Strange"
 tale_number: 67
 title_zh: "杜子春"
 hub: "Taoist Marvels"
+noindex: true
 dynasty: "Tang"
 tags: ["Chinese ghost story", "Tang dynasty", "chuanqi", "Niu Sengru", "Du Zichun", "Xuanguai Lu", "Taoist alchemy", "immortality test", "classical Chinese tale", "translated", "karma", "silence", "motherhood", "detachment"]
 excerpt: "A young man of good family drank his inheritance to nothing and stood one winter afternoon at the east gate of Chang'an, cursing the sky. A stranger in white listened, then handed him three million cash and walked away. Two years later, the money was gone. The stranger came back. He handed him ten million more. Two years later, that was gone too. The third time, the young man understood there was a test being run on him — but not what the test was."
