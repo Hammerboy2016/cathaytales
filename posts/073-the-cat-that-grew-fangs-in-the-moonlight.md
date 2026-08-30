@@ -7,6 +7,7 @@ volume: "Zi Bu Yu (子不语) — What the Master Would Not Discuss, Volume 6"
 tale_number: 73
 title_zh: "武林猫怪"
 hub: "Hauntings & Ghost Encounters"
+noindex: true
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "Yuan Mei", "Zi Bu Yu", "cat demon", "maoguai", "moon worship", "Taoist exorcism", "Hangzhou", "jiangnan", "yin energy", "animal spirit", "classical Chinese tale", "translated", "Qianlong reign"]
 excerpt: "A wealthy silk-merchant's household in Hangzhou took in a stray black cat during a rainstorm. For months it was a good mouser and slept by the kitchen stove. Then it began climbing to the roof at midnight and sitting motionless, facing the moon. It grew larger than any cat had a right to grow. Its eyes turned the colour of lamp-oil fire. The family's silkworms began to die. The youngest daughter began to sleep all day and wander all night. A Taoist priest from the Baojun Temple said three words when he saw the cat: 'This one has baiyue'd.' — It has worshipped the moon."
