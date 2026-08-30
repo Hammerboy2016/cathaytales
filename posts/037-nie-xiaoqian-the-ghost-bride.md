@@ -7,6 +7,7 @@ volume: "Liaozhai Zhiyi (聊斋志异) — Volume II"
 tale_number: 37
 title_zh: "聂小倩"
 hub: "Love Across Death"
+noindex: true
 dynasty: "Qing"
 tags: ["ghost story", "ghost bride", "Qing dynasty", "Pu Songling", "Liaozhai", "Nie Xiaoqian", "love", "classical Chinese tale"]
 excerpt: "A young scholar takes a desk into an abandoned temple. A girl in a red gown shows up at his window. He turns her away. She comes back to confess what she actually is — and what she wants from him."
