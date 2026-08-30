@@ -8,6 +8,7 @@ volume: "Volume I"
 tale_number: 5
 title_zh: "南昌士人"
 hub: "Hauntings & Ghost Encounters"
+noindex: true
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "gothic horror", "Yuan Mei", "jiangshi", "Chinese zombie", "Zi Bu Yu", "forbidden tales"]
 excerpt: "Two young scholars studying in a quiet temple. Then one dies, and the other doesn't know — until midnight, when the door creaks open and his friend walks back in."
