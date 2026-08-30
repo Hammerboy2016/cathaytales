@@ -7,6 +7,7 @@ volume: "Zibuyu (子不语) — Volume I"
 tale_number: 39
 title_zh: "骷髅吹气"
 hub: "Hauntings & Ghost Encounters"
+noindex: true
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "Yuan Mei", "Zibuyu", "Hangzhou", "weiqi", "haunted house", "skull", "Yongzheng era", "classical Chinese tale"]
 excerpt: "On a hot summer afternoon in 1727, a Hangzhou weiqi master excused himself from a friendly tournament to take a nap. A few minutes later he was face-down on the floor, foaming at the mouth, with a story about something blowing cold air up through the mat from beneath the bed."
