@@ -7,6 +7,7 @@ volume: "Liaozhai Zhiyi (聊斋志异) — Volume X"
 tale_number: 79
 title_zh: "葛巾"
 hub: "Love Across Death"
+noindex: true
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "Pu Songling", "Liaozhai", "Ge Jin", "Yu Ban", "Chang Dayong", "peony spirits", "flower spirits", "Caozhou", "Luoyang", "classical Chinese tale", "love and doubt", "peonies", "shapeshifters"]
 excerpt: "A Luoyang scholar obsessed with peonies travelled to Caozhou to see the finest blooms in the empire. In the garden he met a woman in purple who came to him at night and gave him silver to go home. She followed him to Luoyang, married him, bore him a son, and brought her sister to marry his brother. For two years they were the happiest family in the city. Then he went back to Caozhou to find out who she really was — and when he returned, she already knew."
