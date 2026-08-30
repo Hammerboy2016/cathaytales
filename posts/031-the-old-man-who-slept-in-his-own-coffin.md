@@ -7,6 +7,7 @@ volume: "Zibuyu (子不语) — Volume XII"
 tale_number: 31
 title_zh: "棺床"
 hub: "Hauntings & Ghost Encounters"
+noindex: true
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "Yuan Mei", "Zibuyu", "haunted house", "Jiangshan", "I Ching", "longevity coffin", "Chinese folktale", "comedy"]
 excerpt: "A scholar took shelter from a storm in a stranger's house, found a coffin in his guest room, and watched a white-bearded corpse climb out of it at midnight to light a pipe from his bedside candle."
