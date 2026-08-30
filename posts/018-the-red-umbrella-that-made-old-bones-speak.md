@@ -7,6 +7,7 @@ volume: "Xi Yuan Ji Lu, Volume III — On the Examination of Bones (验骨)"
 case_number: 2
 title_zh: "红伞验骨：宋慈让陈年白骨开口的光学法医术"
 hub: "Karma & Retribution"
+noindex: true
 dynasty: "Song"
 tags: ["forensic science", "Song dynasty", "true crime", "Song Ci", "bone examination", "exhumation", "Chinese forensics", "optical filter", "history of CSI"]
 excerpt: "A magistrate exhumes a year-old skeleton, washes it, steams it over hot earth, then holds a red oilpaper umbrella over it in full sunlight. The bruises and fractures the killer thought were lost forever bloom across the bone in a faint, smoky red. The same optical trick is used by modern forensic labs."
