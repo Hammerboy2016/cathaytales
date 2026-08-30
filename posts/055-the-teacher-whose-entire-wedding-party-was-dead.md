@@ -7,6 +7,7 @@ volume: "Stories to Caution the World (警世通言), Volume 14 — The Mangy Da
 tale_number: 55
 title_zh: "一窟鬼癞道人除怪：吴洪的妻、媒婆、岳母全是鬼"
 hub: "Hauntings & Ghost Encounters"
+noindex: true
 dynasty: "Song"
 tags: ["ghost", "ghost wife", "matchmaker", "Southern Song", "Hangzhou", "Daoist exorcism", "Feng Menglong", "Sanyan", "vernacular fiction", "translated", "Chinese ghost story"]
 excerpt: "A failed examination candidate, stranded in Hangzhou as a private tutor, lets the neighborhood matchmaker arrange a wedding to a quiet young woman. A year later, walking home alone after a holiday in the western hills, he begins to discover that every single person at the wedding has been dead for over a year."
