@@ -7,6 +7,7 @@ volume: "Xu Zibuyu (续子不语) — Further Records of What the Master Would N
 tale_number: 48
 title_zh: "沙弥思老虎"
 hub: "Taoist Marvels"
+noindex: true
 dynasty: "Qing"
 tags: ["Qing dynasty", "Yuan Mei", "Zibuyu", "Buddhist parable", "Wutai Shan", "novice monk", "desire", "discipline", "classical Chinese tale", "comic tale", "tiger"]
 excerpt: "A three-year-old boy raised on a mountain in total seclusion from the world finally came down at sixteen. His master pointed out the cow, the horse, the rooster, the dog. Then a young woman walked past, and the master had to think fast."
