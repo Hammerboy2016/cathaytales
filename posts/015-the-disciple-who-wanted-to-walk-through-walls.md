@@ -7,6 +7,7 @@ volume: "Liaozhai Zhiyi (聊斋志异) — Volume I, Tale 16"
 tale_number: 15
 title_zh: "劳山道士"
 hub: "Taoist Marvels"
+noindex: true
 dynasty: "Qing"
 tags: ["Daoist magic", "Qing dynasty", "Pu Songling", "Liaozhai", "Mount Lao", "wall-walking", "discipline", "satire", "classical Chinese tale"]
 excerpt: "A spoiled young scholar climbs Mount Lao to learn Daoist magic. The master gives him an axe and tells him to gather firewood. Two months later, he begs for one party trick — and goes home thinking he can walk through walls."
