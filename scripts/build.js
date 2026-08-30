@@ -494,6 +494,7 @@ function buildPost(filePath, template, allPosts) {
     SERIES_KEYWORDS: series.keywords,
     AUTHOR_NAME: series.author,
     AUTHOR_LINE: series.author_line,
+    NOINDEX_META: meta.noindex ? '<meta name="robots" content="noindex, follow">' : '',
     CSS_PATH: '../assets/style.css',
     HOME_PATH: '../',
     ASSETS_BASE: '../assets/',
@@ -787,7 +788,7 @@ function buildSitemap(posts, essays = []) {
       lastmod: e.date,
       priority: '0.85',
     })),
-    ...posts.map(p => ({
+    ...posts.filter(p => !p.noindex).map(p => ({
       loc: `${SITE_URL}/${p.outPath.replace(/\.html$/, '')}`,
       lastmod: p.date,
       priority: '0.8',
@@ -825,7 +826,7 @@ function escapeXml(s) {
 
 function buildRSS(posts) {
   // Newest first, cap at latest 20 to keep feed lean
-  const sorted = [...posts].sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 20);
+  const sorted = [...posts].filter(p => !p.noindex).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 20);
   const buildDate = new Date().toUTCString();
   const items = sorted.map(p => {
     const url = `${SITE_URL}/${p.outPath.replace(/\.html$/, '')}`;
