@@ -6,7 +6,8 @@ series: "yuewei"
 volume: "Notes from the Thatched Study (阅微草堂笔记) — Rushi Wowen I (如是我闻一)"
 tale_number: 80
 title_zh: "汤氏冤魂 · 漫河烈魄"
-hub: "Injustice Unavenged"
+hub: "Hauntings & Ghost Encounters"
+noindex: true
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "Ji Yun", "Yuewei", "wronged woman", "chastity cult", "injustice", "female ghost", "Kangxi era", "legal history", "classical Chinese tale", "vengeful spirit", "women in imperial China"]
 excerpt: "It rained for days on the road south of Fucheng in the summer of 1715. A traveling scholar rested under a tree and fell into a half-sleep — and a woman knelt before him in the mud. She had been a beggar's wife. Three men had seized her, tied her to a tree, and raped her. She had cursed them and fought until they stabbed her to death. The killers were caught and executed. But the magistrate refused to honor her as a martyr of chastity — because she had been 'defiled.' For forty years her ghost had walked that stretch of road, waiting for someone who would listen. This is the story Ji Yun wrote down, and the quiet, devastating question he left behind: when a woman fights to her last breath and loses, whom exactly does the law punish by refusing to remember her?"
