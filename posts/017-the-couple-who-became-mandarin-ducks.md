@@ -7,6 +7,7 @@ volume: "Soushen Ji (搜神记) — Book XI"
 tale_number: 17
 title_zh: "韩凭夫妇"
 hub: "Love Across Death"
+noindex: true
 dynasty: "Zhou"
 tags: ["love tragedy", "Warring States", "Gan Bao", "Soushen Ji", "mandarin ducks", "Tree of Mutual Longing", "Song Kang Wang", "Chinese folktale", "Six Dynasties", "reincarnation"]
 excerpt: "A king stole another man's wife. The husband killed himself. The wife jumped from a tower. The king ordered them buried in separate graves — so they would never touch again. Within ten days, two trees grew up out of the mounds and tied themselves together."
