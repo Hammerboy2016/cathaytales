@@ -7,6 +7,7 @@ volume: "Liaozhai Zhiyi (聊斋志异) — Volume IV"
 tale_number: 71
 title_zh: "香玉"
 hub: "Love Across Death"
+noindex: true
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "Pu Songling", "Liaozhai", "Xiangyu", "Jiangxue", "Huang Shenglai", "classical Chinese tale", "flower spirits", "white peony", "red camellia", "Laoshan", "love across death", "resurrection"]
 excerpt: "A young scholar lodged in a temple near Mount Lao and fell in love with a girl who visited him every evening. She was beautiful, eloquent, and gone before dawn each morning without fail. He did not know she was the spirit of a white peony that had grown in the temple garden for a hundred years. When the peony was dug up and died, he dug the stump out of the ground and wept over it every day. Then her ghost came to him and said: you can bring me back. But first you must do something no one has ever done for a flower."
