@@ -7,6 +7,7 @@ volume: "Liaozhai Zhiyi (聊斋志异) — Volume I"
 tale_number: 45
 title_zh: "野狗"
 hub: "Hauntings & Ghost Encounters"
+noindex: true
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "Pu Songling", "Liaozhai", "horror", "battlefield", "Yu Qi rebellion", "Shandong", "classical Chinese tale"]
 excerpt: "A peasant hid himself in a pile of corpses to escape passing soldiers. When the army marched off, the dead sat up around him — and started crying. They were not crying about the army. They were crying about what was coming next."
