@@ -7,6 +7,7 @@ volume: "Notes from the Thatched Study (阅微草堂笔记) — Luanyang Xiaoxia
 tale_number: 75
 title_zh: "痴鬼望妻 · 丁香树下"
 hub: "Love Across Death"
+noindex: true
 dynasty: "Qing"
 tags: ["ghost story", "Qing dynasty", "Ji Yun", "Yuewei", "love", "grief", "widow remarriage", "ghost husband", "lilac tree", "spirit medium", "classical Chinese tale", "death and devotion"]
 excerpt: "A woman who could see ghosts was invited to keep a young widow company. What she found in the courtyard was not a haunting. It was a man — dead a hundred days — sitting under a lilac tree, watching everything his living wife did. He followed her through the wedding preparations. He followed her to the groom's house. He followed her back to the child she had left behind. The woman-seer could not bear it. The ghost himself could not hear her. And years later, Ji Yun would write the only sentence in all his notebooks that sounds like an apology for the dead."
