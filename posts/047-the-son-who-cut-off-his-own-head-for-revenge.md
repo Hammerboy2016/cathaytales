@@ -7,6 +7,7 @@ volume: "Soushen Ji (搜神记) — Book XI"
 tale_number: 47
 title_zh: "干将莫邪 · 三王墓"
 hub: "Karma & Retribution"
+noindex: true
 dynasty: "Six Dynasties"
 tags: ["revenge", "Six Dynasties", "Gan Bao", "Soushen Ji", "sword", "Chu kingdom", "decapitation", "ghost story", "classical Chinese tale", "filial revenge", "stranger swordsman"]
 excerpt: "A swordsmith forged the king a pair of legendary blades, then hid the better one in the wall and died for it. Years later his son went looking for revenge with the wrong head — and a stranger on the road offered to carry it for him."
