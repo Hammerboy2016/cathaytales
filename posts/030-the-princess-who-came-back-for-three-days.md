@@ -7,6 +7,7 @@ volume: "Soushen Ji (搜神记) — Book XVI"
 tale_number: 30
 title_zh: "紫玉韩重"
 hub: "Love Across Death"
+noindex: true
 dynasty: "Zhou"
 tags: ["love across death", "Spring and Autumn", "Gan Bao", "Soushen Ji", "King Fuchai", "Wu kingdom", "princess ghost", "Chinese folktale", "Six Dynasties", "pearl token"]
 excerpt: "A king refused to let his daughter marry a young scholar. She died of grief. Three years later he came back from his studies and went to weep at her grave — and she walked out of it to meet him."
