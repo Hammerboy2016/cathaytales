@@ -7,6 +7,7 @@ volume: "Tang Chuanqi · Lihun Ji (离魂记)"
 tale_number: 23
 title_zh: "离魂记"
 hub: "Love Across Death"
+noindex: true
 dynasty: "Tang"
 tags: ["tang dynasty", "chuanqi", "soul split", "love story", "Lihun Ji", "Chen Xuanyou", "Qian-niang", "Wang Zhou", "huling"]
 excerpt: "When her father broke off the engagement, the girl took to her bed and stopped speaking. Her cousin sailed away alone in despair. Then, at midnight on a riverbank, she ran barefoot up to his boat — and she had been bedridden for days."
