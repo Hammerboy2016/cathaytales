@@ -7,6 +7,7 @@ volume: "Tang Chuanqi · The Record of the Pillow (枕中记)"
 tale_number: 16
 title_zh: "枕中记"
 hub: "Taoist Marvels"
+noindex: true
 dynasty: "Tang"
 tags: ["Tang dynasty", "chuanqi", "Shen Jiji", "Lu Sheng", "dream", "ambition", "Taoism", "millet dream", "Handan", "Tang fiction"]
 excerpt: "A penniless scholar gripes to an old Daoist in a roadside inn about his wretched life. The Daoist lends him a porcelain pillow. The innkeeper is still cooking the millet when the scholar wakes up — fifty years later."
