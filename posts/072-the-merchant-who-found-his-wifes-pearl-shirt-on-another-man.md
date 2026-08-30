@@ -7,6 +7,7 @@ volume: "Yushi Mingyan (喻世明言) — Stories to Illustrate the World, Volum
 tale_number: 72
 title_zh: "蒋兴哥重会珍珠衫"
 hub: "Love Across Death"
+noindex: true
 dynasty: "Ming"
 tags: ["Feng Menglong", "Sanyan", "Yushi Mingyan", "huaben", "merchant", "pearl shirt", "betrayal", "reunion", "divorce", "Ming dynasty", "classical Chinese tale", "vernacular fiction", "translated", "Xiangyang", "Guangdong", "marriage"]
 excerpt: "A young merchant from Xiangyang married a woman so beautiful that he could not bear to leave her for a business trip. He went anyway, and she gave him a pearl shirt to wear on the road. Eleven months later, in a teahouse in a different province, a stranger from Huizhou bragged about an affair with a beauty in Xiangyang — and showed the pearl shirt as proof. The stranger did not know he was speaking to the husband."
