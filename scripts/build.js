@@ -768,6 +768,10 @@ const SITE_URL = 'https://cathaytales.com';
 
 function buildSitemap(posts, essays = []) {
   const today = new Date().toISOString().slice(0, 10);
+  const isoDate = (d) => {
+    const dt = (d instanceof Date) ? d : new Date(d);
+    return dt.toISOString().slice(0, 10);
+  };
   const urls = [
     { loc: `${SITE_URL}/`, lastmod: today, priority: '1.0' },
     { loc: `${SITE_URL}/about`, lastmod: today, priority: '0.7' },
@@ -785,12 +789,12 @@ function buildSitemap(posts, essays = []) {
     }] : []),
     ...essays.map(e => ({
       loc: `${SITE_URL}/essays/${e.slug}`,
-      lastmod: e.date,
+      lastmod: isoDate(e.date),
       priority: '0.85',
     })),
     ...posts.filter(p => !p.noindex).map(p => ({
       loc: `${SITE_URL}/${p.outPath.replace(/\.html$/, '')}`,
-      lastmod: p.date,
+      lastmod: isoDate(p.date),
       priority: '0.8',
     })),
   ];
