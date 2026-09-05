@@ -828,7 +828,21 @@ ${mainHtml}
 `;
 }
 
-function buildClassicPage(filePath, template, book, excerpts, index) {
+function readClassicMeta(fp) {
+  const { data: meta } = matter(fs.readFileSync(fp, 'utf8'));
+  return {
+    file: fp,
+    slug: meta.slug,
+    title: meta.title,
+    subtitle: meta.subtitle || '',
+    source: meta.source || '',
+    date: meta.date,
+    order: Number(meta.order) || 0,
+  };
+}
+
+// kind: 'excerpt'（按卷节选，书目录下）| 'theme'（主题精读，themes/ 下）
+function buildClassicPage(filePath, template, book, pageCtx) {
   resetFootnotes();
   const raw = fs.readFileSync(filePath, 'utf8');
   const { data: meta, content } = matter(raw);
@@ -843,18 +857,6 @@ function buildClassicPage(filePath, template, book, excerpts, index) {
   const charCount = content.replace(/\s/g, '').length;
   const readingTime = meta.reading_time || Math.max(4, Math.round(charCount / 400));
 
-  const prev = excerpts[index - 1];
-  const next = excerpts[index + 1];
-  const pager = [
-    prev
-      ? `<a class="classic-pager-prev" href="${prev.slug}"><span class="pager-dir">← 上一篇</span><span class="pager-title">${escapeHtml(prev.title)}</span></a>`
-      : '<span></span>',
-    `<a class="classic-pager-toc" href="./"><span class="pager-dir">目录</span><span class="pager-title">《${escapeHtml(book.book_title)}》</span></a>`,
-    next
-      ? `<a class="classic-pager-next" href="${next.slug}"><span class="pager-dir">下一篇 →</span><span class="pager-title">${escapeHtml(next.title)}</span></a>`
-      : '<span></span>',
-  ].join('\n        ');
-
   const html = applyTemplate(template, {
     TITLE: escapeHtml(meta.title),
     SUBTITLE: escapeHtml(meta.subtitle || ''),
@@ -865,18 +867,48 @@ function buildClassicPage(filePath, template, book, excerpts, index) {
     DATE: String(meta.date),
     READING_TIME: String(readingTime),
     CONTENT: bodyHtml,
-    HUB_NAV: renderHubNav('../../', 'classics'),
-    PAGER: pager,
+    HUB_NAV: renderHubNav(pageCtx.rootPrefix, 'classics'),
+    PAGER: pageCtx.pager,
+    ROOT: pageCtx.rootPrefix,
+    BOOK_LINK: pageCtx.bookLink,
+    LABEL: pageCtx.label,
   });
 
-  const outDir = path.join(DIST_CLASSICS_DIR, book.book_slug);
-  ensureDir(outDir);
-  fs.writeFileSync(path.join(outDir, `${meta.slug}.html`), html);
+  ensureDir(path.dirname(pageCtx.outPath));
+  fs.writeFileSync(pageCtx.outPath, html);
 }
 
-function buildBookIndex(book, introMarkdown, excerpts) {
+function buildExcerptPager(book, excerpts, i) {
+  const prev = excerpts[i - 1];
+  const next = excerpts[i + 1];
+  return [
+    prev
+      ? `<a class="classic-pager-prev" href="${prev.slug}"><span class="pager-dir">← 上一篇</span><span class="pager-title">${escapeHtml(prev.title)}</span></a>`
+      : '<span></span>',
+    `<a class="classic-pager-toc" href="./"><span class="pager-dir">《${escapeHtml(book.book_title)}》</span><span class="pager-title">返回书页</span></a>`,
+    next
+      ? `<a class="classic-pager-next" href="${next.slug}"><span class="pager-dir">下一篇 →</span><span class="pager-title">${escapeHtml(next.title)}</span></a>`
+      : '<span></span>',
+  ].join('\n        ');
+}
+
+function buildThemePager(book, themes, i) {
+  const prev = themes[i - 1];
+  const next = themes[i + 1];
+  return [
+    prev
+      ? `<a class="classic-pager-prev" href="${prev.slug}"><span class="pager-dir">← 上一主题</span><span class="pager-title">${escapeHtml(prev.title)}</span></a>`
+      : '<span></span>',
+    `<a class="classic-pager-toc" href="../"><span class="pager-dir">《${escapeHtml(book.book_title)}》</span><span class="pager-title">主题目录</span></a>`,
+    next
+      ? `<a class="classic-pager-next" href="${next.slug}"><span class="pager-dir">下一主题 →</span><span class="pager-title">${escapeHtml(next.title)}</span></a>`
+      : '<span></span>',
+  ].join('\n        ');
+}
+
+function buildBookIndex(book, introMarkdown, excerpts, themes, plannedThemes) {
   const introHtml = marked.parse(introMarkdown);
-  const list = excerpts.map((e, i) => `        <li>
+  const excerptList = excerpts.map((e, i) => `        <li>
           <a href="${e.slug}">
             <span class="excerpt-index">${String(i + 1).padStart(2, '0')}</span>
             <span class="excerpt-title">${escapeHtml(e.title)}</span>
@@ -884,6 +916,22 @@ function buildBookIndex(book, introMarkdown, excerpts) {
             <span class="excerpt-source">${escapeHtml(e.source || '')}</span>
           </a>
         </li>`).join('\n');
+  const themeList = themes.map((t, i) => `        <li>
+          <a href="themes/${t.slug}">
+            <span class="excerpt-index">T${String(i + 1).padStart(2, '0')}</span>
+            <span class="excerpt-title">${escapeHtml(t.title)}</span>
+            <span class="excerpt-sub">${escapeHtml(t.subtitle || '')}</span>
+            <span class="excerpt-source">${escapeHtml(t.source || '')}</span>
+          </a>
+        </li>`).join('\n');
+  const themeSection = themes.length ? `      <h2>主题精读 · 带着问题读通鉴</h2>
+      <p class="classic-deck">不按卷顺序，而是按组织问题跨卷精选案例，每个案例配<strong>原文 · 简注 · 白话</strong>，并用五个透镜分析：<strong>识人</strong>（言辞、行为、利益、真实意图是否一致）、<strong>组织判断</strong>（正式组织结构与实际权力结构的差距）、<strong>战略判断</strong>（进、退、等、联合、分化）、<strong>历史感</strong>（看似特殊的问题在组织史中反复出现）、<strong>因果分析</strong>（大事是几年甚至几十年的积累）。</p>
+      <ol class="classic-excerpt-list">
+${themeList}
+      </ol>
+${plannedThemes.length ? `      <p class="classic-themes-planned"><strong>后续规划：</strong>${plannedThemes.map(t => escapeHtml(t)).join(' · ')}</p>` : ''}`
+    : (plannedThemes.length ? `      <h2>主题精读 · 带着问题读通鉴</h2>
+      <p class="classic-themes-planned"><strong>规划中：</strong>${plannedThemes.map(t => escapeHtml(t)).join(' · ')}</p>` : '');
   const mainHtml = `    <article class="classic-book">
       <nav class="classic-breadcrumb" aria-label="面包屑">
         <a href="../../classics/">古书</a>
@@ -897,9 +945,10 @@ function buildBookIndex(book, introMarkdown, excerpts) {
       <div class="classic-book-intro">
 ${introHtml}
       </div>
-      <h2>节选目录</h2>
+${themeSection}
+      <h2>按卷节选 · 臣光曰名论</h2>
       <ol class="classic-excerpt-list">
-${list}
+${excerptList}
       </ol>
     </article>`;
   const html = classicsPageHtml({
@@ -917,11 +966,11 @@ function buildClassicsIndex(books) {
         <h2>《${escapeHtml(b.book_title)}》</h2>
         <p class="book-era">${escapeHtml(b.era || '')}</p>
         <p class="book-deck">${escapeHtml(b.deck || '')}</p>
-        <p class="book-count">已整理 ${b.excerptCount} 篇 · 进入全书 →</p>
+        <p class="book-count">已整理 ${b.excerptCount} 篇按卷节选${b.themeCount ? ` · ${b.themeCount} 个主题精读` : ''} · 进入全书 →</p>
       </a>`).join('\n');
   const mainHtml = `    <section class="classics-list-page">
       <h1>古书 · Classics</h1>
-      <p class="classics-list-lead">不从头啃原典。这里把中国典籍中最值得精读的段落挑出来，按论点分段整理：<strong>原文精校 · 简注 · 白话大意 · 背景导读</strong>，每篇独立可读，十几分钟读完一段两千年来反复被引用的文字。</p>
+      <p class="classics-list-lead">不从头啃原典。这里把中国典籍中最值得精读的段落挑出来整理：<strong>原文精校 · 简注 · 白话大意 · 背景导读</strong>。两种读法——<a href="zizhi-tongjian/">按卷节选</a>读名论，或<strong>带着组织问题</strong>（识人、权力、战略、制度……）跨卷读主题精选。每篇独立可读，十几分钟读完一段两千年来反复被引用的文字。</p>
       <p class="classics-list-lead">英文故事板块在<a href="../">这里</a>。</p>
 ${cards}
       <p class="classics-list-note">更多古书整理中。</p>
@@ -929,7 +978,7 @@ ${cards}
   const html = classicsPageHtml({
     rootPrefix: '../',
     title: '古书目录',
-    description: '中国典籍精读整理：《资治通鉴》等古书的精选段落，原文、注释、白话与导读，每篇独立可读。',
+    description: '中国典籍精读整理：《资治通鉴》等古书的精选段落与主题案例，原文、注释、白话与导读，每篇独立可读。',
     mainHtml,
   });
   ensureDir(DIST_CLASSICS_DIR);
@@ -954,34 +1003,58 @@ function buildClassics(template) {
       era: bm.era || '',
       deck: bm.deck || '',
     };
+
+    // 按卷节选：书目录根部的 *.md（排除 _book.md）
     const excerptFiles = fs.readdirSync(bookPath)
       .filter(f => f.endsWith('.md') && f !== '_book.md')
       .sort();
-    const excerpts = excerptFiles.map(f => {
-      const fp = path.join(bookPath, f);
-      const { data: meta } = matter(fs.readFileSync(fp, 'utf8'));
-      return {
-        file: fp,
-        slug: meta.slug,
-        title: meta.title,
-        subtitle: meta.subtitle || '',
-        source: meta.source || '',
-        date: meta.date,
-        order: Number(meta.order) || 0,
-      };
-    }).sort((a, b) => (a.order - b.order) || (a.date < b.date ? -1 : 1));
+    const excerpts = excerptFiles
+      .map(f => readClassicMeta(path.join(bookPath, f)))
+      .sort((a, b) => (a.order - b.order) || (a.date < b.date ? -1 : 1));
+
+    // 主题精读：themes/*.md
+    const themesDir = path.join(bookPath, 'themes');
+    const themeFiles = fs.existsSync(themesDir)
+      ? fs.readdirSync(themesDir).filter(f => f.endsWith('.md')).sort()
+      : [];
+    const themes = themeFiles
+      .map(f => readClassicMeta(path.join(themesDir, f)))
+      .sort((a, b) => (a.order - b.order) || (a.date < b.date ? -1 : 1));
 
     excerpts.forEach((ex, i) => {
-      buildClassicPage(ex.file, template, book, excerpts, i);
+      buildClassicPage(ex.file, template, book, {
+        rootPrefix: '../../',
+        bookLink: './',
+        label: '精读',
+        outPath: path.join(DIST_CLASSICS_DIR, book.book_slug, `${ex.slug}.html`),
+        pager: buildExcerptPager(book, excerpts, i),
+      });
       sitemapEntries.push({
         loc: `${SITE_URL}/classics/${book.book_slug}/${ex.slug}`,
         lastmod: isoDate(ex.date),
         priority: '0.7',
       });
     });
-    buildBookIndex(book, bookRaw.content, excerpts);
+
+    themes.forEach((t, i) => {
+      buildClassicPage(t.file, template, book, {
+        rootPrefix: '../../../',
+        bookLink: '../',
+        label: '主题精读',
+        outPath: path.join(DIST_CLASSICS_DIR, book.book_slug, 'themes', `${t.slug}.html`),
+        pager: buildThemePager(book, themes, i),
+      });
+      sitemapEntries.push({
+        loc: `${SITE_URL}/classics/${book.book_slug}/themes/${t.slug}`,
+        lastmod: isoDate(t.date),
+        priority: '0.72',
+      });
+    });
+
+    const plannedThemes = Array.isArray(bm.planned_themes) ? bm.planned_themes : [];
+    buildBookIndex(book, bookRaw.content, excerpts, themes, plannedThemes);
     sitemapEntries.push({ loc: `${SITE_URL}/classics/${book.book_slug}/`, lastmod: today, priority: '0.65' });
-    bookSummaries.push({ ...book, excerptCount: excerpts.length });
+    bookSummaries.push({ ...book, excerptCount: excerpts.length, themeCount: themes.length });
   }
   buildClassicsIndex(bookSummaries);
   sitemapEntries.push({ loc: `${SITE_URL}/classics/`, lastmod: today, priority: '0.7' });
