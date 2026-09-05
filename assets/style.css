@@ -1883,3 +1883,25 @@ details.content-warning strong {
   .classic-pager { flex-wrap: wrap; }
   .classic-pager a { max-width: 100%; }
 }
+
+/* 古书主题精读：规划主题提示 */
+.classic-themes-planned {
+  font-size: 0.92rem;
+  color: var(--color-ink-faint);
+  line-height: 1.9;
+  margin: 0.8rem 0 2rem;
+  padding: 0.8rem 1rem;
+  border: 1px dashed var(--color-rule);
+  border-radius: 4px;
+}
+.classic-themes-planned strong { color: var(--color-ink-soft); font-weight: 600; }
+.classic-body .classic-lens {
+  background: var(--color-paper-warm);
+  border-left: 3px solid var(--color-accent);
+  border-radius: 0 4px 4px 0;
+  padding: 0.8rem 1.2rem;
+  margin: 1.6rem 0;
+  font-size: 1rem;
+}
+.classic-body .classic-lens p { margin: 0.4rem 0; }
+.classic-body .classic-lens strong { color: var(--color-accent); }
