@@ -46,11 +46,11 @@
      crossorigin="anonymous"></script>
 
   <!-- Favicon & social image -->
-  <link rel="icon" href="../../assets/favicon.ico" sizes="any">
-  <link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png">
+  <link rel="icon" href="{{ROOT}}assets/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="{{ROOT}}assets/apple-touch-icon.png">
   <meta property="og:image" content="https://cathaytales.com/assets/og-image.png">
 
-  <link rel="stylesheet" href="../../assets/style.css">
+  <link rel="stylesheet" href="{{ROOT}}assets/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+SC:wght@400;500;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
@@ -67,8 +67,8 @@
 <body class="classics-page">
   <header class="site-header">
     <div class="container">
-      <a href="../../" class="brand">
-        <img class="brand-mark" src="../../assets/brand-fox.jpg?v=3" alt="Cathay Tales — black fox under a red sun">
+      <a href="{{ROOT}}" class="brand">
+        <img class="brand-mark" src="{{ROOT}}assets/brand-fox.jpg?v=3" alt="Cathay Tales — black fox under a red sun">
         <span class="brand-text">
           <span class="brand-en">Cathay Tales</span>
           <span class="brand-zh">古书 Classical Chinese Texts · 中文精读整理</span>
@@ -81,11 +81,11 @@
   <main class="container">
     <article class="classic-article">
       <nav class="classic-breadcrumb" aria-label="面包屑">
-        <a href="../../classics/">古书</a> <span>·</span> <a href="./">《{{BOOK_TITLE}}》</a>
+        <a href="{{ROOT}}classics/">古书</a> <span>·</span> <a href="{{BOOK_LINK}}">《{{BOOK_TITLE}}》</a>
       </nav>
 
       <div class="classic-meta-top">
-        <span class="classic-label">古书 · 精读</span>
+        <span class="classic-label">古书 · {{LABEL}}</span>
         <a class="classic-book-link" href="./">《{{BOOK_TITLE}}》</a>
         <time datetime="{{DATE}}">{{SOURCE}}</time>
         <span class="classic-reading-time">约 {{READING_TIME}} 分钟读完</span>
@@ -116,7 +116,7 @@
 
         <p class="cta">
           <strong>想看英文故事？</strong>
-          <a href="../../">Cathay Tales 故事板块</a>把中国古典志怪、传奇译成英文，每周更新。
+          <a href="{{ROOT}}">Cathay Tales 故事板块</a>把中国古典志怪、传奇译成英文，每周更新。
         </p>
       </div>
     </article>
@@ -131,7 +131,7 @@
   <footer class="site-footer">
     <div class="container">
       <p>© 2026 Cathay Tales. 古书整理文字以 <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> 协议发布；典籍原文属公有领域。</p>
-      <p class="footer-links"><a href="../../">故事 · Tales</a> · <a href="../../classics/">古书目录</a> · <a href="../../about">About</a> · <a href="../../contact">Contact</a></p>
+      <p class="footer-links"><a href="{{ROOT}}">故事 · Tales</a> · <a href="{{ROOT}}classics/">古书目录</a> · <a href="{{ROOT}}about">About</a> · <a href="{{ROOT}}contact">Contact</a></p>
       <p class="footer-zh">山有狐，月正红。</p>
     </div>
   </footer>
