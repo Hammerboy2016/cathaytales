@@ -24,6 +24,8 @@ const DIST_DIR = path.join(ROOT, 'dist');
 const DIST_POSTS_DIR = path.join(DIST_DIR, 'posts');
 const DIST_HUBS_DIR = path.join(DIST_DIR, 'hubs');
 const DIST_ESSAYS_DIR = path.join(DIST_DIR, 'essays');
+const CLASSICS_DIR = path.join(ROOT, 'classics');
+const DIST_CLASSICS_DIR = path.join(DIST_DIR, 'classics');
 const DIST_ASSETS_DIR = path.join(DIST_DIR, 'assets');
 
 // ---------- marked: enable footnotes via custom extension ----------
@@ -310,19 +312,26 @@ function seriesAnchor(seriesSlug) {
   return `../index.html#series-list`;
 }
 
-// 渲染 hub 双轴主导航（第一行 6 hub，第二行 utility）
-// pathPrefix: "" for /index.html /hubs /static 同级；"../" for /posts/* /hubs/*
-function renderHubNav(pathPrefix = '') {
-  const p = pathPrefix;
+// 渲染主导航：第一行两大板块（故事/古书），第二行 6 个故事主题，第三行 utility
+// rootPrefix: 到站点根的相对前缀（""/"../"/"../../"）
+// activeSection: "" = 故事区（默认），"classics" = 古书区（隐藏英文故事主题行）
+function renderHubNav(rootPrefix = '', activeSection = '') {
+  const p = rootPrefix;
+  const talesCurrent = activeSection === '' ? ' aria-current="page"' : '';
+  const classicsCurrent = activeSection === 'classics' ? ' aria-current="page"' : '';
   const hubLinks = HUBS.map(h =>
     `        <a href="${p}hubs/${h.slug}">${escapeHtml(h.nav_label)}</a>`
   ).join('\n');
-  return `<nav class="site-nav" aria-label="Main navigation">
-      <div class="nav-hubs" aria-label="Tale themes">
+  const hubRow = activeSection === 'classics' ? '' : `      <div class="nav-hubs" aria-label="Tale themes">
 ${hubLinks}
       </div>
-      <div class="nav-utility" aria-label="Site pages">
-        <a href="${p}">All Tales</a>
+`;
+  return `<nav class="site-nav" aria-label="Main navigation">
+      <div class="nav-sections" aria-label="Site sections">
+        <a href="${p}"${talesCurrent}>Tales<span class="nav-zh">故事</span></a>
+        <a href="${p}classics/"${classicsCurrent}>Classics<span class="nav-zh">古书</span></a>
+      </div>
+${hubRow}      <div class="nav-utility" aria-label="Site pages">
         <a href="${p}essays/">Essays</a>
         <a href="${p}about">About</a>
         <a href="${p}#subscribe">Subscribe</a>
@@ -747,6 +756,238 @@ ${list}
   fs.writeFileSync(path.join(DIST_ESSAYS_DIR, 'index.html'), html);
 }
 
+// ---------- Classics （古书 · 中文精读） ----------
+function isoDate(d) {
+  const dt = (d instanceof Date) ? d : new Date(d);
+  return dt.toISOString().slice(0, 10);
+}
+
+// 古书中文页的共享 HTML 外壳（列表页用；文章页用 templates/classic.html）
+function classicsPageHtml({ rootPrefix, title, description, mainHtml }) {
+  return `<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>${title} · Cathay Tales 古书</title>
+  <meta name="description" content="${description}">
+  <meta name="author" content="Cathay Tales">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="${title}">
+  <meta property="og:description" content="${description}">
+  <meta property="og:site_name" content="Cathay Tales 古书 · 中文经典精读">
+  <meta property="og:image" content="https://cathaytales.com/assets/og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="${title}">
+  <meta name="twitter:description" content="${description}">
+  <meta name="twitter:image" content="https://cathaytales.com/assets/og-image.png">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7452174054733876" crossorigin="anonymous"></script>
+  <link rel="icon" href="${rootPrefix}assets/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="${rootPrefix}assets/apple-touch-icon.png">
+  <link rel="stylesheet" href="${rootPrefix}assets/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+SC:wght@400;500;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S60FWRGXNY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-S60FWRGXNY');
+  </script>
+</head>
+<body class="classics-page">
+  <header class="site-header">
+    <div class="container">
+      <a href="${rootPrefix}" class="brand">
+        <img class="brand-mark" src="${rootPrefix}assets/brand-fox.jpg?v=3" alt="Cathay Tales — black fox under a red sun">
+        <span class="brand-text">
+          <span class="brand-en">Cathay Tales</span>
+          <span class="brand-zh">古书 Classical Chinese Texts · 中文精读整理</span>
+        </span>
+      </a>
+      ${renderHubNav(rootPrefix, 'classics')}
+    </div>
+  </header>
+  <main class="container">
+${mainHtml}
+  </main>
+  <a class="kofi-float" href="https://ko-fi.com/cathaytales" target="_blank" rel="noopener" aria-label="Support Cathay Tales on Ko-fi">
+    <span class="kofi-float-emoji">🍵</span>
+    <span class="kofi-float-text">Tip</span>
+  </a>
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 Cathay Tales. 古书整理文字以 <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> 协议发布；典籍原文属公有领域。</p>
+      <p class="footer-links"><a href="${rootPrefix}">故事 · Tales</a> · <a href="${rootPrefix}classics/">古书目录</a> · <a href="${rootPrefix}about">About</a> · <a href="${rootPrefix}contact">Contact</a></p>
+      <p class="footer-zh">山有狐，月正红。</p>
+    </div>
+  </footer>
+</body>
+</html>
+`;
+}
+
+function buildClassicPage(filePath, template, book, excerpts, index) {
+  resetFootnotes();
+  const raw = fs.readFileSync(filePath, 'utf8');
+  const { data: meta, content } = matter(raw);
+  const required = ['title', 'slug', 'date', 'source', 'seo_description'];
+  for (const k of required) {
+    if (!meta[k]) throw new Error(`Classic ${path.basename(filePath)} missing required frontmatter: ${k}`);
+  }
+  let bodyHtml = marked.parse(content);
+  bodyHtml += renderFootnoteSection();
+  bodyHtml = bodyHtml.replace(/^\s*<h1[^>]*>[\s\S]*?<\/h1>\s*/, '');
+
+  const charCount = content.replace(/\s/g, '').length;
+  const readingTime = meta.reading_time || Math.max(4, Math.round(charCount / 400));
+
+  const prev = excerpts[index - 1];
+  const next = excerpts[index + 1];
+  const pager = [
+    prev
+      ? `<a class="classic-pager-prev" href="${prev.slug}"><span class="pager-dir">← 上一篇</span><span class="pager-title">${escapeHtml(prev.title)}</span></a>`
+      : '<span></span>',
+    `<a class="classic-pager-toc" href="./"><span class="pager-dir">目录</span><span class="pager-title">《${escapeHtml(book.book_title)}》</span></a>`,
+    next
+      ? `<a class="classic-pager-next" href="${next.slug}"><span class="pager-dir">下一篇 →</span><span class="pager-title">${escapeHtml(next.title)}</span></a>`
+      : '<span></span>',
+  ].join('\n        ');
+
+  const html = applyTemplate(template, {
+    TITLE: escapeHtml(meta.title),
+    SUBTITLE: escapeHtml(meta.subtitle || ''),
+    SEO_DESCRIPTION: escapeHtml(meta.seo_description),
+    SOURCE: escapeHtml(meta.source),
+    BOOK_TITLE: escapeHtml(book.book_title),
+    BOOK_SLUG: escapeHtml(book.book_slug),
+    DATE: String(meta.date),
+    READING_TIME: String(readingTime),
+    CONTENT: bodyHtml,
+    HUB_NAV: renderHubNav('../../', 'classics'),
+    PAGER: pager,
+  });
+
+  const outDir = path.join(DIST_CLASSICS_DIR, book.book_slug);
+  ensureDir(outDir);
+  fs.writeFileSync(path.join(outDir, `${meta.slug}.html`), html);
+}
+
+function buildBookIndex(book, introMarkdown, excerpts) {
+  const introHtml = marked.parse(introMarkdown);
+  const list = excerpts.map((e, i) => `        <li>
+          <a href="${e.slug}">
+            <span class="excerpt-index">${String(i + 1).padStart(2, '0')}</span>
+            <span class="excerpt-title">${escapeHtml(e.title)}</span>
+            <span class="excerpt-sub">${escapeHtml(e.subtitle || '')}</span>
+            <span class="excerpt-source">${escapeHtml(e.source || '')}</span>
+          </a>
+        </li>`).join('\n');
+  const mainHtml = `    <article class="classic-book">
+      <nav class="classic-breadcrumb" aria-label="面包屑">
+        <a href="../../classics/">古书</a>
+      </nav>
+      <div class="classic-book-header">
+        <span class="classic-label">古书 · 精读</span>
+        <h1>《${escapeHtml(book.book_title)}》</h1>
+        <p class="classic-book-era">${escapeHtml(book.era || '')}</p>
+        <p class="classic-deck">${escapeHtml(book.deck || '')}</p>
+      </div>
+      <div class="classic-book-intro">
+${introHtml}
+      </div>
+      <h2>节选目录</h2>
+      <ol class="classic-excerpt-list">
+${list}
+      </ol>
+    </article>`;
+  const html = classicsPageHtml({
+    rootPrefix: '../../',
+    title: `《${book.book_title}》节选精读`,
+    description: book.deck || `《${book.book_title}》精读整理：原文、注释、白话与导读。`,
+    mainHtml,
+  });
+  ensureDir(path.join(DIST_CLASSICS_DIR, book.book_slug));
+  fs.writeFileSync(path.join(DIST_CLASSICS_DIR, book.book_slug, 'index.html'), html);
+}
+
+function buildClassicsIndex(books) {
+  const cards = books.map(b => `      <a class="classic-book-card" href="${b.book_slug}/">
+        <h2>《${escapeHtml(b.book_title)}》</h2>
+        <p class="book-era">${escapeHtml(b.era || '')}</p>
+        <p class="book-deck">${escapeHtml(b.deck || '')}</p>
+        <p class="book-count">已整理 ${b.excerptCount} 篇 · 进入全书 →</p>
+      </a>`).join('\n');
+  const mainHtml = `    <section class="classics-list-page">
+      <h1>古书 · Classics</h1>
+      <p class="classics-list-lead">不从头啃原典。这里把中国典籍中最值得精读的段落挑出来，按论点分段整理：<strong>原文精校 · 简注 · 白话大意 · 背景导读</strong>，每篇独立可读，十几分钟读完一段两千年来反复被引用的文字。</p>
+      <p class="classics-list-lead">英文故事板块在<a href="../">这里</a>。</p>
+${cards}
+      <p class="classics-list-note">更多古书整理中。</p>
+    </section>`;
+  const html = classicsPageHtml({
+    rootPrefix: '../',
+    title: '古书目录',
+    description: '中国典籍精读整理：《资治通鉴》等古书的精选段落，原文、注释、白话与导读，每篇独立可读。',
+    mainHtml,
+  });
+  ensureDir(DIST_CLASSICS_DIR);
+  fs.writeFileSync(path.join(DIST_CLASSICS_DIR, 'index.html'), html);
+}
+
+function buildClassics(template) {
+  if (!fs.existsSync(CLASSICS_DIR)) return [];
+  const sitemapEntries = [];
+  const bookSummaries = [];
+  const today = new Date().toISOString().slice(0, 10);
+  for (const dir of fs.readdirSync(CLASSICS_DIR)) {
+    const bookPath = path.join(CLASSICS_DIR, dir);
+    if (!fs.statSync(bookPath).isDirectory()) continue;
+    const bookMdPath = path.join(bookPath, '_book.md');
+    if (!fs.existsSync(bookMdPath)) throw new Error(`Classics dir ${dir} missing _book.md`);
+    const bookRaw = matter(fs.readFileSync(bookMdPath, 'utf8'));
+    const bm = bookRaw.data;
+    const book = {
+      book_slug: bm.book_slug || dir,
+      book_title: bm.book_title || dir,
+      era: bm.era || '',
+      deck: bm.deck || '',
+    };
+    const excerptFiles = fs.readdirSync(bookPath)
+      .filter(f => f.endsWith('.md') && f !== '_book.md')
+      .sort();
+    const excerpts = excerptFiles.map(f => {
+      const fp = path.join(bookPath, f);
+      const { data: meta } = matter(fs.readFileSync(fp, 'utf8'));
+      return {
+        file: fp,
+        slug: meta.slug,
+        title: meta.title,
+        subtitle: meta.subtitle || '',
+        source: meta.source || '',
+        date: meta.date,
+        order: Number(meta.order) || 0,
+      };
+    }).sort((a, b) => (a.order - b.order) || (a.date < b.date ? -1 : 1));
+
+    excerpts.forEach((ex, i) => {
+      buildClassicPage(ex.file, template, book, excerpts, i);
+      sitemapEntries.push({
+        loc: `${SITE_URL}/classics/${book.book_slug}/${ex.slug}`,
+        lastmod: isoDate(ex.date),
+        priority: '0.7',
+      });
+    });
+    buildBookIndex(book, bookRaw.content, excerpts);
+    sitemapEntries.push({ loc: `${SITE_URL}/classics/${book.book_slug}/`, lastmod: today, priority: '0.65' });
+    bookSummaries.push({ ...book, excerptCount: excerpts.length });
+  }
+  buildClassicsIndex(bookSummaries);
+  sitemapEntries.push({ loc: `${SITE_URL}/classics/`, lastmod: today, priority: '0.7' });
+  return sitemapEntries;
+}
+
 function copyAssets() {
   ensureDir(DIST_ASSETS_DIR);
   for (const file of fs.readdirSync(ASSETS_DIR)) {
@@ -766,7 +1007,7 @@ function copyStatic() {
 
 const SITE_URL = 'https://cathaytales.com';
 
-function buildSitemap(posts, essays = []) {
+function buildSitemap(posts, essays = [], classicUrls = []) {
   const today = new Date().toISOString().slice(0, 10);
   const isoDate = (d) => {
     const dt = (d instanceof Date) ? d : new Date(d);
@@ -792,6 +1033,7 @@ function buildSitemap(posts, essays = []) {
       lastmod: isoDate(e.date),
       priority: '0.85',
     })),
+    ...classicUrls,
     ...posts.filter(p => !p.noindex).map(p => ({
       loc: `${SITE_URL}/${p.outPath.replace(/\.html$/, '')}`,
       lastmod: isoDate(p.date),
@@ -878,6 +1120,7 @@ function main() {
   ensureDir(DIST_POSTS_DIR);
   ensureDir(DIST_HUBS_DIR);
   ensureDir(DIST_ESSAYS_DIR);
+  ensureDir(DIST_CLASSICS_DIR);
   copyAssets();
   copyStatic();
 
@@ -885,6 +1128,7 @@ function main() {
   const indexTemplate = fs.readFileSync(path.join(TEMPLATES_DIR, 'index.html'), 'utf8');
   const hubTemplate = fs.readFileSync(path.join(TEMPLATES_DIR, 'hub.html'), 'utf8');
   const essayTemplate = fs.readFileSync(path.join(TEMPLATES_DIR, 'essay.html'), 'utf8');
+  const classicTemplate = fs.readFileSync(path.join(TEMPLATES_DIR, 'classic.html'), 'utf8');
 
   const postFiles = fs.readdirSync(POSTS_DIR).filter(f => f.endsWith('.md'));
   // Pass 1: build to collect metadata (no Related Tales yet)
@@ -907,13 +1151,16 @@ function main() {
     : [];
   if (essays.length) buildEssaysIndex(essays);
 
+  // Classics （古书 · 中文精读）
+  const classicUrls = buildClassics(classicTemplate);
+
   buildIndex(posts, indexTemplate);
   buildHubs(posts, hubTemplate);
-  buildSitemap(posts, essays);
+  buildSitemap(posts, essays, classicUrls);
   buildRobots();
   buildRSS(posts);
 
-  console.log(`✓ Built ${posts.length} post(s) + ${HUBS.length} hub(s) + ${essays.length} essay(s)`);
+  console.log(`✓ Built ${posts.length} post(s) + ${HUBS.length} hub(s) + ${essays.length} essay(s) + ${classicUrls.length} classics page(s)`);
   console.log(`✓ Output: ${DIST_DIR}`);
 }
 
