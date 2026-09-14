@@ -1,35 +1,28 @@
 # GA4 Daily Report (auto-generated)
-# Generated: 2026-09-07 08:06:29 CST
-# Workflow run: 34068727532
+# Generated: 2026-09-14 08:18:07 CST
+# Workflow run: 34792253605
 # Source: .github/workflows/ga4-daily.yml
 # ---
 ============================================================
   Cathay Tales GA4 数据简报
   Property ID: 540045995
-  日期范围: 2026-08-09 ~ 2026-09-07
+  日期范围: 2026-08-16 ~ 2026-09-14
 ============================================================
 
-📊 概览 (2026-08-09 ~ 2026-09-07)
+📊 概览 (2026-08-16 ~ 2026-09-14)
 ------------------------------------------------------------
-  活跃用户 (Active Users)     : 230
-  新用户 (New Users)          : 227
-  会话数 (Sessions)           : 244
-  页面浏览 (Page Views)       : 277
-  每会话 PV (Pages/Session)   : 1.14
-  人均参与时长                 : 14.9 秒 (0.2 分)
-  参与率 (Engagement Rate)    : 16.8%
-  跳出率 (Bounce Rate)        : 83.2%
+  活跃用户 (Active Users)     : 233
+  新用户 (New Users)          : 232
+  会话数 (Sessions)           : 255
+  页面浏览 (Page Views)       : 295
+  每会话 PV (Pages/Session)   : 1.16
+  人均参与时长                 : 17.8 秒 (0.3 分)
+  参与率 (Engagement Rate)    : 19.6%
+  跳出率 (Bounce Rate)        : 80.4%
 
-📈 每日趋势 (2026-08-09 ~ 2026-09-07)
+📈 每日趋势 (2026-08-16 ~ 2026-09-14)
 ------------------------------------------------------------
   日期                 活跃      新用户       会话       PV
-  2026-08-09          5        5        7        5
-  2026-08-10          1        1        1        1
-  2026-08-11          1        1        2        2
-  2026-08-12          1        1        1        1
-  2026-08-13          3        3        3        3
-  2026-08-14          5        5        5        5
-  2026-08-15         12       13       12       13
   2026-08-16          5        5        5        5
   2026-08-17          2        2        3        3
   2026-08-18          5        5        5        5
@@ -51,218 +44,228 @@
   2026-09-03          5        5        5        5
   2026-09-04          5        5        5        5
   2026-09-05          6        5        8       19
-  2026-09-06          4        1        6       11
-  2026-09-07          1        0        1        0
+  2026-09-06          4        3        6       13
+  2026-09-07          5        5        5        5
+  2026-09-08          4        4        6        7
+  2026-09-09          9        9       12       11
+  2026-09-10          3        3        4        5
+  2026-09-11          3        3        4        4
+  2026-09-12          1        1        2        2
+  2026-09-13          5        5        7        9
+  2026-09-14          2        2        3        3
 
-📄 Top 10 页面 (2026-08-09 ~ 2026-09-07)
+📄 Top 10 页面 (2026-08-16 ~ 2026-09-14)
 ------------------------------------------------------------
    1. /
       Cathay Tales — Classical Chinese Tales i
-      PV=75  独立访客=69  人均停留=5s
+      PV=66  独立访客=60  人均停留=6s
    2. /posts/the-young-man-who-sold-a-ghost
       The Young Man Who Sold a Ghost at the Ma
-      PV=16  独立访客=13  人均停留=32s
+      PV=20  独立访客=14  人均停留=57s
    3. /hubs/fox-spirits
       Chinese Fox Spirits & Shapeshifters — Cl
       PV=14  独立访客=13  人均停留=15s
-   4. /hubs/karma-and-retribution
-      Chinese Tales of Karma & Retribution — C
-      PV=8  独立访客=8  人均停留=12s
-   5. /classics/zizhi-tongjian/
+   4. /classics/zizhi-tongjian/
       《资治通鉴》节选精读 · Cathay Tales 古书
-      PV=7  独立访客=1  人均停留=93s
+      PV=7  独立访客=1  人均停留=97s
+   5. /hubs/karma-and-retribution
+      Chinese Tales of Karma & Retribution — C
+      PV=7  独立访客=7  人均停留=11s
    6. /posts/the-cat-that-grew-fangs-in-the-moonlight
       The Cat That Grew Fangs in the Moonlight
       PV=7  独立访客=7  人均停留=12s
    7. /posts/the-man-who-carried-a-letter-to-the-dragon-king
       The Man Who Carried a Letter to the Drag
       PV=7  独立访客=7  人均停留=0s
-   8. /posts/the-painted-skin
-      The Beauty Wearing a Painted Skin: A Qin
-      PV=7  独立访客=4  人均停留=0s
-   9. /posts/the-girl-who-came-at-night-and-left-before-dawn
+   8. /classics/
+      古书目录 · Cathay Tales 古书
+      PV=6  独立访客=2  人均停留=13s
+   9. /classics/zizhi-tongjian/cai-de
+      才德论：宁用愚人，不用小人 · 《资治通鉴》精读
+      PV=6  独立访客=1  人均停留=0s
+  10. /posts/the-girl-who-came-at-night-and-left-before-dawn
       The Girl Who Came at Night and Left Befo
-      PV=6  独立访客=6  人均停留=0s
-  10. /posts/the-soul-that-walked-out-the-door
-      The Soul That Walked Out the Door: A Tan
       PV=6  独立访客=6  人均停留=0s
 
 ⭐ Top 20 页面参与度（按总停留时长排）
 ----------------------------------------------------------------------
   路径                                              PV   UV       人均      跳出率      质量分
   /posts/the-philosopher-who-faked-his-death-t     1    1  964.0s    0.0% 🔥 90.3
-  /posts/the-young-man-who-sold-a-ghost           16   13   32.3s   84.6% 🔻  4.2
-  /                                               75   69    5.4s   79.5% 🔻  2.5
+  /posts/the-young-man-who-sold-a-ghost           20   14   56.7s   87.5% ✓   6.0
+  /                                               66   60    6.2s   75.0% 🔻  3.0
   /hubs/fox-spirits                               14   13   15.3s   61.5% ✓   5.1
-  /posts/nie-xiaoqian-the-ghost-bride              3    3   51.3s    0.0% 🔥 14.3
+  /posts/the-old-gardener-and-the-flower-spiri     4    4   47.0s   50.0% ✓   8.9
+  /posts/nie-xiaoqian-the-ghost-bride              4    4   38.5s   25.0% 🔥 10.7
   /posts/the-two-hundred-year-old-fox-who-refu     4    4   36.5s   50.0% ✓   8.0
   /posts/the-fox-bride-and-the-stolen-cup          1    1  144.0s    0.0% 🔥 22.0
-  /posts/the-fox-girl-who-laughed-at-everythin     1    1  126.0s    0.0% 🔥 20.5
-  /hubs/karma-and-retribution                      8    8   12.0s   62.5% 🔻  4.8
-  /classics/zizhi-tongjian/                        7    1   93.0s   60.0% 🔥 11.8
+  /posts/the-fox-girl-who-laughed-at-everythin     3    3   42.3s   66.7% ✓   6.9
+  /classics/zizhi-tongjian/                        7    1   97.0s    0.0% 🔥 18.1
+  /posts/the-night-the-foxes-tried-to-saw-down     3    3   31.7s   66.7% ✓   6.0
   /posts/the-cat-that-grew-fangs-in-the-moonli     7    7   11.7s   57.1% ✓   5.3
-  /classics/zizhi-tongjian/themes/succession       4    1   78.0s  100.0% ✓   6.5
+  /hubs/karma-and-retribution                      7    7   11.3s   71.4% 🔻  3.8
+  /classics/zizhi-tongjian/themes/succession       4    1   78.0s    0.0% 🔥 16.5
   /hubs/hauntings                                  4    4   18.2s    0.0% 🔥 11.5
   /posts/the-couple-who-became-mandarin-ducks      1    1   42.0s    0.0% 🔥 13.5
-  /classics/zizhi-tongjian/themes/alliances        1    1   39.0s  100.0% 🔻  3.2
+  /classics/zizhi-tongjian/themes/alliances        1    1   39.0s    0.0% 🔥 13.2
+  /posts/the-bones-that-turned-black-after-bur     1    1   37.0s    0.0% 🔥 13.1
   /posts/the-burned-body-whose-throat-held-no-     2    2   17.5s   50.0% ✓   6.5
-  /posts/the-fox-that-feared-a-peasant-maid        3    3   10.7s   66.7% 🔻  4.2
-  /classics/zizhi-tongjian/ming-fen                1    1   30.0s   50.0% ✓   7.5
-  /posts/the-magistrate-who-climbed-down-into-     2    2   14.0s   50.0% ✓   6.2
-  /posts/the-scholar-who-died-to-take-the-exam     3    3    8.0s   66.7% 🔻  4.0
+  /posts/the-painted-skin                          6    4    8.2s   66.7% 🔻  4.0
 
 🛬 Top 15 着陆页（用户进站第一页 = SEO/外链入口）
 ----------------------------------------------------------------------
   路径                                                会话     用户      参与率       人均
-  /                                                 67     66   16.4%   12.3s
-  /posts/the-young-man-who-sold-a-ghost             13     13   15.4%   34.2s
+  /                                                 59     58   20.3%   14.9s
+  /posts/the-young-man-who-sold-a-ghost             16     14   12.5%   31.5s
   /hubs/fox-spirits                                 10     10   20.0%    2.1s
   /posts/the-man-who-carried-a-letter-to-the-d       7      7    0.0%    0.3s
-  /posts/the-painted-skin                            7      4    0.0%    0.0s
-  (unknown)                                          6      4    0.0%   40.8s
-  /hubs/karma-and-retribution                        6      6   16.7%    4.2s
+  /classics/zizhi-tongjian/cai-de                    6      1    0.0%    0.0s
   /posts/the-girl-who-came-at-night-and-left-b       6      6    0.0%    0.0s
+  /posts/the-painted-skin                            6      4   33.3%    8.2s
   /posts/the-soul-that-walked-out-the-door           6      6    0.0%    0.0s
+  /hubs/karma-and-retribution                        5      5    0.0%    1.6s
   /posts/the-cat-that-grew-fangs-in-the-moonli       5      5   20.0%    2.2s
-  /posts/the-curly-bearded-stranger                  5      5    0.0%    0.0s
   /posts/the-fox-scholar-who-passed-the-immort       5      5   20.0%    2.8s
   (not set)                                          4      4    0.0%    0.0s
-  /posts/the-prince-who-tested-his-fathers-bon       4      4    0.0%    0.0s
-  /classics/zizhi-tongjian                           3      1   33.3%   78.0s
+  /posts/nie-xiaoqian-the-ghost-bride                4      4   75.0%   38.5s
+  /posts/the-jade-guanyin-who-chose-to-die           4      4    0.0%    0.0s
+  /posts/the-old-gardener-and-the-flower-spiri       4      4   50.0%   47.0s
 
-🚀 Top 10 流量来源 (2026-08-09 ~ 2026-09-07)
+🚀 Top 10 流量来源 (2026-08-16 ~ 2026-09-14)
 ------------------------------------------------------------
   来源 / 媒介                                   会话       用户       参与会话
-  (direct) / (none)                        186      186         18
-  google / organic                          26       21          8
-  bing / organic                             9        8          4
-  chatgpt.com / ai-assistant                 9        7          6
-  (not set) / (not set)                      6        4          0
-  medium.com / referral                      5        1          3
+  (direct) / (none)                        180      180         17
+  google / organic                          42       31         13
+  chatgpt.com / ai-assistant                12        9          8
+  bing / organic                             8        7          4
+  medium.com / referral                      6        1          6
+  (not set) / (not set)                      3        3          0
   duckduckgo / organic                       3        2          0
+  (data not available) / (data not a         2        2          0
   cn.bing.com / referral                     1        1          1
   ecosia.org / organic                       1        1          1
 
 🔗 真渠道细分（剔除 direct/google/(not set)）
 ----------------------------------------------------------------------
   来源                 媒介         落地页                              会话   用户       人均
-  chatgpt.com        ai-assist  /                                 6    5  125.2s
-  bing               organic    /                                 2    2    0.0s
+  chatgpt.com        ai-assist  /                                 7    6  109.3s
   bing               organic    /posts/the-disciple-who-wante     2    1    7.0s
-  medium.com         referral   /classics/zizhi-tongjian          2    1   56.0s
+  chatgpt.com        ai-assist  (not set)                         2    2    0.0s
+  medium.com         referral   /classics/zizhi-tongjian          2    1   87.0s
+  (data not availab  (data not  /posts/the-spendthrift-who-al     1    1    0.0s
+  (data not availab  (data not  /posts/the-young-man-who-sold     1    1    0.0s
 
-🔍 来源 × 国家交叉 (Top 20, 2026-08-09 ~ 2026-09-07)
+🔍 来源 × 国家交叉 (Top 20, 2026-08-16 ~ 2026-09-14)
 ----------------------------------------------------------------------
   来源                   国家                       会话     用户     参与       人均时长
-  (direct)             United States           110    110      1      0.4s
-  (direct)             Singapore                16     16     12      0.0s
-  (direct)             Brazil                   11     11      2      2.7s
-  google               United States             9      8      4     35.0s
-  (direct)             China                     8      8      0      2.2s
-  bing                 United States             6      5      2      4.2s
-  google               United Kingdom            5      2      0      2.0s
-  medium.com           United States             5      1      3    179.0s
+  (direct)             United States           104    104      1      0.4s
+  google               United States            17     10      5     37.5s
+  (direct)             Singapore                16     16     13      0.0s
+  (direct)             Brazil                   11     11      3      6.1s
+  (direct)             China                     8      8      0      1.8s
+  medium.com           United States             6      1      6    308.0s
+  (direct)             Vietnam                   5      5      3     14.4s
+  bing                 United States             5      4      2      5.2s
   (direct)             Germany                   4      4      0      0.2s
   (direct)             India                     4      4      0      0.0s
   (direct)             Romania                   4      4      0      5.8s
   (direct)             United Kingdom            4      4      0      0.8s
-  (direct)             Vietnam                   4      4      3     17.5s
+  google               Singapore                 4      3      1     93.0s
   (direct)             Colombia                  3      3      0      0.0s
-  (direct)             Pakistan                  3      3      2     10.3s
-  (not set)            United States             3      1      0    124.0s
-  google               Singapore                 3      2      1    139.5s
-  (direct)             (not set)                 2      2      2     13.5s
+  chatgpt.com          United States             3      1      1     14.0s
+  google               Indonesia                 3      2      1    482.0s
+  google               Philippines               3      3      1      1.3s
+  google               United Kingdom            3      2      2     94.0s
+  (direct)             (not set)                 2      2      1      6.5s
   (direct)             Argentina                 2      2      0      0.5s
-  (direct)             Dominican Republic        2      2      0      0.0s
 
-🌏 Top 10 国家 (2026-08-09 ~ 2026-09-07)
+🌏 Top 10 国家 (2026-08-16 ~ 2026-09-14)
 ------------------------------------------------------------
-   1. United States             用户=   124  会话=   132
-   2. Singapore                 用户=    18  会话=    19
-   3. Brazil                    用户=    11  会话=    11
-   4. China                     用户=    11  会话=    11
-   5. United Kingdom            用户=     8  会话=    11
-   6. Germany                   用户=     5  会话=     5
-   7. India                     用户=     4  会话=     4
-   8. Pakistan                  用户=     4  会话=     5
-   9. Romania                   用户=     4  会话=     4
-  10. Vietnam                   用户=     4  会话=     4
+   1. United States             用户=   121  会话=   136
+   2. Singapore                 用户=    19  会话=    21
+   3. Brazil                    用户=    12  会话=    12
+   4. China                     用户=    10  会话=    10
+   5. United Kingdom            用户=     7  会话=     8
+   6. Germany                   用户=     6  会话=     6
+   7. Vietnam                   用户=     6  会话=     6
+   8. Philippines               用户=     5  会话=     5
+   9. Canada                    用户=     4  会话=     4
+  10. India                     用户=     4  会话=     4
 
 👥 新 vs 老用户对比（粘性指标）
 ----------------------------------------------------------------------
   类型                  用户     会话    PV       人均时长     人均PV
-  new                225    225   247     13.5s     1.10
-  returning            7     12    26     48.3s     3.71
-  (unknown)            3      3     0     20.3s     0.00
-  (not set)            0      4     4      0.0s     0.00
+  new                231    234   259     16.4s     1.12
+  returning            8     13    27     42.9s     3.38
+  (unknown)            2      2     1      6.5s     0.50
+  (not set)            0      8     8      0.0s     0.00
 
-📱 设备分布 (2026-08-09 ~ 2026-09-07)
+📱 设备分布 (2026-08-16 ~ 2026-09-14)
 ------------------------------------------------------------
-  desktop      用户=   178 (77.1%)  会话=   186
-  mobile       用户=    50 (21.6%)  会话=    56
+  desktop      用户=   178 (76.1%)  会话=   191
+  mobile       用户=    53 (22.6%)  会话=    62
   tablet       用户=     3 (1.3%)  会话=     3
 
 🕐 24 小时流量分布（UTC，北京时间 +8）
 ----------------------------------------------------------------------
    UTC    北京    用户    会话   PV  柱状(PV)
-     0    8:00    11    11   12  ████████████████
-     1    9:00    16    16   16  █████████████████████
-     2   10:00    10    11   10  █████████████
-     3   11:00     5     5    6  ████████
-     4   12:00    12    12   13  █████████████████
-     5   13:00     9     9    9  ████████████
-     6   14:00    15    15   17  ███████████████████████
-     7   15:00     8     8    8  ██████████
-     8   16:00     5     5    3  ████
-     9   17:00    14    14   22  ██████████████████████████████
-    10   18:00     6     7    7  █████████
-    11   19:00     8     8    8  ██████████
-    12   20:00    14    14   19  █████████████████████████
-    13   21:00     8     8   15  ████████████████████
-    14   22:00    15    15   15  ████████████████████
-    15   23:00    13    13   13  █████████████████
-    16    0:00    10    10   13  █████████████████
-    17    1:00     9     9    9  ████████████
-    18    2:00     5     6    6  ████████
-    19    3:00    11    11   13  █████████████████
-    20    4:00    10    11   15  ████████████████████
-    21    5:00    10    11   10  █████████████
-    22    6:00    12    12   11  ███████████████
-    23    7:00     7     7    7  █████████
+     0    8:00    13    13   15  ██████████████████████
+     1    9:00    16    16   16  ████████████████████████
+     2   10:00    15    15   15  ██████████████████████
+     3   11:00     7     8    9  █████████████
+     4   12:00    13    14   15  ██████████████████████
+     5   13:00     8     8    8  ████████████
+     6   14:00    15    15   17  █████████████████████████
+     7   15:00     9    10   10  ███████████████
+     8   16:00     5     5    4  ██████
+     9   17:00    11    12   20  ██████████████████████████████
+    10   18:00     6     8    8  ████████████
+    11   19:00     7     7    7  ██████████
+    12   20:00    11    11   17  █████████████████████████
+    13   21:00    10    10   19  ████████████████████████████
+    14   22:00    15    15   14  █████████████████████
+    15   23:00    13    13   13  ███████████████████
+    16    0:00    10    10   13  ███████████████████
+    17    1:00     9     9    9  █████████████
+    18    2:00     4     6    6  █████████
+    19    3:00    11    11   14  █████████████████████
+    20    4:00    10    13   17  █████████████████████████
+    21    5:00    12    12   12  ██████████████████
+    22    6:00    13    13   11  ████████████████
+    23    7:00     6     6    6  █████████
 
 📅 周几流量分布（0=周日, 6=周六）
 ----------------------------------------------------------------------
   星期        用户    会话    PV       人均时长  柱状(PV)
-  周日        29    33    38     56.9s  ████████████████
-  周一        15    17    16      9.3s  ███████
-  周二        14    15    16     13.9s  ███████
-  周三        39    39    48     15.0s  █████████████████████
-  周四        47    48    53      3.1s  ███████████████████████
-  周五        45    47    49     11.9s  █████████████████████
-  周六        43    45    57      4.2s  █████████████████████████
+  周日        29    33    44     70.6s  ██████████████████
+  周一        20    23    23      7.6s  █████████
+  周二        17    19    21     14.2s  █████████
+  周三        47    50    58     14.6s  █████████████████████████
+  周四        47    49    55      4.5s  ███████████████████████
+  周五        43    46    48     16.0s  ████████████████████
+  周六        32    35    46      4.0s  ███████████████████
 
 🎯 增长信号分析（旺财自动总结）
 ----------------------------------------------------------------------
 
   🔥 应该放大（高质量+有流量，质量分≥10）：
-    /posts/nie-xiaoqian-the-ghost-bride                质量14.3 停留51s PV3
+    /posts/nie-xiaoqian-the-ghost-bride                质量10.7 停留38s PV4
 
   🔻 哑火警告（流量有但质量低，需复盘标题/开篇/选材）：
-    /posts/the-young-man-who-sold-a-ghost              质量4.2 停留32s PV16
     /posts/the-man-who-carried-a-letter-to-the-dragon- 质量0.0 停留0s PV7
-    /posts/the-painted-skin                            质量0.0 停留0s PV7
     /posts/the-girl-who-came-at-night-and-left-before- 质量0.0 停留0s PV6
+    /posts/the-painted-skin                            质量4.0 停留8s PV6
     /posts/the-soul-that-walked-out-the-door           质量0.0 停留0s PV6
+    /posts/the-fox-scholar-who-passed-the-immortal-exa 质量2.2 停留3s PV5
 
   💎 潜力股（质量高但流量低，应外推到 Medium/Reddit）：
-    /posts/nie-xiaoqian-the-ghost-bride                质量14.3 停留51s PV3
+    /posts/nie-xiaoqian-the-ghost-bride                质量10.7 停留38s PV4
 
   🗂️  Hub 引流健康度：
     /hubs/fox-spirits                                  PV14 UV13 停留15s
-    /hubs/karma-and-retribution                        PV8 UV8 停留12s
+    /hubs/karma-and-retribution                        PV7 UV7 停留11s
     /hubs/hauntings                                    PV4 UV4 停留18s
     /hubs/afterlife-and-underworld                     PV3 UV3 停留7s
+    /hubs/love-across-death                            PV3 UV2 停留0s
     /hubs/taoist-marvels                               PV3 UV3 停留2s
-    /hubs/love-across-death                            PV1 UV1 停留0s
 
 ============================================================
