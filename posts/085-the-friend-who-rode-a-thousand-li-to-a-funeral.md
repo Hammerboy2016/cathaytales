@@ -11,7 +11,6 @@ dynasty: "Han"
 tags: ["friendship", "Han dynasty", "Eastern Han", "Gan Bao", "Soushen Ji", "Fan Shi", "Zhang Shao", "Juqing", "Yuanbo", "loyalty", "trust across death", "Chinese folktale", "Six Dynasties", "funeral", "soul", "taixue"]
 excerpt: "Two young men met at the imperial university and became friends. When they parted, one promised to visit in two years' time — and named the very day. On that morning, the other's mother set out chicken and millet wine, and a thousand li away a man got on his horse. Years later, when one of them died, his coffin would not move at the grave — until a white carriage and a white horse came over the horizon. The Chinese word for this kind of friend is 'dead-friend' (死友)."
 seo_description: "A classical Chinese tale of loyalty by Gan Bao, retold: two Han-dynasty scholars swear friendship at the imperial university, keep a promise to the day across a thousand li, and when one dies, his coffin waits at the open grave for the friend who swore to see him buried — the Chinese archetype of the 'dead-friend' (死友)."
-scheduled: "11:15"
 ---
 
 # The Friend Who Rode a Thousand Li to a Funeral / 范式张劭
@@ -142,9 +141,6 @@ The second is harder to see, and it is the reason I keep coming back to this sto
 
 I have buried no one across a thousand *li*. But I have made the small versions of these promises, and broken some, and I think most of us have. The story does not condemn that. It simply shows the far end of the road that the small promises are on — and says that a human being can, in fact, walk to the end of it.
 
-<details>
-<summary>Notes & Annotations (footnotes)</summary>
-
 [^taixue]: **The imperial university (太学).** The *tàixué* in Luoyang was, by the Latter Han (Eastern Han, 25–220 CE), the largest educational institution of the ancient world before the European universities of the Middle Ages; a famous memorial of 146 CE records over thirty thousand students. Students were recommended from the commanderies and gathered there to study the Five Classics under *bóshì* (博士, "erudites") of the court. Provincial boys sent up together frequently formed bonds of 友 (*yǒu*) — friendship as a formal moral relation in Confucian ethics — that were meant, like marriage, to structure an entire adult life. Fan Shi and Zhang Shao, meeting in this enormous, anonymous institution and forging one of the canonical friendships of Chinese history, are a study in what such a place could occasionally produce.
 
 [^jishu]: **The chicken and the millet (鸡黍).** The phrase *jī shǔ* — fatted chicken and new-crop millet — denotes the best meal a farming household of the Han could set out, and was reserved for the most honored seasonal guest. The festival context is the harvest gathering of the ninth lunar month. Note the structure of the mother's doubt and its resolution: she does not argue the abstract question of whether promises should be kept. She argues the empirical question of whether *this particular young man, that far away, over that much silence*, will really appear. Her concession — "I'll make the wine for your sake" — is itself an act of faith: she feeds the guest to honor her son's trust, before she has any evidence that the trust is deserved. When Fan Shi in fact arrives, the moment vindicates two people at once: the friend who came, and the son who believed he would.
@@ -152,12 +148,10 @@ I have buried no one across a thousand *li*. But I have made the small versions 
 [^dream]: **The dream summons (托梦).** The motif of the dead appearing to a distant loved one in a dream to announce the funeral — *tuō mèng* (托梦), "entrusting a message through a dream" — is one of the most durable structures in Chinese ghost narrative, recurring in tales and local customs down to modern times. What is unusual here is the exact, practical content of Zhang Shao's message: he names the day of his death and the hour of his burial, functioning less as an omen than as a burial summons to the one man with the standing to receive it. Fan Shi's response — dressing in mourning before he has any waking confirmation — is the mirror of Zhang Shao's mother killing the chicken: belief precedes evidence, and is vindicated by action.
 
 [^suyun]: **"The living and the dead walk different roads" (死生异路).** Fan Shi's graveside line to the coffin — 死生异路，永从此辞 — is one of the most quoted farewells in Chinese letters, because it is at once the most affectionate and the least clingy thing a friend could say. He does not beg Zhang Shao's spirit to linger, does not try to keep him among the living; he acknowledges that the boundary is real, that death is a departure he cannot reverse — and he performs precisely the act, the burial, that completes the departure. In Latter Han mortuary custom, the friend's pulling of the guide-rope (执绋) and his overseeing of the grave-mound and grave-trees (the planting of pines and cypresses over a tomb was itself a rite) were not optional decencies; they were the acts by which a *sǐ yǒu* (死友, "dead-friend" or "friend proven by death") was constituted. A friend who wept but could not bury was a mourner; the friend who buried was the dead man's representative among the living.
-
-</details>
-
 ---
 
-## The Classical Chinese Text
+<details class="original-text">
+<summary>📜 Original Text in Classical Chinese · 文言原文（《搜神记》卷十一·范式张劭）</summary>
 
 > The original tale, as reconstructed in the surviving *Soushen Ji* (Gan Bao, c. 286–336). The text we have is a Ming-dynasty reconstruction of the partly-lost fourth-century collection, assembled from quotations in medieval encyclopedias; this entry survives in close parallel versions across multiple traditions. Public domain.
 
@@ -169,6 +163,7 @@ I have buried no one across a thousand *li*. But I have made the small versions 
 
 *Source: 《搜神记·卷十一·范式张劭》— 干宝 (c. 286–336)。公版文本。该篇与《后汉书·独行列传·范式传》互见（范晔，五世纪），史传另载式为陈平子护丧南归、式与张劭「死友」之名为后世「生死之交」「鸡黍之约」「素车白马」「范张鸡黍」等成语典故之祖。*
 
+</details>
 ---
 
 ## Translator's Note
