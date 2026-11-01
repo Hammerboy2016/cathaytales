@@ -1,6 +1,6 @@
 # GA4 Daily Report (auto-generated)
-# Generated: 2026-11-01 11:45:36 CST
-# Workflow run: 41270411912
+# Generated: 2026-11-01 11:47:39 CST
+# Workflow run: 41270555127
 # Source: .github/workflows/ga4-daily.yml
 # ---
 [window override] 2026-10-01 ~ 2026-10-31
@@ -238,6 +238,34 @@
   周四        61    76   122     22.7s  █████████████████████████
   周五        47    66    92     27.4s  ██████████████████
   周六        71    84   107     51.9s  █████████████████████
+
+🌐 每日 × 国家（bot 识别，2026-10-01 ~ 2026-10-31）
+------------------------------------------------------------
+  2026-10-07 | United States          users=   3 sess=  11 eng=  2
+  2026-10-08 | Singapore              users=   7 sess=   8 eng=  3
+  2026-10-09 | Singapore              users=   3 sess=   3 eng=  1
+  2026-10-10 | Singapore              users=   9 sess=  11 eng=  2
+  2026-10-11 | Singapore              users=   4 sess=   5 eng=  1
+  2026-10-11 | United States          users=   3 sess=   3 eng=  0
+  2026-10-14 | Singapore              users=   5 sess=   6 eng=  4
+  2026-10-15 | Singapore              users=   4 sess=   4 eng=  0
+  2026-10-17 | Singapore              users=   7 sess=   7 eng=  2
+  2026-10-17 | Indonesia              users=   3 sess=   3 eng=  3
+  2026-10-18 | Singapore              users=   3 sess=   3 eng=  1
+  2026-10-20 | United States          users=   7 sess=   8 eng=  0
+  2026-10-20 | Singapore              users=   4 sess=   4 eng=  0
+  2026-10-22 | United States          users=   5 sess=   7 eng=  2
+  2026-10-22 | Singapore              users=   4 sess=   5 eng=  0
+  2026-10-26 | Türkiye                users=   3 sess=   3 eng=  2
+  2026-10-28 | Singapore              users=  10 sess=  10 eng=  0
+  2026-10-28 | United States          users=   4 sess=   5 eng=  2
+  2026-10-29 | Singapore              users=  22 sess=  22 eng=  0
+  2026-10-29 | China                  users=   4 sess=   4 eng=  2
+  2026-10-29 | United States          users=   3 sess=   6 eng=  3
+  2026-10-30 | Singapore              users=  19 sess=  24 eng=  3
+  2026-10-30 | Türkiye                users=   3 sess=   6 eng=  4
+  2026-10-30 | United States          users=   3 sess=   5 eng=  1
+  2026-10-31 | Singapore              users=  38 sess=  41 eng=  0
 
 🎯 增长信号分析（旺财自动总结）
 ----------------------------------------------------------------------
