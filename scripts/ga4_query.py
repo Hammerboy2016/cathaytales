@@ -434,6 +434,35 @@ def report_hourly(client, start, end):
         print(f"  {h:>4} {bj:>4}:00 {u:>5} {s:>5} {pv:>4}  {bar}")
 
 
+def report_daily_country(client, start, end, limit=200):
+    """每日 × 国家（bot 识别用：识别单国 direct 异常放量）"""
+    res = query(
+        client,
+        dimensions=["date", "country"],
+        metrics=["activeUsers", "sessions", "engagedSessions"],
+        start=start,
+        end=end,
+        limit=limit,
+        order_by_metric="activeUsers",
+    )
+    print(f"\n🌐 每日 × 国家（bot 识别，{start} ~ {end}）")
+    print("-" * 60)
+    if not res.rows:
+        print("  无数据")
+        return
+    rows = sorted(
+        res.rows,
+        key=lambda r: (r.dimension_values[0].value, -int(r.metric_values[0].value)),
+    )
+    for r in rows:
+        d = r.dimension_values[0].value
+        c = r.dimension_values[1].value
+        u, s, e = [v.value for v in r.metric_values]
+        if int(u) < 3:
+            continue
+        print(f"  {d[:4]}-{d[4:6]}-{d[6:]} | {c:<22} users={fmt_num(u):>4} sess={fmt_num(s):>4} eng={fmt_num(e):>3}")
+
+
 def report_weekday(client, start, end):
     """周几流量分布"""
     res = query(
@@ -603,6 +632,9 @@ def main():
         report_hourly(client, start, end)
     if args.report in ("weekday", "all"):
         report_weekday(client, start, end)
+
+    if args.report in ("all", "dailycountry"):
+        report_daily_country(client, start, end)
     if args.report in ("brief", "signal", "all"):
         report_growth_signal(client, start, end)
 
