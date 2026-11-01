@@ -557,6 +557,18 @@ def main():
         end = args.end or today.strftime("%Y-%m-%d")
         start = (today - timedelta(days=args.days - 1)).strftime("%Y-%m-%d")
 
+    # 可选窗口覆盖：reports/.ga4_window 内容为 "YYYY-MM-DD,YYYY-MM-DD"
+    _win = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "reports", ".ga4_window")
+    if os.path.exists(_win):
+        try:
+            with open(_win) as fh:
+                _parts = [p.strip() for p in fh.read().strip().split(",") if p.strip()]
+            if len(_parts) == 2:
+                start, end = _parts[0], _parts[1]
+                print(f"[window override] {start} ~ {end}")
+        except Exception as _e:
+            print(f"[window override failed] {_e}", file=sys.stderr)
+
     print(f"=" * 60)
     print(f"  Cathay Tales GA4 数据简报")
     print(f"  Property ID: {PROPERTY_ID}")
